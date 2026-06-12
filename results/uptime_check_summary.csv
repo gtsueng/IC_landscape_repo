@@ -1,0 +1,30 @@
+Name,URL,Status Page Links,Health Endpoints,Monitoring Headers,Status Subdomain,Any Detected
+HEAL Data Platform,https://healdata.org/landing,False,False,False,False,False
+Cancer Research Data Commons,https://datacommons.cancer.gov/,False,False,False,False,False
+dkNET,https://dknet.org/,False,False,False,False,False
+NAHDAP,https://www.icpsr.umich.edu/sites/nahdap/home,False,False,False,False,False
+NICHD DASH,https://dash.nichd.nih.gov/,False,False,False,False,False
+NIDA Data Share,https://datashare.nida.nih.gov/data,False,False,False,False,False
+NIDDK Central Repository,https://repository.niddk.nih.gov/home,False,True,False,False,True
+NIMH Data Archive,https://nda.nih.gov/,False,True,False,False,True
+NLM Data Discovery,https://datadiscovery.nlm.nih.gov/,False,False,False,False,False
+AnVIL (workspace),https://anvilproject.org/,False,False,False,False,False
+4D Nucleome,https://www.4dnucleome.org/,False,False,False,False,False
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,False,True,False,False,True
+DataMed COVID-19,https://www.covid19dataindex.org/,False,True,False,False,True
+DataMed/BioCaddie,https://datamed.org/,False,False,False,False,False
+ExRNA,https://exrna.org/,False,True,True,False,True
+Gabriella Miller Kids First,https://kidsfirstdrc.org/,False,True,False,False,True
+HuBMAP,https://portal.hubmapconsortium.org/,False,False,False,False,False
+Human Microbiome Project,https://www.hmpdacc.org/,False,False,False,False,False
+IDG,https://druggablegenome.net,False,False,False,False,False
+LINCS,https://lincsproject.org/,False,True,False,False,True
+MoTrPAC Data Hub,https://motrpac-data.org/,False,True,False,False,True
+NIH Cloud Platform Interoperability Effort,https://datascience.nih.gov/nih-cloud-platform-interoperability-effort,False,False,False,False,False
+SPARC,https://sparc.science/,False,False,False,True,True
+Biodata Catalyst (workspace),https://biodatacatalyst.nhlbi.nih.gov/,False,False,False,False,False
+cdRNS (Common Data Repository for Nursing Science),https://cdrns.nih.gov/,False,False,False,False,False
+MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,False,True,False,False,True
+NEI Data Commons,neidatacommons.nei.nih.gov,False,False,False,False,False
+FaceBase,https://www.facebase.org/,False,False,False,False,False
+NLM Dataset Catalog,https://datasetcatalog.nlm.nih.gov/,False,False,False,False,False
