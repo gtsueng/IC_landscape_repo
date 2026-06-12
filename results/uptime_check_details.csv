@@ -1,149 +1,149 @@
-Name,URL,Check Type,Finding
-NIDDK Central Repository,https://repository.niddk.nih.gov/home,Health Endpoints,Possible health endpoint: /health (200 OK) — Healthy
+Name,URL,Check Type,Finding,Detected URL
+NIDDK Central Repository,https://repository.niddk.nih.gov/home,Health Endpoints,Possible health endpoint: /health (200 OK) — Healthy,https://repository.niddk.nih.gov/health
 NIMH Data Archive,https://nda.nih.gov/,Health Endpoints,"Possible health endpoint: /status (200 OK) — <!DOCTYPE html>
 <html lang=""en"" data-beasties-container>
   <head>
-    <meta char"
+    <meta char",https://nda.nih.gov/status
 NIMH Data Archive,https://nda.nih.gov/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!DOCTYPE html>
 <html lang=""en"" data-beasties-container>
   <head>
-    <meta char"
+    <meta char",https://nda.nih.gov/health
 NIMH Data Archive,https://nda.nih.gov/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!DOCTYPE html>
 <html lang=""en"" data-beasties-container>
   <head>
-    <meta char"
+    <meta char",https://nda.nih.gov/healthcheck
 NIMH Data Archive,https://nda.nih.gov/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!DOCTYPE html>
 <html lang=""en"" data-beasties-container>
   <head>
-    <meta char"
+    <meta char",https://nda.nih.gov/_health
 NIMH Data Archive,https://nda.nih.gov/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!DOCTYPE html>
 <html lang=""en"" data-beasties-container>
   <head>
-    <meta char"
+    <meta char",https://nda.nih.gov/heartbeat
 NIMH Data Archive,https://nda.nih.gov/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!DOCTYPE html>
 <html lang=""en"" data-beasties-container>
   <head>
-    <meta char"
+    <meta char",https://nda.nih.gov/ping
 NIMH Data Archive,https://nda.nih.gov/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!DOCTYPE html>
 <html lang=""en"" data-beasties-container>
   <head>
-    <meta char"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /status (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /api/status (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /api/health (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /api/v1/status (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
-Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport"
+    <meta char",https://nda.nih.gov/up
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /status (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/status
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/health
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/healthcheck
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /api/status (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/api/status
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /api/health (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/api/health
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /api/v1/status (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/api/v1/status
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/_health
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/heartbeat
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/ping
+Common Fund Data Ecosystem Portal,https://app.nih-cfde.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!DOCTYPE html><html lang=""en""><head><meta charSet=""utf-8""/><meta name=""viewport",https://app.nih-cfde.org/up
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /status (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/status
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/health
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/healthcheck
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /api/status (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/api/status
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /api/health (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/api/health
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /api/v1/status (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/api/v1/status
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/_health
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/heartbeat
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/ping
 DataMed COVID-19,https://www.covid19dataindex.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!doctype html>
 <html lang=""en"">
   <head>
     <meta charset=""UTF-8"" />
-    <meta"
+    <meta",https://www.covid19dataindex.org/up
 ExRNA,https://exrna.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!DOCTYPE html>
 <html dir=""ltr"" lang=""en-US""
 	prefix=""og: https://ogp.me/ns#"" >
-"
-ExRNA,https://exrna.org/,Monitoring Headers,Header: X-Pingback: https://exrna.org/xmlrpc.php
+",https://exrna.org/up
+ExRNA,https://exrna.org/,Monitoring Headers,Header: X-Pingback: https://exrna.org/xmlrpc.php,https://exrna.org/
 Gabriella Miller Kids First,https://kidsfirstdrc.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!doctype html>
-<html dir=""ltr"" lang=""en-US"" prefix=""og: https://ogp.me/ns#"" cla"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /status (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /api/status (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /api/health (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /api/v1/status (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
-LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars"
+<html dir=""ltr"" lang=""en-US"" prefix=""og: https://ogp.me/ns#"" cla",https://kidsfirstdrc.org/up
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /status (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/status
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/health
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/healthcheck
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /api/status (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/api/status
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /api/health (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/api/health
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /api/v1/status (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/api/v1/status
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/_health
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/heartbeat
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/ping
+LINCS,https://lincsproject.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!doctype html><html lang=""en""><head><title>NIH LINCS Program</title><meta chars",https://lincsproject.org/up
 MoTrPAC Data Hub,https://motrpac-data.org/,Health Endpoints,"Possible health endpoint: /status (200 OK) — <!DOCTYPE html>
 <html lang=""en"">
 <head>
     <meta charset=""utf-8"">
-    <link rel"
+    <link rel",https://motrpac-data.org/status
 MoTrPAC Data Hub,https://motrpac-data.org/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!DOCTYPE html>
 <html lang=""en"">
 <head>
     <meta charset=""utf-8"">
-    <link rel"
+    <link rel",https://motrpac-data.org/health
 MoTrPAC Data Hub,https://motrpac-data.org/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!DOCTYPE html>
 <html lang=""en"">
 <head>
     <meta charset=""utf-8"">
-    <link rel"
+    <link rel",https://motrpac-data.org/healthcheck
 MoTrPAC Data Hub,https://motrpac-data.org/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!DOCTYPE html>
 <html lang=""en"">
 <head>
     <meta charset=""utf-8"">
-    <link rel"
+    <link rel",https://motrpac-data.org/_health
 MoTrPAC Data Hub,https://motrpac-data.org/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!DOCTYPE html>
 <html lang=""en"">
 <head>
     <meta charset=""utf-8"">
-    <link rel"
+    <link rel",https://motrpac-data.org/heartbeat
 MoTrPAC Data Hub,https://motrpac-data.org/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!DOCTYPE html>
 <html lang=""en"">
 <head>
     <meta charset=""utf-8"">
-    <link rel"
+    <link rel",https://motrpac-data.org/ping
 MoTrPAC Data Hub,https://motrpac-data.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!DOCTYPE html>
 <html lang=""en"">
 <head>
     <meta charset=""utf-8"">
-    <link rel"
-SPARC,https://sparc.science/,Status Subdomain,Status subdomain exists: https://status.sparc.science (200 OK)
-MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te"
-MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te"
-MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te"
-MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te"
-MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te"
-MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te"
+    <link rel",https://motrpac-data.org/up
+SPARC,https://sparc.science/,Status Subdomain,Status subdomain exists (200 OK),https://status.sparc.science
+MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /health (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te",https://data.midrc.org/health
+MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /healthcheck (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te",https://data.midrc.org/healthcheck
+MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /_health (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te",https://data.midrc.org/_health
+MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /heartbeat (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te",https://data.midrc.org/heartbeat
+MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /ping (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te",https://data.midrc.org/ping
+MIDRC (Medical Imaging and Data Resource Center),https://data.midrc.org/,Health Endpoints,"Possible health endpoint: /up (200 OK) — <!doctype html><html lang=""en""><head><meta http-equiv=""Content-Type"" content=""te",https://data.midrc.org/up
