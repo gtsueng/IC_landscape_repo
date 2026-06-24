@@ -1,0 +1,350 @@
+PMID- 40089066
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250809
+LR  - 20250814
+IS  - 1535-9484 (Electronic)
+IS  - 1535-9476 (Print)
+IS  - 1535-9476 (Linking)
+VI  - 24
+IP  - 7
+DP  - 2025 Jul
+TI  - Comprehensive Proteomics Metadata and Integrative Web Portals Facilitate Sharing 
+      and Integration of LINCS Multiomics Data.
+PG  - 100947
+LID - S1535-9476(25)00045-3 [pii]
+LID - 10.1016/j.mcpro.2025.100947 [doi]
+LID - 100947
+AB  - The Library of Integrated Network-based Cellular Signatures (LINCS), an NIH 
+      Common Fund program, has cataloged and analyzed cellular function and molecular 
+      activity profiles in response to >80,000 perturbing agents that are potentially 
+      disruptive to cells. Because of the importance of proteins and their 
+      modifications to the response of specific cellular perturbations, four of the six 
+      LINCS centers have included significant proteomics efforts in the 
+      characterization of the resulting phenotype. This manuscript aims to describe 
+      this effort and the data harmonization and integration of the LINCS proteomics 
+      data discussed in recent LINCS papers.
+CI  - Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Vidović, Dušica
+AU  - Vidović D
+AD  - BD2K-LINCS DCIC, Department of Molecular and Cellular Pharmacology, University of 
+      Miami, Miami, Florida, USA; Sylvester Comprehensive Cancer Center, Miller School 
+      of Medicine, University of Miami, Miami, Florida, USA. Electronic address: 
+      dvidovic@med.miami.edu.
+FAU - Shamsaei, Behrouz
+AU  - Shamsaei B
+AD  - BD2K-LINCS DCIC, Department of Environmental and Public Health Sciences, 
+      University of Cincinnati, Cincinnati, Ohio, USA.
+FAU - Schürer, Stephan C
+AU  - Schürer SC
+AD  - BD2K-LINCS DCIC, Department of Molecular and Cellular Pharmacology, University of 
+      Miami, Miami, Florida, USA; Sylvester Comprehensive Cancer Center, Miller School 
+      of Medicine, University of Miami, Miami, Florida, USA; BD2K-LINCS DCIC, Frost 
+      Institute for Data Science & Computing, University of Miami, Miami, Florida, USA.
+FAU - Kogan, Phillip
+AU  - Kogan P
+AD  - BD2K-LINCS DCIC, Department of Environmental and Public Health Sciences, 
+      University of Cincinnati, Cincinnati, Ohio, USA.
+FAU - Chojnacki, Szymon
+AU  - Chojnacki S
+AD  - BD2K-LINCS DCIC, Department of Environmental and Public Health Sciences, 
+      University of Cincinnati, Cincinnati, Ohio, USA.
+FAU - Kouril, Michal
+AU  - Kouril M
+AD  - BD2K-LINCS DCIC, Department of Environmental and Public Health Sciences, 
+      University of Cincinnati, Cincinnati, Ohio, USA.
+FAU - Medvedovic, Mario
+AU  - Medvedovic M
+AD  - BD2K-LINCS DCIC, Department of Environmental and Public Health Sciences, 
+      University of Cincinnati, Cincinnati, Ohio, USA.
+FAU - Niu, Wen
+AU  - Niu W
+AD  - BD2K-LINCS DCIC, Department of Environmental and Public Health Sciences, 
+      University of Cincinnati, Cincinnati, Ohio, USA.
+FAU - Azeloglu, Evren U
+AU  - Azeloglu EU
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Birtwistle, Marc R
+AU  - Birtwistle MR
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Chen, Yibang
+AU  - Chen Y
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Chen, Tong
+AU  - Chen T
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA; DToxS, Center for Advanced Proteomics Research, 
+      Rutgers University New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Hansen, Jens
+AU  - Hansen J
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Hu, Bin
+AU  - Hu B
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Iyengar, Ravi
+AU  - Iyengar R
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Jayaraman, Gomathi
+AU  - Jayaraman G
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Li, Hong
+AU  - Li H
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA; DToxS, Center for Advanced Proteomics Research, 
+      Rutgers University New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Liu, Tong
+AU  - Liu T
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA; DToxS, Center for Advanced Proteomics Research, 
+      Rutgers University New Jersey Medical School, Newark, New Jersey, USA.
+FAU - Sobie, Eric A
+AU  - Sobie EA
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Xiong, Yuguang
+AU  - Xiong Y
+AD  - DToxS, Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, New York, USA.
+FAU - Berberich, Matthew J
+AU  - Berberich MJ
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Bradshaw, Gary
+AU  - Bradshaw G
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Chung, Mirra
+AU  - Chung M
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Everley, Robert A
+AU  - Everley RA
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Gaudio, Ben
+AU  - Gaudio B
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Hafner, Marc
+AU  - Hafner M
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Kalocsay, Marian
+AU  - Kalocsay M
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Mills, Caitlin E
+AU  - Mills CE
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Nariya, Maulik K
+AU  - Nariya MK
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Sorger, Peter K
+AU  - Sorger PK
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Subramanian, Kartik
+AU  - Subramanian K
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Victor, Chiara
+AU  - Victor C
+AD  - HMS LINCS Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Banuelos, Maria
+AU  - Banuelos M
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Dardov, Victoria
+AU  - Dardov V
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Holewinski, Ronald
+AU  - Holewinski R
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Manalo, Danica-Mae
+AU  - Manalo DM
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Mandefro, Berhan
+AU  - Mandefro B
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Matlock, Andrea D
+AU  - Matlock AD
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Ornelas, Loren
+AU  - Ornelas L
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Sareen, Dhruv
+AU  - Sareen D
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Svendsen, Clive N
+AU  - Svendsen CN
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Vaibhav, Vineet
+AU  - Vaibhav V
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Van Eyk, Jennifer E
+AU  - Van Eyk JE
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Venkatraman, Vidya
+AU  - Venkatraman V
+AD  - NeuroLINCS, Cedars-Sinai Medical Center, Los Angeles, California, USA.
+FAU - Finkbiener, Steve
+AU  - Finkbiener S
+AD  - NeuroLINCS, Gladstone Institute of Neurological Disease and the Departments of 
+      Neurology and Physiology, University of California San Francisco, San Francisco, 
+      California, USA.
+FAU - Fraenkel, Ernest
+AU  - Fraenkel E
+AD  - NeuroLINCS, Department of Biological Engineering, MIT, Cambridge, Massachusetts, 
+      USA.
+FAU - Rothstein, Jeffrey
+AU  - Rothstein J
+AD  - NeuroLINCS, Department of Neuroscience, Johns Hopkins University, Baltimore, 
+      Maryland, USA.
+FAU - Thompson, Leslie
+AU  - Thompson L
+AD  - NeuroLINCS, Departments of Psychiatry and Human Behavior and Neurobiology and 
+      Behavior, University of California Irvine, Irvine, California, USA.
+FAU - Asiedu, Jacob
+AU  - Asiedu J
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Carr, Steven A
+AU  - Carr SA
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Christianson, Karen E
+AU  - Christianson KE
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Davison, Desiree
+AU  - Davison D
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Dele-Oni, Deborah O
+AU  - Dele-Oni DO
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - DeRuff, Katherine C
+AU  - DeRuff KC
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Egri, Shawn B
+AU  - Egri SB
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Jacome, Alvaro Sebastian Vaca
+AU  - Jacome ASV
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Jaffe, Jacob D
+AU  - Jaffe JD
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Lam, Daniel
+AU  - Lam D
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Litichevskiy, Lev
+AU  - Litichevskiy L
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Lu, Xiaodong
+AU  - Lu X
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Mullahoo, James
+AU  - Mullahoo J
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Officer, Adam
+AU  - Officer A
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Papanastasiou, Malvina
+AU  - Papanastasiou M
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Peckner, Ryan
+AU  - Peckner R
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Toder, Caidin
+AU  - Toder C
+AD  - PCCSE, The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA.
+FAU - Blanchard, Joel
+AU  - Blanchard J
+AD  - PCCSE, Picower Institute for Learning and Memory, Department of Brain and 
+      Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+      Massachusetts, USA.
+FAU - Bula, Michael
+AU  - Bula M
+AD  - PCCSE, Picower Institute for Learning and Memory, Department of Brain and 
+      Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+      Massachusetts, USA.
+FAU - Ko, Tak
+AU  - Ko T
+AD  - PCCSE, Picower Institute for Learning and Memory, Department of Brain and 
+      Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+      Massachusetts, USA.
+FAU - Tsai, Li-Huei
+AU  - Tsai LH
+AD  - PCCSE, Picower Institute for Learning and Memory, Department of Brain and 
+      Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+      Massachusetts, USA.
+FAU - Young, Jennie Z
+AU  - Young JZ
+AD  - PCCSE, Picower Institute for Learning and Memory, Department of Brain and 
+      Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+      Massachusetts, USA.
+FAU - Sharma, Vagisha
+AU  - Sharma V
+AD  - PCCSE, Department of Genome Sciences, University of Washington, Seattle, 
+      Washington, USA.
+FAU - Pillai, Ajay
+AU  - Pillai A
+AD  - NIH, Bethesda, Maryland, USA.
+FAU - Meller, Jarek
+AU  - Meller J
+AD  - BD2K-LINCS DCIC, Department of Environmental and Public Health Sciences, 
+      University of Cincinnati, Cincinnati, Ohio, USA. Electronic address: 
+      maccoss@uw.edu.
+FAU - MacCoss, Michael J
+AU  - MacCoss MJ
+AD  - PCCSE, Department of Genome Sciences, University of Washington, Seattle, 
+      Washington, USA. Electronic address: mellerj@ucmail.uc.edu.
+LA  - eng
+GR  - U54 HL127624/HL/NHLBI NIH HHS/United States
+GR  - U54 HG008097/HG/NHGRI NIH HHS/United States
+GR  - U24 TR002278/TR/NCATS NIH HHS/United States
+GR  - U24 HG012674/HG/NHGRI NIH HHS/United States
+GR  - U54 NS091046/NS/NINDS NIH HHS/United States
+GR  - U54 HG008098/HG/NHGRI NIH HHS/United States
+GR  - S10 OD025047/OD/NIH HHS/United States
+GR  - U01 LM012630/LM/NLM NIH HHS/United States
+GR  - U54 HL127365/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+DEP - 20250313
+PL  - United States
+TA  - Mol Cell Proteomics
+JT  - Molecular & cellular proteomics : MCP
+JID - 101125647
+SB  - IM
+EIN - Mol Cell Proteomics. 2025 Jul;24(7):100995. doi: 10.1016/j.mcpro.2025.100995. 
+      PMID: 40783300
+MH  - *Proteomics/methods
+MH  - Humans
+MH  - *Metadata
+MH  - *Internet
+MH  - *Information Dissemination
+MH  - *Databases, Protein
+MH  - Multiomics
+PMC - PMC12332945
+OTO - NOTNLM
+OT  - FAIRness
+OT  - LINCS data portal
+OT  - LINCS proteomics metadata
+OT  - P100 data
+OT  - metadata harmonization
+OT  - piNET
+COIS- Conflict of Interest The authors declare the following financial 
+      interests/personal relationships which may be considered as potential competing 
+      interests.: R.L.G. is on the advisory board of ProtiFi, LLC, and receives no 
+      compensation of any kind.
+EDAT- 2025/03/16 12:44
+MHDA- 2025/08/10 06:16
+PMCR- 2025/03/13
+CRDT- 2025/03/15 20:35
+PHST- 2024/07/09 00:00 [received]
+PHST- 2025/02/14 00:00 [revised]
+PHST- 2025/03/11 00:00 [accepted]
+PHST- 2025/08/10 06:16 [medline]
+PHST- 2025/03/16 12:44 [pubmed]
+PHST- 2025/03/15 20:35 [entrez]
+PHST- 2025/03/13 00:00 [pmc-release]
+AID - S1535-9476(25)00045-3 [pii]
+AID - 100947 [pii]
+AID - 10.1016/j.mcpro.2025.100947 [doi]
+PST - ppublish
+SO  - Mol Cell Proteomics. 2025 Jul;24(7):100947. doi: 10.1016/j.mcpro.2025.100947. 
+      Epub 2025 Mar 13.

@@ -1,0 +1,159 @@
+PMID- 36823331
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230413
+LR  - 20240316
+IS  - 1548-7105 (Electronic)
+IS  - 1548-7091 (Print)
+IS  - 1548-7091 (Linking)
+VI  - 20
+IP  - 4
+DP  - 2023 Apr
+TI  - Outbreak.info Research Library: a standardized, searchable platform to discover 
+      and explore COVID-19 resources.
+PG  - 536-540
+LID - 10.1038/s41592-023-01770-w [doi]
+AB  - Outbreak.info Research Library is a standardized, searchable interface of 
+      coronavirus disease 2019 (COVID-19) and severe acute respiratory syndrome 
+      coronavirus 2 (SARS-CoV-2) publications, clinical trials, datasets, protocols and 
+      other resources, built with a reusable framework. We developed a rigorous schema 
+      to enforce consistency across different sources and resource types and linked 
+      related resources. Researchers can quickly search the latest research across data 
+      repositories, regardless of resource type or repository location, via a search 
+      interface, public application programming interface (API) and R package.
+CI  - © 2023. The Author(s), under exclusive licence to Springer Nature America, Inc.
+FAU - Tsueng, Ginger
+AU  - Tsueng G
+AUID- ORCID: 0000-0001-9536-9115
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA. gtsueng@scripps.edu.
+FAU - Mullen, Julia L
+AU  - Mullen JL
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+FAU - Alkuzweny, Manar
+AU  - Alkuzweny M
+AUID- ORCID: 0000-0002-6069-5778
+AD  - Department of Biological Sciences, University of Notre Dame, Notre Dame, IN, USA.
+AD  - Department of Immunology and Microbiology, the Scripps Research Institute, La 
+      Jolla, CA, USA.
+FAU - Cano, Marco
+AU  - Cano M
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+FAU - Rush, Benjamin
+AU  - Rush B
+AD  - Ocuvera, Lincoln, NE, USA.
+FAU - Haag, Emily
+AU  - Haag E
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+FAU - Lin, Jason
+AU  - Lin J
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+FAU - Welzel, Dylan J
+AU  - Welzel DJ
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+FAU - Zhou, Xinghua
+AU  - Zhou X
+AUID- ORCID: 0000-0002-9119-3906
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+FAU - Qian, Zhongchao
+AU  - Qian Z
+AUID- ORCID: 0000-0001-8334-9467
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+FAU - Latif, Alaa Abdel
+AU  - Latif AA
+AUID- ORCID: 0000-0002-3713-8420
+AD  - Department of Immunology and Microbiology, the Scripps Research Institute, La 
+      Jolla, CA, USA.
+FAU - Hufbauer, Emory
+AU  - Hufbauer E
+AD  - Department of Immunology and Microbiology, the Scripps Research Institute, La 
+      Jolla, CA, USA.
+FAU - Zeller, Mark
+AU  - Zeller M
+AD  - Department of Immunology and Microbiology, the Scripps Research Institute, La 
+      Jolla, CA, USA.
+FAU - Andersen, Kristian G
+AU  - Andersen KG
+AD  - Department of Immunology and Microbiology, the Scripps Research Institute, La 
+      Jolla, CA, USA.
+AD  - Scripps Research Translational Institute, La Jolla, CA, USA.
+FAU - Wu, Chunlei
+AU  - Wu C
+AUID- ORCID: 0000-0002-2629-6124
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+AD  - Scripps Research Translational Institute, La Jolla, CA, USA.
+AD  - Department of Molecular Medicine, the Scripps Research Institute, La Jolla, CA, 
+      USA.
+FAU - Su, Andrew I
+AU  - Su AI
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA.
+AD  - Scripps Research Translational Institute, La Jolla, CA, USA.
+AD  - Department of Molecular Medicine, the Scripps Research Institute, La Jolla, CA, 
+      USA.
+FAU - Gangavarapu, Karthik
+AU  - Gangavarapu K
+AUID- ORCID: 0000-0002-5027-3440
+AD  - Department of Immunology and Microbiology, the Scripps Research Institute, La 
+      Jolla, CA, USA.
+AD  - Department of Human Genetics, David Geffen School of Medicine, University of 
+      California Los Angeles, Los Angeles, CA, USA.
+FAU - Hughes, Laura D
+AU  - Hughes LD
+AUID- ORCID: 0000-0003-1718-6676
+AD  - Department of Integrative, Structural and Computational Biology, the Scripps 
+      Research Institute, La Jolla, CA, USA. lhughes@scripps.edu.
+LA  - eng
+GR  - 75N91019D00024/CA/NCI NIH HHS/United States
+GR  - U24 TR002306/TR/NCATS NIH HHS/United States
+GR  - U19 AI135995/AI/NIAID NIH HHS/United States
+GR  - 75D30120C09795/CC/CDC HHS/United States
+GR  - U24 LM013755/LM/NLM NIH HHS/United States
+GR  - U19 AI135995-03S2/AI/NIAID NIH HHS/United States
+GR  - R01 GM083924/GM/NIGMS NIH HHS/United States
+GR  - R01GM083924/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20230223
+PL  - United States
+TA  - Nat Methods
+JT  - Nature methods
+JID - 101215604
+SB  - IM
+UOF - bioRxiv. 2022 Dec 07:2022.01.20.477133. doi: 10.1101/2022.01.20.477133. PMID: 
+      35132411
+CIN - Nat Methods. 2023 Apr;20(4):489-490. doi: 10.1038/s41592-023-01833-y. PMID: 
+      36922622
+MH  - Humans
+MH  - *COVID-19
+MH  - SARS-CoV-2
+MH  - Disease Outbreaks
+PMC - PMC10393269
+MID - NIHMS1878320
+COIS- Competing interests K.G.A. has received consulting fees and/or compensated expert 
+      testimony on SARS-CoV-2 and the COVID-19 pandemic. The remaining authors declare 
+      no competing interests.
+EDAT- 2023/02/25 06:00
+MHDA- 2023/04/13 06:42
+PMCR- 2023/10/01
+CRDT- 2023/02/24 00:09
+PHST- 2022/06/03 00:00 [received]
+PHST- 2023/01/17 00:00 [accepted]
+PHST- 2023/04/13 06:42 [medline]
+PHST- 2023/02/25 06:00 [pubmed]
+PHST- 2023/02/24 00:09 [entrez]
+PHST- 2023/10/01 00:00 [pmc-release]
+AID - 10.1038/s41592-023-01770-w [pii]
+AID - 10.1038/s41592-023-01770-w [doi]
+PST - ppublish
+SO  - Nat Methods. 2023 Apr;20(4):536-540. doi: 10.1038/s41592-023-01770-w. Epub 2023 
+      Feb 23.

@@ -1,0 +1,132 @@
+PMID- 41273456
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251122
+LR  - 20251125
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Print)
+IS  - 0148-5598 (Linking)
+VI  - 49
+IP  - 1
+DP  - 2025 Nov 22
+TI  - Infectious, Allergic, and Immune-Mediated Disease Data Resources: a Landscape 
+      Overview and Subset Assessment.
+PG  - 169
+LID - 10.1007/s10916-025-02302-z [doi]
+LID - 169
+AB  - The Data Management and Sharing (DMS) Policy issued by the National Institutes of 
+      Health (NIH) requires most grant applications to include a DMS Plan, detailing 
+      data type(s), resources (e.g., data repositories, knowledgebases, portals) for 
+      data sharing, and a dissemination timeline. Researchers face challenges 
+      navigating the complex data landscape to identify data resources to fulfill the 
+      DMS Policy requirements. The National Institute of Allergy and Infectious 
+      Diseases (NIAID) aims to support researchers in preparing DMS Plans for 
+      applications that align with its mission areas. To support depositing and 
+      accessing infectious, allergic, and immune-mediated disease (IID) data, we 
+      compiled a list of IID data resources. The list was developed by reviewing online 
+      resources and collecting recommendations from subject matter experts. 
+      Additionally, we developed a questionnaire based on NIH recommendations and 
+      community best practices to characterize a subset of IID data resources that 
+      support data submissions. We identified 303 data resources, 58 of which focused 
+      on IID data. Most were categorized as General Infectious Diseases and Pathogens 
+      (n = 29, 50%), followed by Respiratory Pathogens (n = 10, 17%). Scientific 
+      content included "omics" (n = 37, 64%), clinical (n = 21, 36%), and biological 
+      assay data (n = 20, 34%). Open access data was common (n = 39, 67%), with fewer 
+      offering controlled access (n = 20, 34%) or required registration (n = 4, 7%). 
+      Among 19 resources accepting data submissions, eight (42%) required registration, 
+      seven (37%) needed additional approvals, and four (21%) required network 
+      membership. Fifteen (79%) resources provided metadata access, with 11 (58%) 
+      assigning persistent identifiers. Twelve (63%) offered APIs, 13 (68%) provided 
+      analytical tools, and 10 (53%) featured workspaces. Risk management documentation 
+      was available for 10 (53%), and five (26%) provided data retention policies. We 
+      assessed 58 data resources in the IID domain, identifying 19 that support data 
+      submission and are therefore suitable for NIH DMS Plans. Our findings reveal both 
+      the breadth of available resources, and the challenges related to inconsistent 
+      data submission requirements and data management practices. Enhancing 
+      transparency and standardization across data resources will support more 
+      effective data sharing, enhance findability, and aid researchers in selecting 
+      appropriate resources for DMS Plans and secondary data analysis.
+CI  - © 2025. The Author(s).
+FAU - Pokutnaya, Darya
+AU  - Pokutnaya D
+AUID- ORCID: 0000-0003-4699-8411
+AD  - Office of Data Science and Emerging Technologies, National Institute of Allergy 
+      and Infectious Diseases, Rockville, MD, United States of America. 
+      dasha.pokutnaya@nih.gov.
+FAU - Mayer, Lisa M
+AU  - Mayer LM
+AUID- ORCID: 0000-0001-8499-3043
+AD  - Office of Data Science and Emerging Technologies, National Institute of Allergy 
+      and Infectious Diseases, Rockville, MD, United States of America.
+FAU - Foote, Sydney
+AU  - Foote S
+AUID- ORCID: 0000-0002-2351-6910
+AD  - Office of Data Science and Emerging Technologies, National Institute of Allergy 
+      and Infectious Diseases, Rockville, MD, United States of America.
+FAU - Hartwick, Meghan
+AU  - Hartwick M
+AUID- ORCID: 0000-0003-0915-4172
+AD  - Office of Data Science and Emerging Technologies, National Institute of Allergy 
+      and Infectious Diseases, Rockville, MD, United States of America.
+FAU - Mazrouee, Sepideh
+AU  - Mazrouee S
+AUID- ORCID: 0000-0002-2055-5666
+AD  - Office of Data Science and Emerging Technologies, National Institute of Allergy 
+      and Infectious Diseases, Rockville, MD, United States of America.
+AD  - Office of the Director, National Institute of Health, Bethesda, MD, United States 
+      of America.
+FAU - Van Panhuis, Willem G
+AU  - Van Panhuis WG
+AUID- ORCID: 0000-0002-7278-9982
+AD  - Office of Data Science and Emerging Technologies, National Institute of Allergy 
+      and Infectious Diseases, Rockville, MD, United States of America.
+FAU - Shabman, Reed
+AU  - Shabman R
+AUID- ORCID: 0000-0003-3272-3484
+AD  - Office of Data Science and Emerging Technologies, National Institute of Allergy 
+      and Infectious Diseases, Rockville, MD, United States of America.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20251122
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - Humans
+MH  - United States
+MH  - *Hypersensitivity
+MH  - National Institute of Allergy and Infectious Diseases (U.S.)
+MH  - *Information Dissemination/methods
+MH  - *Communicable Diseases
+MH  - *Immune System Diseases
+MH  - National Institutes of Health (U.S.)
+MH  - *Data Management
+PMC - PMC12640313
+OTO - NOTNLM
+OT  - DMS plan
+OT  - Data management
+OT  - Data repositories
+OT  - Data sharing
+OT  - FAIR principles
+OT  - Infectious disease
+OT  - NIAID
+COIS- Declarations. Ethics Approval and Consent to Participate: Not applicable. Consent 
+      for Publication: Not applicable. Clinical trial number: Not applicable. Competing 
+      interests: The authors declare no competing interests.
+EDAT- 2025/11/22 16:37
+MHDA- 2025/11/22 16:38
+PMCR- 2025/11/22
+CRDT- 2025/11/22 11:17
+PHST- 2025/06/06 00:00 [received]
+PHST- 2025/11/09 00:00 [accepted]
+PHST- 2025/11/22 16:38 [medline]
+PHST- 2025/11/22 16:37 [pubmed]
+PHST- 2025/11/22 11:17 [entrez]
+PHST- 2025/11/22 00:00 [pmc-release]
+AID - 10.1007/s10916-025-02302-z [pii]
+AID - 2302 [pii]
+AID - 10.1007/s10916-025-02302-z [doi]
+PST - epublish
+SO  - J Med Syst. 2025 Nov 22;49(1):169. doi: 10.1007/s10916-025-02302-z.

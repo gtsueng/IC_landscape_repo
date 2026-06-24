@@ -1,0 +1,150 @@
+PMID- 35199087
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240912
+IS  - 2666-979X (Electronic)
+IS  - 2666-979X (Linking)
+VI  - 2
+IP  - 1
+DP  - 2022 Jan 12
+TI  - Inverting the model of genomics data sharing with the NHGRI Genomic Data Science 
+      Analysis, Visualization, and Informatics Lab-space.
+LID - 100085 [pii]
+LID - 10.1016/j.xgen.2021.100085 [doi]
+AB  - The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space 
+      (AnVIL; https://anvilproject.org) was developed to address a widespread community 
+      need for a unified computing environment for genomics data storage, management, 
+      and analysis. In this perspective, we present AnVIL, describe its ecosystem and 
+      interoperability with other platforms, and highlight how this platform and 
+      associated initiatives contribute to improved genomic data sharing efforts. The 
+      AnVIL is a federated cloud platform designed to manage and store genomics and 
+      related data, enable population-scale analysis, and facilitate collaboration 
+      through the sharing of data, code, and analysis results. By inverting the 
+      traditional model of data sharing, the AnVIL eliminates the need for data 
+      movement while also adding security measures for active threat detection and 
+      monitoring and provides scalable, shared computing resources for any researcher. 
+      We describe the core data management and analysis components of the AnVIL, which 
+      currently consists of Terra, Gen3, Galaxy, RStudio/Bioconductor, Dockstore, and 
+      Jupyter, and describe several flagship genomics datasets available within the 
+      AnVIL. We continue to extend and innovate the AnVIL ecosystem by implementing new 
+      capabilities, including mechanisms for interoperability and responsible data 
+      sharing, while streamlining access management. The AnVIL opens many new 
+      opportunities for analysis, collaboration, and data sharing that are needed to 
+      drive research and to make discoveries through the joint analysis of hundreds of 
+      thousands to millions of genomes along with associated clinical and molecular 
+      data types.
+FAU - Schatz, Michael C
+AU  - Schatz MC
+AD  - Department of Biology, Johns Hopkins University, Baltimore, MD, USA.
+AD  - Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA.
+FAU - Philippakis, Anthony A
+AU  - Philippakis AA
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Afgan, Enis
+AU  - Afgan E
+AD  - Department of Biology, Johns Hopkins University, Baltimore, MD, USA.
+FAU - Banks, Eric
+AU  - Banks E
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Carey, Vincent J
+AU  - Carey VJ
+AD  - Harvard Medical School, Harvard University, Cambridge, MA, USA.
+FAU - Carroll, Robert J
+AU  - Carroll RJ
+AD  - Department of Biomedical Informatics, Vanderbilt University Medical Center, 
+      Nashville, TN, USA.
+FAU - Culotti, Alessandro
+AU  - Culotti A
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+AD  - Center for Translational Data Science, University of Chicago, Chicago, IL, USA.
+FAU - Ellrott, Kyle
+AU  - Ellrott K
+AD  - Biomedical Engineering, Oregon Health & Science University, Portland, OR, USA.
+FAU - Goecks, Jeremy
+AU  - Goecks J
+AD  - Biomedical Engineering, Oregon Health & Science University, Portland, OR, USA.
+FAU - Grossman, Robert L
+AU  - Grossman RL
+AD  - Center for Translational Data Science, University of Chicago, Chicago, IL, USA.
+FAU - Hall, Ira M
+AU  - Hall IM
+AD  - Yale School of Medicine, Yale University, New Haven, CT, USA.
+FAU - Hansen, Kasper D
+AU  - Hansen KD
+AD  - Department of Biostatistics, Johns Hopkins University, Baltimore, MD, USA.
+FAU - Lawson, Jonathan
+AU  - Lawson J
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Leek, Jeffrey T
+AU  - Leek JT
+AD  - Department of Biostatistics, Johns Hopkins University, Baltimore, MD, USA.
+FAU - Luria, Anne O'Donnell
+AU  - Luria AO
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Mosher, Stephen
+AU  - Mosher S
+AD  - Department of Biology, Johns Hopkins University, Baltimore, MD, USA.
+FAU - Morgan, Martin
+AU  - Morgan M
+AD  - Department of Biostatistics and Bioinformatics, Roswell Park Comprehensive Cancer 
+      Center, Buffalo, NY, USA.
+FAU - Nekrutenko, Anton
+AU  - Nekrutenko A
+AD  - Department of Biochemistry and Molecular Biology, The Pennsylvania State 
+      University, State College, PA, USA.
+FAU - O'Connor, Brian D
+AU  - O'Connor BD
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Osborn, Kevin
+AU  - Osborn K
+AD  - UC Santa Cruz Genomics Institute, UC Santa Cruz, Santa Cruz, CA, USA.
+FAU - Paten, Benedict
+AU  - Paten B
+AD  - UC Santa Cruz Genomics Institute, UC Santa Cruz, Santa Cruz, CA, USA.
+FAU - Patterson, Candace
+AU  - Patterson C
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Tan, Frederick J
+AU  - Tan FJ
+AD  - Department of Embryology, Carnegie Institution, Baltimore, MD, USA.
+FAU - Taylor, Casey Overby
+AU  - Taylor CO
+AD  - Departments of Medicine and Biomedical Engineering, Johns Hopkins University, 
+      Baltimore, MD, USA.
+FAU - Vessio, Jennifer
+AU  - Vessio J
+AD  - Department of Biology, Johns Hopkins University, Baltimore, MD, USA.
+FAU - Waldron, Levi
+AU  - Waldron L
+AD  - Department of Epidemiology and Biostatistics, City University of New York 
+      Graduate School of Public Health and Health Policy, New York, NY, USA.
+FAU - Wang, Ting
+AU  - Wang T
+AD  - Department of Genetics, Washington University of St. Louis, St. Louis, MO, USA.
+FAU - Wuichet, Kristin
+AU  - Wuichet K
+AD  - Department of Biomedical Informatics, Vanderbilt University Medical Center, 
+      Nashville, TN, USA.
+LA  - eng
+GR  - U24 HG006620/HG/NHGRI NIH HHS/United States
+GR  - U24 HG010262/HG/NHGRI NIH HHS/United States
+GR  - U24 HG010263/HG/NHGRI NIH HHS/United States
+PT  - Journal Article
+DEP - 20220113
+PL  - United States
+TA  - Cell Genom
+JT  - Cell genomics
+JID - 9918284260106676
+PMC - PMC8863334
+MID - NIHMS1772401
+EDAT- 2022/02/25 06:00
+MHDA- 2022/02/25 06:01
+CRDT- 2022/02/24 05:46
+PHST- 2022/02/24 05:46 [entrez]
+PHST- 2022/02/25 06:00 [pubmed]
+PHST- 2022/02/25 06:01 [medline]
+AID - 100085 [pii]
+AID - 10.1016/j.xgen.2021.100085 [doi]
+PST - ppublish
+SO  - Cell Genom. 2022 Jan 12;2(1):100085. doi: 10.1016/j.xgen.2021.100085. Epub 2022 
+      Jan 13.

@@ -1,0 +1,178 @@
+PMID- 38488507
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240502
+LR  - 20240513
+IS  - 1538-7445 (Electronic)
+IS  - 0008-5472 (Print)
+IS  - 0008-5472 (Linking)
+VI  - 84
+IP  - 9
+DP  - 2024 May 2
+TI  - NCI Cancer Research Data Commons: Resources to Share Key Cancer Data.
+PG  - 1388-1395
+LID - 10.1158/0008-5472.CAN-23-2468 [doi]
+AB  - Since 2014, the NCI has launched a series of data commons as part of the Cancer 
+      Research Data Commons (CRDC) ecosystem housing genomic, proteomic, imaging, and 
+      clinical data to support cancer research and promote data sharing of NCI-funded 
+      studies. This review describes each data commons (Genomic Data Commons, Proteomic 
+      Data Commons, Integrated Canine Data Commons, Cancer Data Service, Imaging Data 
+      Commons, and Clinical and Translational Data Commons), including their unique and 
+      shared features, accomplishments, and challenges. Also discussed is how the CRDC 
+      data commons implement Findable, Accessible, Interoperable, Reusable (FAIR) 
+      principles and promote data sharing in support of the new NIH Data Management and 
+      Sharing Policy. See related articles by Brady et al., p. 1384, Pot et al., p. 
+      1396, and Kim et al., p. 1404.
+CI  - ©2024 The Authors; Published by the American Association for Cancer Research.
+FAU - Wang, Zhining
+AU  - Wang Z
+AUID- ORCID: 0000-0001-5294-2559
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+FAU - Davidsen, Tanja M
+AU  - Davidsen TM
+AUID- ORCID: 0009-0006-5102-3116
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+FAU - Kuffel, Gina R
+AU  - Kuffel GR
+AUID- ORCID: 0000-0003-4061-0092
+AD  - Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, 
+      Inc., Frederick, Maryland.
+FAU - Addepalli, KanakaDurga
+AU  - Addepalli K
+AUID- ORCID: 0000-0002-8164-462X
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+FAU - Bell, Amanda
+AU  - Bell A
+AUID- ORCID: 0000-0002-9920-565X
+AD  - Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, 
+      Inc., Frederick, Maryland.
+FAU - Casas-Silva, Esmeralda
+AU  - Casas-Silva E
+AUID- ORCID: 0000-0002-9704-0812
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+FAU - Dingerdissen, Hayley
+AU  - Dingerdissen H
+AUID- ORCID: 0000-0002-5323-2927
+AD  - Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, 
+      Inc., Frederick, Maryland.
+FAU - Farahani, Keyvan
+AU  - Farahani K
+AUID- ORCID: 0000-0003-2111-1896
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+FAU - Fedorov, Andrey
+AU  - Fedorov A
+AUID- ORCID: 0000-0003-4806-9413
+AD  - Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts.
+FAU - Gaheen, Sharon
+AU  - Gaheen S
+AUID- ORCID: 0009-0008-0040-0166
+AD  - Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, 
+      Inc., Frederick, Maryland.
+FAU - Grossman, Robert L
+AU  - Grossman RL
+AUID- ORCID: 0000-0003-3741-5739
+AD  - Center for Translational Data Science, University of Chicago, Chicago, Illinois.
+FAU - Kikinis, Ron
+AU  - Kikinis R
+AUID- ORCID: 0000-0001-7227-7058
+AD  - Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts.
+FAU - Kim, Erika
+AU  - Kim E
+AUID- ORCID: 0000-0001-8799-9029
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+FAU - Otridge, John
+AU  - Otridge J
+AUID- ORCID: 0009-0007-7018-916X
+AD  - Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, 
+      Inc., Frederick, Maryland.
+FAU - Pihl, Todd
+AU  - Pihl T
+AUID- ORCID: 0000-0002-5471-3300
+AD  - Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, 
+      Inc., Frederick, Maryland.
+FAU - Porter, Melissa
+AU  - Porter M
+AUID- ORCID: 0009-0001-4842-3673
+AD  - Center for Cancer Genomics, NCI, Bethesda, Maryland.
+FAU - Rodriguez, Henry
+AU  - Rodriguez H
+AUID- ORCID: 0000-0002-4593-4232
+AD  - Office of Cancer Clinical Proteomics Research, Division of Cancer Treatment and 
+      Diagnosis, NCI, Rockville, Maryland.
+FAU - Staudt, Louis M
+AU  - Staudt LM
+AUID- ORCID: 0000-0002-1735-2892
+AD  - Center for Cancer Genomics, NCI, Bethesda, Maryland.
+FAU - Thangudu, Ratna R
+AU  - Thangudu RR
+AUID- ORCID: 0000-0001-6765-0401
+AD  - ICF, Rockville, Maryland.
+FAU - Venkatachari, Sudha
+AU  - Venkatachari S
+AUID- ORCID: 0009-0001-4553-8141
+AD  - Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, 
+      Inc., Frederick, Maryland.
+FAU - Zenklusen, Jean Claude
+AU  - Zenklusen JC
+AUID- ORCID: 0000-0002-9489-1873
+AD  - Center for Cancer Genomics, NCI, Bethesda, Maryland.
+FAU - Zhang, Xu
+AU  - Zhang X
+AUID- ORCID: 0000-0001-7784-1439
+AD  - Office of Cancer Clinical Proteomics Research, Division of Cancer Treatment and 
+      Diagnosis, NCI, Rockville, Maryland.
+CN  - CRDC Program
+FAU - Barnholtz-Sloan, Jill S
+AU  - Barnholtz-Sloan JS
+AUID- ORCID: 0000-0001-6190-9304
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+AD  - Trans Divisional Research Program, Division of Cancer Epidemiology and Genetics, 
+      NCI, Rockville, Maryland.
+FAU - Kerlavage, Anthony R
+AU  - Kerlavage AR
+AUID- ORCID: 0000-0002-3954-9653
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+LA  - eng
+GR  - 75N91019D00024/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+PL  - United States
+TA  - Cancer Res
+JT  - Cancer research
+JID - 2984705R
+SB  - IM
+MH  - Humans
+MH  - United States
+MH  - *Neoplasms/metabolism
+MH  - *National Cancer Institute (U.S.)
+MH  - *Information Dissemination/methods
+MH  - Biomedical Research
+MH  - Genomics/methods
+MH  - Animals
+MH  - Proteomics/methods
+PMC - PMC11063687
+EDAT- 2024/03/15 12:42
+MHDA- 2024/05/02 06:42
+PMCR- 2024/05/02
+CRDT- 2024/03/15 10:05
+PHST- 2023/09/08 00:00 [received]
+PHST- 2024/01/11 00:00 [revised]
+PHST- 2024/03/05 00:00 [accepted]
+PHST- 2024/05/02 06:42 [medline]
+PHST- 2024/03/15 12:42 [pubmed]
+PHST- 2024/03/15 10:05 [entrez]
+PHST- 2024/05/02 00:00 [pmc-release]
+AID - 735154 [pii]
+AID - CAN-23-2468 [pii]
+AID - 10.1158/0008-5472.CAN-23-2468 [doi]
+PST - ppublish
+SO  - Cancer Res. 2024 May 2;84(9):1388-1395. doi: 10.1158/0008-5472.CAN-23-2468.

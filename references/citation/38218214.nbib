@@ -1,0 +1,129 @@
+PMID- 38218214
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240311
+LR  - 20260523
+IS  - 1878-5832 (Electronic)
+IS  - 1359-6446 (Print)
+IS  - 1359-6446 (Linking)
+VI  - 29
+IP  - 3
+DP  - 2024 Mar
+TI  - Overview of the Knowledge Management Center for Illuminating the Druggable 
+      Genome.
+PG  - 103882
+LID - S1359-6446(24)00007-2 [pii]
+LID - 10.1016/j.drudis.2024.103882 [doi]
+AB  - The Knowledge Management Center (KMC) for the Illuminating the Druggable Genome 
+      (IDG) project aims to aggregate, update, and articulate protein-centric data 
+      knowledge for the entire human proteome, with emphasis on the understudied 
+      proteins from the three IDG protein families. KMC collates and analyzes data from 
+      over 70 resources to compile the Target Central Resource Database (TCRD), which 
+      is the web-based informatics platform (Pharos). These data include experimental, 
+      computational, and text-mined information on protein structures, compound 
+      interactions, and disease and phenotype associations. Based on this knowledge, 
+      proteins are classified into different Target Development Levels (TDLs) for 
+      identification of understudied targets. Additional work by the KMC focuses on 
+      enriching target knowledge and producing DrugCentral and other data visualization 
+      tools for expanding investigation of understudied targets.
+CI  - Copyright © 2024 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+FAU - Oprea, Tudor I
+AU  - Oprea TI
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, NM, USA.
+FAU - Bologa, Cristian
+AU  - Bologa C
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, NM, USA.
+FAU - Holmes, Jayme
+AU  - Holmes J
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, NM, USA.
+FAU - Mathias, Stephen
+AU  - Mathias S
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, NM, USA.
+FAU - Metzger, Vincent T
+AU  - Metzger VT
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, NM, USA.
+FAU - Waller, Anna
+AU  - Waller A
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, NM, USA.
+FAU - Yang, Jeremy J
+AU  - Yang JJ
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, NM, USA.
+FAU - Leach, Andrew R
+AU  - Leach AR
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute 
+      (EMBL-EBI), Wellcome Genome Campus, Hinxton, UK.
+FAU - Jensen, Lars Juhl
+AU  - Jensen LJ
+AD  - Novo Nordisk Foundation Center for Protein Research, Faculty of Health and 
+      Medical Sciences, University of Copenhagen, Copenhagen, Denmark.
+FAU - Kelleher, Keith J
+AU  - Kelleher KJ
+AD  - National Center for Advancing Translational Sciences (NCATS), NIH, Bethesda, MD, 
+      USA.
+FAU - Sheils, Timothy K
+AU  - Sheils TK
+AD  - National Center for Advancing Translational Sciences (NCATS), NIH, Bethesda, MD, 
+      USA.
+FAU - Mathé, Ewy
+AU  - Mathé E
+AD  - National Center for Advancing Translational Sciences (NCATS), NIH, Bethesda, MD, 
+      USA.
+FAU - Avram, Sorin
+AU  - Avram S
+AD  - Coriolan Dragulescu Institute of Chemistry, Timisoara, Romania.
+FAU - Edwards, Jeremy S
+AU  - Edwards JS
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, NM, USA; Department of Chemistry and Chemical 
+      Biology, University of New Mexico, Albuquerque, NM, USA. Electronic address: 
+      jsedward@unm.edu.
+LA  - eng
+GR  - U24 CA224370/CA/NCI NIH HHS/United States
+GR  - ZIC TR000410/ImNIH/Intramural NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+PT  - Review
+DEP - 20240111
+PL  - England
+TA  - Drug Discov Today
+JT  - Drug discovery today
+JID - 9604391
+RN  - 0 (Proteome)
+SB  - IM
+MH  - Humans
+MH  - *Knowledge Management
+MH  - *Genome
+MH  - Proteome
+MH  - Databases, Factual
+MH  - Informatics
+PMC - PMC10939799
+MID - NIHMS1959990
+OTO - NOTNLM
+OT  - database
+OT  - druggable genome
+OT  - knowledge management
+OT  - pharos
+EDAT- 2024/01/14 12:42
+MHDA- 2024/03/11 06:42
+PMCR- 2025/03/01
+CRDT- 2024/01/13 19:28
+PHST- 2023/10/18 00:00 [received]
+PHST- 2023/12/22 00:00 [revised]
+PHST- 2024/01/09 00:00 [accepted]
+PHST- 2024/03/11 06:42 [medline]
+PHST- 2024/01/14 12:42 [pubmed]
+PHST- 2024/01/13 19:28 [entrez]
+PHST- 2025/03/01 00:00 [pmc-release]
+AID - S1359-6446(24)00007-2 [pii]
+AID - 10.1016/j.drudis.2024.103882 [doi]
+PST - ppublish
+SO  - Drug Discov Today. 2024 Mar;29(3):103882. doi: 10.1016/j.drudis.2024.103882. Epub 
+      2024 Jan 11.

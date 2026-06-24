@@ -1,0 +1,143 @@
+PMID- 21458441
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110909
+LR  - 20250529
+IS  - 1095-564X (Electronic)
+IS  - 0012-1606 (Print)
+IS  - 0012-1606 (Linking)
+VI  - 355
+IP  - 2
+DP  - 2011 Jul 15
+TI  - The FaceBase Consortium: a comprehensive program to facilitate craniofacial 
+      research.
+PG  - 175-82
+LID - 10.1016/j.ydbio.2011.02.033 [doi]
+AB  - The FaceBase Consortium consists of ten interlinked research and technology 
+      projects whose goal is to generate craniofacial research data and technology for 
+      use by the research community through a central data management and integrated 
+      bioinformatics hub. Funded by the National Institute of Dental and Craniofacial 
+      Research (NIDCR) and currently focused on studying the development of the middle 
+      region of the face, the Consortium will produce comprehensive datasets of global 
+      gene expression patterns, regulatory elements and sequencing; will generate 
+      anatomical and molecular atlases; will provide human normative facial data and 
+      other phenotypes; conduct follow up studies of a completed genome-wide 
+      association study; generate independent data on the genetics of craniofacial 
+      development, build repositories of animal models and of human samples and data 
+      for community access and analysis; and will develop software tools and animal 
+      models for analyzing and functionally testing and integrating these data. The 
+      FaceBase website (http://www.facebase.org) will serve as a web home for these 
+      efforts, providing interactive tools for exploring these datasets, together with 
+      discussion forums and other services to support and foster collaboration within 
+      the craniofacial research community.
+CI  - Copyright © 2011 Elsevier Inc. All rights reserved.
+FAU - Hochheiser, Harry
+AU  - Hochheiser H
+AD  - Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, PA 
+      15232, USA.
+FAU - Aronow, Bruce J
+AU  - Aronow BJ
+FAU - Artinger, Kristin
+AU  - Artinger K
+FAU - Beaty, Terri H
+AU  - Beaty TH
+FAU - Brinkley, James F
+AU  - Brinkley JF
+FAU - Chai, Yang
+AU  - Chai Y
+FAU - Clouthier, David
+AU  - Clouthier D
+FAU - Cunningham, Michael L
+AU  - Cunningham ML
+FAU - Dixon, Michael
+AU  - Dixon M
+FAU - Donahue, Leah Rae
+AU  - Donahue LR
+FAU - Fraser, Scott E
+AU  - Fraser SE
+FAU - Hallgrimsson, Benedikt
+AU  - Hallgrimsson B
+FAU - Iwata, Junichi
+AU  - Iwata J
+FAU - Klein, Ophir
+AU  - Klein O
+FAU - Marazita, Mary L
+AU  - Marazita ML
+FAU - Murray, Jeffrey C
+AU  - Murray JC
+FAU - Murray, Stephen
+AU  - Murray S
+FAU - de Villena, Fernando Pardo-Manuel
+AU  - de Villena FP
+FAU - Postlethwait, John
+AU  - Postlethwait J
+FAU - Potter, Steven
+AU  - Potter S
+FAU - Shapiro, Linda
+AU  - Shapiro L
+FAU - Spritz, Richard
+AU  - Spritz R
+FAU - Visel, Axel
+AU  - Visel A
+FAU - Weinberg, Seth M
+AU  - Weinberg SM
+FAU - Trainor, Paul A
+AU  - Trainor PA
+LA  - eng
+GR  - U01-DE20073/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020060/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20050/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20078/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20076/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20060/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020065/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020054/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020057/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020076/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20049/DE/NIDCR NIH HHS/United States
+GR  - U01-DE020057/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020078/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020049/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20063/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020073/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20052/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020050/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020052/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20054/DE/NIDCR NIH HHS/United States
+GR  - R01 DE016082/DE/NIDCR NIH HHS/United States
+GR  - U01 DE020063/DE/NIDCR NIH HHS/United States
+GR  - U01-DE20065/DE/NIDCR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20110331
+PL  - United States
+TA  - Dev Biol
+JT  - Developmental biology
+JID - 0372762
+SB  - IM
+MH  - Computational Biology/*methods
+MH  - *Databases, Factual
+MH  - Face/*embryology
+MH  - *Gene Expression Profiling
+MH  - Humans
+MH  - *Research
+MH  - Skull/*embryology
+MH  - Software
+PMC - PMC3440302
+MID - NIHMS296937
+EDAT- 2011/04/05 06:00
+MHDA- 2011/09/10 06:00
+PMCR- 2012/09/12
+CRDT- 2011/04/05 06:00
+PHST- 2011/01/25 00:00 [received]
+PHST- 2011/02/23 00:00 [revised]
+PHST- 2011/02/24 00:00 [accepted]
+PHST- 2011/04/05 06:00 [entrez]
+PHST- 2011/04/05 06:00 [pubmed]
+PHST- 2011/09/10 06:00 [medline]
+PHST- 2012/09/12 00:00 [pmc-release]
+AID - S0012-1606(11)00196-5 [pii]
+AID - 10.1016/j.ydbio.2011.02.033 [doi]
+PST - ppublish
+SO  - Dev Biol. 2011 Jul 15;355(2):175-82. doi: 10.1016/j.ydbio.2011.02.033. Epub 2011 
+      Mar 31.

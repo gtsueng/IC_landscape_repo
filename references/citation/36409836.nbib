@@ -1,0 +1,245 @@
+PMID- 36409836
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221123
+LR  - 20250530
+IS  - 2047-217X (Electronic)
+IS  - 2047-217X (Linking)
+VI  - 11
+DP  - 2022 Nov 21
+TI  - Making Common Fund data more findable: catalyzing a data ecosystem.
+LID - 10.1093/gigascience/giac105 [doi]
+LID - giac105
+AB  - The Common Fund Data Ecosystem (CFDE) has created a flexible system of data 
+      federation that enables researchers to discover datasets from across the US 
+      National Institutes of Health Common Fund without requiring that data owners 
+      move, reformat, or rehost those data. This system is centered on a catalog that 
+      integrates detailed descriptions of biomedical datasets from individual Common 
+      Fund Programs' Data Coordination Centers (DCCs) into a uniform metadata model 
+      that can then be indexed and searched from a centralized portal. This Crosscut 
+      Metadata Model (C2M2) supports the wide variety of data types and metadata terms 
+      used by individual DCCs and can readily describe nearly all forms of biomedical 
+      research data. We detail its use to ingest and index data from 11 DCCs.
+CI  - © The Author(s) 2022. Published by Oxford University Press GigaScience.
+FAU - Charbonneau, Amanda L
+AU  - Charbonneau AL
+AUID- ORCID: 0000-0001-7376-7702
+AD  - Population Health and Reproduction, UC Davis, Davis, CA 95616, USA.
+FAU - Brady, Arthur
+AU  - Brady A
+AUID- ORCID: 0000-0002-8809-2477
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Czajkowski, Karl
+AU  - Czajkowski K
+AUID- ORCID: 0000-0002-9389-0633
+AD  - University of Southern California Information Sciences Institute, CA 90292, USA.
+FAU - Aluvathingal, Jain
+AU  - Aluvathingal J
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Canchi, Saranya
+AU  - Canchi S
+AUID- ORCID: 0000-0002-9404-7162
+AD  - Population Health and Reproduction, UC Davis, Davis, CA 95616, USA.
+FAU - Carter, Robert
+AU  - Carter R
+AUID- ORCID: 0000-0003-0937-8141
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Chard, Kyle
+AU  - Chard K
+AUID- ORCID: 0000-0002-7370-4805
+AD  - Division of Decision and Information Sciences, University of Chicago and Argonne 
+      National Laboratory, Chicago, IL 60637, USA.
+FAU - Clarke, Daniel J B
+AU  - Clarke DJB
+AUID- ORCID: 0000-0003-3471-7416
+AD  - Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, 
+      Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.
+FAU - Crabtree, Jonathan
+AU  - Crabtree J
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Creasy, Heather H
+AU  - Creasy HH
+AUID- ORCID: 0000-0002-1369-6882
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - D'Arcy, Mike
+AU  - D'Arcy M
+AUID- ORCID: 0000-0003-2280-917X
+AD  - University of Southern California Information Sciences Institute, CA 90292, USA.
+FAU - Felix, Victor
+AU  - Felix V
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Giglio, Michelle
+AU  - Giglio M
+AUID- ORCID: 0000-0001-7628-5565
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Gingrich, Alicia
+AU  - Gingrich A
+AUID- ORCID: 0000-0002-7239-0154
+AD  - UC Davis Medical Center, Davis, CA 95616, USA.
+FAU - Harris, Rayna M
+AU  - Harris RM
+AUID- ORCID: 0000-0002-7943-5650
+AD  - Population Health and Reproduction, UC Davis, Davis, CA 95616, USA.
+FAU - Hodges, Theresa K
+AU  - Hodges TK
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Ifeonu, Olukemi
+AU  - Ifeonu O
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Jeon, Minji
+AU  - Jeon M
+AUID- ORCID: 0000-0001-5731-6186
+AD  - Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, 
+      Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.
+FAU - Kropiwnicki, Eryk
+AU  - Kropiwnicki E
+AUID- ORCID: 0000-0003-1567-4641
+AD  - Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, 
+      Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.
+FAU - Lim, Marisa C W
+AU  - Lim MCW
+AUID- ORCID: 0000-0003-2097-8818
+AD  - Population Health and Reproduction, UC Davis, Davis, CA 95616, USA.
+FAU - Liming, R Lee
+AU  - Liming RL
+AUID- ORCID: 0000-0002-4930-6145
+AD  - Division of Decision and Information Sciences, University of Chicago and Argonne 
+      National Laboratory, Chicago, IL 60637, USA.
+FAU - Lumian, Jessica
+AU  - Lumian J
+AD  - Population Health and Reproduction, UC Davis, Davis, CA 95616, USA.
+FAU - Mahurkar, Anup A
+AU  - Mahurkar AA
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Mandal, Meisha
+AU  - Mandal M
+AUID- ORCID: 0000-0001-9356-3475
+AD  - RTI International, Research Triangle Park 27709-2194, USA.
+FAU - Munro, James B
+AU  - Munro JB
+AUID- ORCID: 0000-0003-3067-6434
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Nadendla, Suvarna
+AU  - Nadendla S
+AUID- ORCID: 0000-0003-3643-281X
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Richter, Rudyard
+AU  - Richter R
+AD  - Division of Decision and Information Sciences, University of Chicago and Argonne 
+      National Laboratory, Chicago, IL 60637, USA.
+FAU - Romano, Cia
+AU  - Romano C
+AUID- ORCID: 0000-0002-0106-4730
+AD  - University of Southern California Information Sciences Institute, CA 90292, USA.
+AD  - Interface Guru, Tuscon 85701, USA.
+FAU - Rocca-Serra, Philippe
+AU  - Rocca-Serra P
+AUID- ORCID: 0000-0001-9853-5668
+AD  - Oxford e-Research Centre, Department of Engineering Science, University of 
+      Oxford, Oxford OX1 3QG, UK.
+FAU - Schor, Michael
+AU  - Schor M
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+FAU - Schuler, Robert E
+AU  - Schuler RE
+AUID- ORCID: 0000-0002-8956-5707
+AD  - University of Southern California Information Sciences Institute, CA 90292, USA.
+FAU - Tangmunarunkit, Hongsuda
+AU  - Tangmunarunkit H
+AUID- ORCID: 0000-0002-9502-291X
+AD  - University of Southern California Information Sciences Institute, CA 90292, USA.
+FAU - Waldrop, Alex
+AU  - Waldrop A
+AUID- ORCID: 0000-0002-4502-7894
+AD  - RTI International, Research Triangle Park 27709-2194, USA.
+FAU - Williams, Cris
+AU  - Williams C
+AD  - University of Southern California Information Sciences Institute, CA 90292, USA.
+FAU - Word, Karen
+AU  - Word K
+AUID- ORCID: 0000-0002-7294-7231
+AD  - The Carpentries, Oakland 94607, USA.
+FAU - Sansone, Susanna-Assunta
+AU  - Sansone SA
+AUID- ORCID: 0000-0001-5306-5690
+AD  - Oxford e-Research Centre, Department of Engineering Science, University of 
+      Oxford, Oxford OX1 3QG, UK.
+FAU - Ma'ayan, Avi
+AU  - Ma'ayan A
+AUID- ORCID: 0000-0002-6904-1017
+AD  - Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, 
+      Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.
+FAU - Wagner, Rick
+AU  - Wagner R
+AUID- ORCID: 0000-0003-1291-5876
+AD  - University of California San Diego, San Diego, CA 92093, USA.
+FAU - Foster, Ian
+AU  - Foster I
+AUID- ORCID: 0000-0003-2129-5269
+AD  - Division of Decision and Information Sciences, University of Chicago and Argonne 
+      National Laboratory, Chicago, IL 60637, USA.
+FAU - Kesselman, Carl
+AU  - Kesselman C
+AUID- ORCID: 0000-0003-0917-1562
+AD  - University of Southern California Information Sciences Institute, CA 90292, USA.
+FAU - Brown, C Titus
+AU  - Brown CT
+AUID- ORCID: 0000-0001-6001-2677
+AD  - Population Health and Reproduction, UC Davis, Davis, CA 95616, USA.
+FAU - White, Owen
+AU  - White O
+AUID- ORCID: 0000-0001-7406-7361
+AD  - University of Maryland Institute for Genome Sciences, University of Maryland 
+      School of Medicine, MD 21201, USA.
+LA  - eng
+GR  - BB/H024921/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+GR  - OT3 OD025459/OD/NIH HHS/United States
+GR  - BB/I000771/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+GR  - OT2 OD030160/OD/NIH HHS/United States
+GR  - BB/E025080/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+GR  - BB/L024055/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Gigascience
+JT  - GigaScience
+JID - 101596872
+SB  - IM
+MH  - *Ecosystem
+MH  - Metadata
+MH  - *Financial Management
+PMC - PMC9677336
+COIS- The authors declare that they have no competing interests.
+EDAT- 2022/11/22 06:00
+MHDA- 2022/11/24 06:00
+PMCR- 2022/11/21
+CRDT- 2022/11/21 14:52
+PHST- 2022/05/11 00:00 [received]
+PHST- 2022/09/16 00:00 [revised]
+PHST- 2022/10/10 00:00 [accepted]
+PHST- 2022/11/21 14:52 [entrez]
+PHST- 2022/11/22 06:00 [pubmed]
+PHST- 2022/11/24 06:00 [medline]
+PHST- 2022/11/21 00:00 [pmc-release]
+AID - 6835135 [pii]
+AID - giac105 [pii]
+AID - 10.1093/gigascience/giac105 [doi]
+PST - ppublish
+SO  - Gigascience. 2022 Nov 21;11:giac105. doi: 10.1093/gigascience/giac105.

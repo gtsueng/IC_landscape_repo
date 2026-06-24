@@ -1,0 +1,115 @@
+PMID- 36823198
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20230227
+LR  - 20240913
+IS  - 2052-4463 (Electronic)
+IS  - 2052-4463 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2023 Feb 23
+TI  - Addressing barriers in FAIR data practices for biomedical data.
+PG  - 98
+LID - 10.1038/s41597-023-01969-8 [doi]
+LID - 98
+FAU - Hughes, Laura D
+AU  - Hughes LD
+AUID- ORCID: 0000-0003-1718-6676
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA. lhughes@scripps.edu.
+FAU - Tsueng, Ginger
+AU  - Tsueng G
+AUID- ORCID: 0000-0001-9536-9115
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+FAU - DiGiovanna, Jack
+AU  - DiGiovanna J
+AUID- ORCID: 0000-0002-7757-4120
+AD  - Velsera, 529 Main St, Suite 6610, Charlestown, MA, 02129, USA.
+FAU - Horvath, Thomas D
+AU  - Horvath TD
+AUID- ORCID: 0000-0001-9761-3484
+AD  - Department of Pathology & Immunology, Baylor College of Medicine, Houston, TX, 
+      77030, USA.
+AD  - Texas Children's Microbiome Center, Department of Pathology, Texas Children's 
+      Hospital, Houston, TX, 77030, USA.
+FAU - Rasmussen, Luke V
+AU  - Rasmussen LV
+AUID- ORCID: 0000-0002-4497-8049
+AD  - Department of Preventive Medicine, Northwestern University Feinberg School of 
+      Medicine, Chicago, IL, 60611, USA.
+FAU - Savidge, Tor C
+AU  - Savidge TC
+AD  - Department of Pathology & Immunology, Baylor College of Medicine, Houston, TX, 
+      77030, USA.
+AD  - Texas Children's Microbiome Center, Texas Children's Hospital, Houston, TX, 
+      77030, USA.
+FAU - Stoeger, Thomas
+AU  - Stoeger T
+AD  - Department of Chemical and Biological Engineering, McCormick School of 
+      Engineering, Evanston, IL, 60208, USA.
+FAU - Turkarslan, Serdar
+AU  - Turkarslan S
+AD  - Institute for Systems Biology, Seattle, WA, 98109, USA.
+FAU - Wu, Qinglong
+AU  - Wu Q
+AD  - Department of Pathology & Immunology, Baylor College of Medicine, Houston, TX, 
+      77030, USA.
+AD  - Texas Children's Microbiome Center, Texas Children's Hospital, Houston, TX, 
+      77030, USA.
+FAU - Wu, Chunlei
+AU  - Wu C
+AUID- ORCID: 0000-0002-2629-6124
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+AD  - Scripps Research Translational Institute, La Jolla, CA, 92037, USA.
+AD  - Department of Molecular Medicine, The Scripps Research Institute, La Jolla, CA, 
+      92037, USA.
+FAU - Su, Andrew I
+AU  - Su AI
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+AD  - Scripps Research Translational Institute, La Jolla, CA, 92037, USA.
+AD  - Department of Molecular Medicine, The Scripps Research Institute, La Jolla, CA, 
+      92037, USA.
+FAU - Pache, Lars
+AU  - Pache L
+AUID- ORCID: 0000-0002-4193-1042
+AD  - Infectious and Inflammatory Disease Center, Immunity and Pathogenesis Program, 
+      Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, 92037, USA.
+CN  - NIAID Systems Biology Data Dissemination Working Group
+LA  - eng
+GR  - U19 AI135995/AI/NIAID NIH HHS/United States
+GR  - 75N91019D00024/CA/NCI NIH HHS/United States
+GR  - U19 AI135964/AI/NIAID NIH HHS/United States
+GR  - U19 AI135972/AI/NIAID NIH HHS/United States
+GR  - U19 AI135976/AI/NIAID NIH HHS/United States
+GR  - U19 AI106761/AI/NIAID NIH HHS/United States
+GR  - P01 AI152999/AI/NIAID NIH HHS/United States
+GR  - U01 AI124290/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+DEP - 20230223
+PL  - England
+TA  - Sci Data
+JT  - Scientific data
+JID - 101640192
+SB  - IM
+PMC - PMC9950056
+COIS- Thomas D. Horvath is contracted as an Associate Academic Editor at a Cell Press 
+      Journal called STAR Protocols. The remaining authors declare no competing 
+      interests.
+EDAT- 2023/02/24 06:00
+MHDA- 2023/02/24 06:01
+PMCR- 2023/02/23
+CRDT- 2023/02/23 23:50
+PHST- 2022/10/12 00:00 [received]
+PHST- 2023/01/13 00:00 [accepted]
+PHST- 2023/02/23 23:50 [entrez]
+PHST- 2023/02/24 06:00 [pubmed]
+PHST- 2023/02/24 06:01 [medline]
+PHST- 2023/02/23 00:00 [pmc-release]
+AID - 10.1038/s41597-023-01969-8 [pii]
+AID - 1969 [pii]
+AID - 10.1038/s41597-023-01969-8 [doi]
+PST - epublish
+SO  - Sci Data. 2023 Feb 23;10(1):98. doi: 10.1038/s41597-023-01969-8.

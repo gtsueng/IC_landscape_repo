@@ -1,0 +1,517 @@
+PMID- 38693412
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240502
+LR  - 20260518
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Print)
+IS  - 0028-0836 (Linking)
+VI  - 629
+IP  - 8010
+DP  - 2024 May
+TI  - Temporal dynamics of the multi-omic response to endurance exercise training.
+PG  - 174-183
+LID - 10.1038/s41586-023-06877-w [doi]
+AB  - Regular exercise promotes whole-body health and prevents disease, but the 
+      underlying molecular mechanisms are incompletely understood(1-3). Here, the 
+      Molecular Transducers of Physical Activity Consortium(4) profiled the temporal 
+      transcriptome, proteome, metabolome, lipidome, phosphoproteome, acetylproteome, 
+      ubiquitylproteome, epigenome and immunome in whole blood, plasma and 18 solid 
+      tissues in male and female Rattus norvegicus over eight weeks of endurance 
+      exercise training. The resulting data compendium encompasses 9,466 assays across 
+      19 tissues, 25 molecular platforms and 4 training time points. Thousands of 
+      shared and tissue-specific molecular alterations were identified, with sex 
+      differences found in multiple tissues. Temporal multi-omic and multi-tissue 
+      analyses revealed expansive biological insights into the adaptive responses to 
+      endurance training, including widespread regulation of immune, metabolic, stress 
+      response and mitochondrial pathways. Many changes were relevant to human health, 
+      including non-alcoholic fatty liver disease, inflammatory bowel disease, 
+      cardiovascular health and tissue injury and recovery. The data and analyses 
+      presented in this study will serve as valuable resources for understanding and 
+      exploring the multi-tissue molecular effects of endurance training and are 
+      provided in a public repository ( https://motrpac-data.org/ ).
+CI  - © 2024. The Author(s).
+CN  - MoTrPAC Study Group
+CN  - Lead Analysts
+CN  - MoTrPAC Study Group
+LA  - eng
+GR  - T32 DK007247/DK/NIDDK NIH HHS/United States
+GR  - U01 AG055135/AG/NIA NIH HHS/United States
+GR  - U01 AR071130/AR/NIAMS NIH HHS/United States
+GR  - U01 AR071133/AR/NIAMS NIH HHS/United States
+GR  - U24 DK112340/DK/NIDDK NIH HHS/United States
+GR  - S10 OD026880/OD/NIH HHS/United States
+GR  - P30 DK089503/DK/NIDDK NIH HHS/United States
+GR  - U24 DK112341/DK/NIDDK NIH HHS/United States
+GR  - P20 GM144269/GM/NIGMS NIH HHS/United States
+GR  - U24 OD026629/OD/NIH HHS/United States
+GR  - U24 DK112342/DK/NIDDK NIH HHS/United States
+GR  - U24 DK112331/DK/NIDDK NIH HHS/United States
+GR  - U01 AG070960/AG/NIA NIH HHS/United States
+GR  - U24 AR071113/AR/NIAMS NIH HHS/United States
+GR  - U01 AR071160/AR/NIAMS NIH HHS/United States
+GR  - U24 DK112348/DK/NIDDK NIH HHS/United States
+GR  - U01 AR071158/AR/NIAMS NIH HHS/United States
+GR  - F32 HL154711/HL/NHLBI NIH HHS/United States
+GR  - U01 AG055137/AG/NIA NIH HHS/United States
+GR  - U01 AG070959/AG/NIA NIH HHS/United States
+GR  - U24 OD036598/OD/NIH HHS/United States
+GR  - U01 AG055133/AG/NIA NIH HHS/United States
+GR  - R01 DK117850/DK/NIDDK NIH HHS/United States
+GR  - U01 AR071128/AR/NIAMS NIH HHS/United States
+GR  - P30 AG028740/AG/NIA NIH HHS/United States
+GR  - P30 DK036836/DK/NIDDK NIH HHS/United States
+GR  - U01 AR071124/AR/NIAMS NIH HHS/United States
+GR  - U01 AG070928/AG/NIA NIH HHS/United States
+GR  - T32 HG000044/HG/NHGRI NIH HHS/United States
+GR  - P30 AG044271/AG/NIA NIH HHS/United States
+GR  - S10 OD030463/OD/NIH HHS/United States
+GR  - U24 DK112349/DK/NIDDK NIH HHS/United States
+GR  - U01 AR071150/AR/NIAMS NIH HHS/United States
+GR  - P30 DK020572/DK/NIDDK NIH HHS/United States
+GR  - U24 DK112326/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240501
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (Proteome)
+SB  - IM
+MH  - Animals
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Rats
+MH  - Acetylation
+MH  - Blood/immunology/metabolism
+MH  - Cardiovascular Diseases/genetics/immunology/metabolism
+MH  - Databases, Factual
+MH  - *Endurance Training
+MH  - Epigenome
+MH  - Inflammatory Bowel Diseases/genetics/immunology/metabolism
+MH  - Internet
+MH  - Lipidomics
+MH  - Metabolome
+MH  - Mitochondria/metabolism
+MH  - *Multiomics
+MH  - Non-alcoholic Fatty Liver Disease/genetics/immunology/metabolism
+MH  - Organ Specificity/genetics/immunology/physiology
+MH  - Phosphorylation
+MH  - *Physical Conditioning, Animal/physiology
+MH  - *Physical Endurance/genetics/physiology
+MH  - Proteome/metabolism
+MH  - Proteomics
+MH  - Time Factors
+MH  - Transcriptome/genetics
+MH  - Ubiquitination
+MH  - Wounds and Injuries/genetics/immunology/metabolism
+PMC - PMC11062907
+COIS- S.C.B. has equity in Emmyon, Inc. G.R.C. sits on data and safety monitoring 
+      boards for AI Therapeutics, AMO Pharma, Astra-Zeneca, Avexis Pharmaceuticals, 
+      Biolinerx, Brainstorm Cell Therapeutics, Bristol Meyers Squibb/Celgene, CSL 
+      Behring, Galmed Pharmaceuticals, Green Valley Pharma, Horizon Pharmaceuticals, 
+      Immunic, Mapi Pharmaceuticals, Merck, Mitsubishi Tanabe Pharma Holdings, Opko 
+      Biologics, Prothena Biosciences, Novartis, Regeneron, Sanofi-Aventis, Reata 
+      Pharmaceuticals, NHLBI (protocol review committee), University of Texas 
+      Southwestern, University of Pennsylvania, Visioneering Technologies, Inc.; serves 
+      on consulting or advisory boards for Alexion, Antisense Therapeutics, Biogen, 
+      Clinical Trial Solutions LLC, Genzyme, Genentech, GW Pharmaceuticals, Immunic, 
+      Klein-Buendel Incorporated, Merck/Serono, Novartis, Osmotica Pharmaceuticals, 
+      Perception Neurosciences, Protalix Biotherapeutics, Recursion/Cerexis 
+      Pharmaceuticals, Regeneron, Roche, SAB Biotherapeutics; and is the president of 
+      Pythagoras Inc., a private consulting company. S.A.C. is a member of the 
+      scientific advisory boards of Kymera, PrognomiQ, PTM BioLabs, and Seer. M.P.S. is 
+      a cofounder and scientific advisor to Personalis, Qbio, January AI, Filtricine, 
+      SensOmics, Protos, Fodsel, Rthm, Marble and scientific advisor to Genapsys, Swaz, 
+      Jupiter. S.B.M. is a consultant for BioMarin, MyOme and Tenaya Therapeutics. D.A. 
+      is currently employed at Insitro, South San Francisco, CA. N.R.G. is 
+      currently employed at 23andMe, Sunnyvale, CA. P.M.J.B. is currently employed at 
+      Pfizer, Cambridge, MA. Insitro, 23andMe and Pfizer had no involvement in the work 
+      presented here.
+FIR - Amar, David
+IR  - Amar D
+FIR - Gay, Nicole R
+IR  - Gay NR
+FIR - Jean-Beltran, Pierre M
+IR  - Jean-Beltran PM
+FIR - Bae, Dam
+IR  - Bae D
+FIR - Dasari, Surendra
+IR  - Dasari S
+FIR - Dennis, Courtney
+IR  - Dennis C
+FIR - Evans, Charles R
+IR  - Evans CR
+FIR - Gaul, David A
+IR  - Gaul DA
+FIR - Ilkayeva, Olga
+IR  - Ilkayeva O
+FIR - Ivanova, Anna A
+IR  - Ivanova AA
+FIR - Kachman, Maureen T
+IR  - Kachman MT
+FIR - Keshishian, Hasmik
+IR  - Keshishian H
+FIR - Lanza, Ian R
+IR  - Lanza IR
+FIR - Lira, Ana C
+IR  - Lira AC
+FIR - Muehlbauer, Michael J
+IR  - Muehlbauer MJ
+FIR - Nair, Venugopalan D
+IR  - Nair VD
+FIR - Piehowski, Paul D
+IR  - Piehowski PD
+FIR - Rooney, Jessica L
+IR  - Rooney JL
+FIR - Smith, Kevin S
+IR  - Smith KS
+FIR - Stowe, Cynthia L
+IR  - Stowe CL
+FIR - Zhao, Bingqing
+IR  - Zhao B
+FIR - Clark, Natalie M
+IR  - Clark NM
+FIR - Jimenez-Morales, David
+IR  - Jimenez-Morales D
+FIR - Lindholm, Malene E
+IR  - Lindholm ME
+FIR - Many, Gina M
+IR  - Many GM
+FIR - Sanford, James A
+IR  - Sanford JA
+FIR - Smith, Gregory R
+IR  - Smith GR
+FIR - Vetr, Nikolai G
+IR  - Vetr NG
+FIR - Zhang, Tiantian
+IR  - Zhang T
+FIR - Almagro Armenteros, Jose J
+IR  - Almagro Armenteros JJ
+FIR - Avila-Pacheco, Julian
+IR  - Avila-Pacheco J
+FIR - Bararpour, Nasim
+IR  - Bararpour N
+FIR - Ge, Yongchao
+IR  - Ge Y
+FIR - Hou, Zhenxin
+IR  - Hou Z
+FIR - Marwaha, Shruti
+IR  - Marwaha S
+FIR - Presby, David M
+IR  - Presby DM
+FIR - Natarajan Raja, Archana
+IR  - Natarajan Raja A
+FIR - Savage, Evan M
+IR  - Savage EM
+FIR - Steep, Alec
+IR  - Steep A
+FIR - Sun, Yifei
+IR  - Sun Y
+FIR - Wu, Si
+IR  - Wu S
+FIR - Zhen, Jimmy
+IR  - Zhen J
+FIR - Bodine, Sue C
+IR  - Bodine SC
+FIR - Esser, Karyn A
+IR  - Esser KA
+FIR - Goodyear, Laurie J
+IR  - Goodyear LJ
+FIR - Schenk, Simon
+IR  - Schenk S
+FIR - Montgomery, Stephen B
+IR  - Montgomery SB
+FIR - Fernández, Facundo M
+IR  - Fernández FM
+FIR - Sealfon, Stuart C
+IR  - Sealfon SC
+FIR - Snyder, Michael P
+IR  - Snyder MP
+FIR - Adkins, Joshua N
+IR  - Adkins JN
+FIR - Ashley, Euan
+IR  - Ashley E
+FIR - Burant, Charles F
+IR  - Burant CF
+FIR - Carr, Steven A
+IR  - Carr SA
+FIR - Clish, Clary B
+IR  - Clish CB
+FIR - Cutter, Gary
+IR  - Cutter G
+FIR - Gerszten, Robert E
+IR  - Gerszten RE
+FIR - Kraus, William E
+IR  - Kraus WE
+FIR - Li, Jun Z
+IR  - Li JZ
+FIR - Miller, Michael E
+IR  - Miller ME
+FIR - Nair, K Sreekumaran
+IR  - Nair KS
+FIR - Newgard, Christopher
+IR  - Newgard C
+FIR - Ortlund, Eric A
+IR  - Ortlund EA
+FIR - Qian, Wei-Jun
+IR  - Qian WJ
+FIR - Tracy, Russell
+IR  - Tracy R
+FIR - Walsh, Martin J
+IR  - Walsh MJ
+FIR - Wheeler, Matthew T
+IR  - Wheeler MT
+FIR - Dalton, Karen P
+IR  - Dalton KP
+FIR - Hastie, Trevor
+IR  - Hastie T
+FIR - Hershman, Steven G
+IR  - Hershman SG
+FIR - Samdarshi, Mihir
+IR  - Samdarshi M
+FIR - Teng, Christopher
+IR  - Teng C
+FIR - Tibshirani, Rob
+IR  - Tibshirani R
+FIR - Cornell, Elaine
+IR  - Cornell E
+FIR - Gagne, Nicole
+IR  - Gagne N
+FIR - May, Sandy
+IR  - May S
+FIR - Bouverat, Brian
+IR  - Bouverat B
+FIR - Leeuwenburgh, Christiaan
+IR  - Leeuwenburgh C
+FIR - Lu, Ching-Ju
+IR  - Lu CJ
+FIR - Pahor, Marco
+IR  - Pahor M
+FIR - Hsu, Fang-Chi
+IR  - Hsu FC
+FIR - Rushing, Scott
+IR  - Rushing S
+FIR - Walkup, Michael P
+IR  - Walkup MP
+FIR - Nicklas, Barbara
+IR  - Nicklas B
+FIR - Rejeski, W Jack
+IR  - Rejeski WJ
+FIR - Williams, John P
+IR  - Williams JP
+FIR - Xia, Ashley
+IR  - Xia A
+FIR - Albertson, Brent G
+IR  - Albertson BG
+FIR - Barton, Elisabeth R
+IR  - Barton ER
+FIR - Booth, Frank W
+IR  - Booth FW
+FIR - Caputo, Tiziana
+IR  - Caputo T
+FIR - Cicha, Michael
+IR  - Cicha M
+FIR - De Sousa, Luis Gustavo Oliveira
+IR  - De Sousa LGO
+FIR - Farrar, Roger
+IR  - Farrar R
+FIR - Hevener, Andrea L
+IR  - Hevener AL
+FIR - Hirshman, Michael F
+IR  - Hirshman MF
+FIR - Jackson, Bailey E
+IR  - Jackson BE
+FIR - Ke, Benjamin G
+IR  - Ke BG
+FIR - Kramer, Kyle S
+IR  - Kramer KS
+FIR - Lessard, Sarah J
+IR  - Lessard SJ
+FIR - Makarewicz, Nathan S
+IR  - Makarewicz NS
+FIR - Marshall, Andrea G
+IR  - Marshall AG
+FIR - Nigro, Pasquale
+IR  - Nigro P
+FIR - Powers, Scott
+IR  - Powers S
+FIR - Ramachandran, Krithika
+IR  - Ramachandran K
+FIR - Rector, R Scott
+IR  - Rector RS
+FIR - Richards, Collyn Z-T
+IR  - Richards CZ
+FIR - Thyfault, John
+IR  - Thyfault J
+FIR - Yan, Zhen
+IR  - Yan Z
+FIR - Zang, Chongzhi
+IR  - Zang C
+FIR - Amper, Mary Anne S
+IR  - Amper MAS
+FIR - Balci, Ali Tugrul
+IR  - Balci AT
+FIR - Chavez, Clarisa
+IR  - Chavez C
+FIR - Chikina, Maria
+IR  - Chikina M
+FIR - Chiu, Roxanne
+IR  - Chiu R
+FIR - Gritsenko, Marina A
+IR  - Gritsenko MA
+FIR - Guevara, Kristy
+IR  - Guevara K
+FIR - Hansen, Joshua R
+IR  - Hansen JR
+FIR - Hennig, Krista M
+IR  - Hennig KM
+FIR - Hung, Chia-Jui
+IR  - Hung CJ
+FIR - Hutchinson-Bunch, Chelsea
+IR  - Hutchinson-Bunch C
+FIR - Jin, Christopher A
+IR  - Jin CA
+FIR - Liu, Xueyun
+IR  - Liu X
+FIR - Maner-Smith, Kristal M
+IR  - Maner-Smith KM
+FIR - Mani, D R
+IR  - Mani DR
+FIR - Marjanovic, Nada
+IR  - Marjanovic N
+FIR - Monroe, Matthew E
+IR  - Monroe ME
+FIR - Moore, Ronald J
+IR  - Moore RJ
+FIR - Moore, Samuel G
+IR  - Moore SG
+FIR - Mundorff, Charles C
+IR  - Mundorff CC
+FIR - Nachun, Daniel
+IR  - Nachun D
+FIR - Nestor, Michael D
+IR  - Nestor MD
+FIR - Nudelman, German
+IR  - Nudelman G
+FIR - Pearce, Cadence
+IR  - Pearce C
+FIR - Petyuk, Vladislav A
+IR  - Petyuk VA
+FIR - Pincas, Hanna
+IR  - Pincas H
+FIR - Ramos, Irene
+IR  - Ramos I
+FIR - Raskind, Alexander Sasha
+IR  - Raskind AS
+FIR - Rirak, Stas
+IR  - Rirak S
+FIR - Robbins, Jeremy M
+IR  - Robbins JM
+FIR - Rubenstein, Aliza B
+IR  - Rubenstein AB
+FIR - Ruf-Zamojski, Frederique
+IR  - Ruf-Zamojski F
+FIR - Sagendorf, Tyler J
+IR  - Sagendorf TJ
+FIR - Seenarine, Nitish
+IR  - Seenarine N
+FIR - Soni, Tanu
+IR  - Soni T
+FIR - Uppal, Karan
+IR  - Uppal K
+FIR - Vangeti, Sindhu
+IR  - Vangeti S
+FIR - Vasoya, Mital
+IR  - Vasoya M
+FIR - Vornholt, Alexandria
+IR  - Vornholt A
+FIR - Yu, Xuechen
+IR  - Yu X
+FIR - Zaslavsky, Elena
+IR  - Zaslavsky E
+FIR - Zebarjadi, Navid
+IR  - Zebarjadi N
+FIR - Bamman, Marcas
+IR  - Bamman M
+FIR - Bergman, Bryan C
+IR  - Bergman BC
+FIR - Bessesen, Daniel H
+IR  - Bessesen DH
+FIR - Buford, Thomas W
+IR  - Buford TW
+FIR - Chambers, Toby L
+IR  - Chambers TL
+FIR - Coen, Paul M
+IR  - Coen PM
+FIR - Cooper, Dan
+IR  - Cooper D
+FIR - Haddad, Fadia
+IR  - Haddad F
+FIR - Gadde, Kishore
+IR  - Gadde K
+FIR - Goodpaster, Bret H
+IR  - Goodpaster BH
+FIR - Harris, Melissa
+IR  - Harris M
+FIR - Huffman, Kim M
+IR  - Huffman KM
+FIR - Jankowski, Catherine M
+IR  - Jankowski CM
+FIR - Johannsen, Neil M
+IR  - Johannsen NM
+FIR - Kohrt, Wendy M
+IR  - Kohrt WM
+FIR - Lester, Bridget
+IR  - Lester B
+FIR - Melanson, Edward L
+IR  - Melanson EL
+FIR - Moreau, Kerrie L
+IR  - Moreau KL
+FIR - Musi, Nicolas
+IR  - Musi N
+FIR - Newton, Robert L Jr
+IR  - Newton RL Jr
+FIR - Radom-Aizik, Shlomit
+IR  - Radom-Aizik S
+FIR - Ramaker, Megan E
+IR  - Ramaker ME
+FIR - Rankinen, Tuomo
+IR  - Rankinen T
+FIR - Rasmussen, Blake B
+IR  - Rasmussen BB
+FIR - Ravussin, Eric
+IR  - Ravussin E
+FIR - Schauer, Irene E
+IR  - Schauer IE
+FIR - Schwartz, Robert S
+IR  - Schwartz RS
+FIR - Sparks, Lauren M
+IR  - Sparks LM
+FIR - Thalacker-Mercer, Anna
+IR  - Thalacker-Mercer A
+FIR - Trappe, Scott
+IR  - Trappe S
+FIR - Trappe, Todd A
+IR  - Trappe TA
+FIR - Volpi, Elena
+IR  - Volpi E
+EDAT- 2024/05/02 00:49
+MHDA- 2024/05/02 06:42
+PMCR- 2024/05/01
+CRDT- 2024/05/01 23:28
+PHST- 2022/09/21 00:00 [received]
+PHST- 2023/11/16 00:00 [accepted]
+PHST- 2024/05/02 06:42 [medline]
+PHST- 2024/05/02 00:49 [pubmed]
+PHST- 2024/05/01 23:28 [entrez]
+PHST- 2024/05/01 00:00 [pmc-release]
+AID - 10.1038/s41586-023-06877-w [pii]
+AID - 6877 [pii]
+AID - 10.1038/s41586-023-06877-w [doi]
+PST - ppublish
+SO  - Nature. 2024 May;629(8010):174-183. doi: 10.1038/s41586-023-06877-w. Epub 2024 
+      May 1.

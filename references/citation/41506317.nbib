@@ -1,0 +1,144 @@
+PMID- 41506317
+OWN - NLM
+STAT- Publisher
+LR  - 20260501
+IS  - 1089-8638 (Electronic)
+IS  - 0022-2836 (Linking)
+DP  - 2026 Jan 6
+TI  - The CFDE Workbench: Integrating Metadata and Processed Data from Common Fund 
+      Programs.
+PG  - 169631
+LID - S0022-2836(26)00004-5 [pii]
+LID - 10.1016/j.jmb.2026.169631 [doi]
+AB  - The NIH Common Fund Data Ecosystem (CFDE) program was established to facilitate 
+      data accessibility and interoperability across multiple Common Fund (CF) 
+      programs, promote collaborations and accelerate discoveries by combining diverse 
+      data types from different CF programs. The CFDE Data Resource Center (DRC) was 
+      tasked with developing two web-based portals: an Information Portal to serve 
+      information about the CFDE, and a Data Portal to host harmonized metadata and 
+      processed data contributed by participating CF Data Coordination Centers (DCCs) 
+      and other sources. To achieve these goals, the CFDE DRC developed the CFDE 
+      Workbench, a web-based platform that hosts processed data, metadata, tools, use 
+      cases, and analyses developed by the CFDE. The Cross-Cut Metadata Model (C2M2) 
+      and several other processed data are hosted by the CFDE Workbench, including set 
+      libraries (XMTs), Knowledge Graph (KG) assertions, and attribute tables. These 
+      processed data formats make information derived from CF programs more findable, 
+      accessible, interoperable, and reusable (FAIR), and artificial intelligence 
+      (AI)-ready for cross-DCC knowledge discovery. Besides serving data, metadata, and 
+      code assets, the CFDE Workbench has also developed several tools that utilize 
+      these resources to enable cross-CF-program knowledge discovery use cases. 
+      Overall, the CFDE Workbench is a platform that consolidates efforts toward making 
+      CF resources harmonized, FAIR, and AI-ready. The CFDE Workbench website is 
+      available from https://cfde.cloud.
+CI  - Copyright © 2026 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+FAU - Evangelista, John Erol
+AU  - Evangelista JE
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Clarke, Daniel J B
+AU  - Clarke DJB
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Byrd, Anna I
+AU  - Byrd AI
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Srinivasan, Shivaramakrishna
+AU  - Srinivasan S
+AD  - Department of Bioengineering, University of California San Diego, La Jolla, CA 
+      92093, USA.
+FAU - Srinivasan, Sumana
+AU  - Srinivasan S
+AD  - Department of Bioengineering, University of California San Diego, La Jolla, CA 
+      92093, USA.
+FAU - Maurya, Mano R
+AU  - Maurya MR
+AD  - Department of Bioengineering, University of California San Diego, La Jolla, CA 
+      92093, USA.
+FAU - Jenkins, Sherry L
+AU  - Jenkins SL
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Diamant, Ido
+AU  - Diamant I
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Sanchez, Ethan
+AU  - Sanchez E
+AD  - Department of Bioengineering, University of California San Diego, La Jolla, CA 
+      92093, USA.
+FAU - Xie, Zhuorui
+AU  - Xie Z
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Olaiya, Stephanie
+AU  - Olaiya S
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Kim, Heesu
+AU  - Kim H
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Marino, Giacomo B
+AU  - Marino GB
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Ahmed, Nasheath
+AU  - Ahmed N
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA.
+FAU - Ramachandran, Srinivasan
+AU  - Ramachandran S
+AD  - Department of Bioengineering, University of California San Diego, La Jolla, CA 
+      92093, USA.
+FAU - Subramaniam, Shankar
+AU  - Subramaniam S
+AD  - Department of Bioengineering, University of California San Diego, La Jolla, CA 
+      92093, USA. Electronic address: shsubramaniam@ucsd.edu.
+FAU - Ma'ayan, Avi
+AU  - Ma'ayan A
+AD  - Department of Pharmacological Sciences, Windreich Department of Artificial 
+      Intelligence and Human Health, Mount Sinai Center for Bioinformatics, Icahn 
+      School of Medicine at Mount Sinai, New York, NY 10029 USA. Electronic address: 
+      avi.maayan@mssm.edu.
+LA  - eng
+GR  - U24 DK141185/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+DEP - 20260106
+PL  - Netherlands
+TA  - J Mol Biol
+JT  - Journal of molecular biology
+JID - 2985088R
+SB  - IM
+OTO - NOTNLM
+OT  - AI-readiness
+OT  - data management
+OT  - enrichment analysis
+OT  - gene pages
+OT  - knowledge graphs
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2026/01/09 00:26
+MHDA- 2026/01/09 00:26
+CRDT- 2026/01/08 19:11
+PHST- 2025/11/04 00:00 [received]
+PHST- 2025/12/29 00:00 [revised]
+PHST- 2026/01/02 00:00 [accepted]
+PHST- 2026/01/09 00:26 [pubmed]
+PHST- 2026/01/09 00:26 [medline]
+PHST- 2026/01/08 19:11 [entrez]
+AID - S0022-2836(26)00004-5 [pii]
+AID - 10.1016/j.jmb.2026.169631 [doi]
+PST - aheadofprint
+SO  - J Mol Biol. 2026 Jan 6:169631. doi: 10.1016/j.jmb.2026.169631.

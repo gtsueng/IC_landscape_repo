@@ -1,0 +1,159 @@
+PMID- 29346583
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250530
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Print)
+IS  - 1067-5027 (Linking)
+VI  - 25
+IP  - 3
+DP  - 2018 Mar 1
+TI  - DataMed - an open source discovery index for finding biomedical datasets.
+PG  - 300-308
+LID - 10.1093/jamia/ocx121 [doi]
+AB  - OBJECTIVE: Finding relevant datasets is important for promoting data reuse in the 
+      biomedical domain, but it is challenging given the volume and complexity of 
+      biomedical data. Here we describe the development of an open source biomedical 
+      data discovery system called DataMed, with the goal of promoting the building of 
+      additional data indexes in the biomedical domain. MATERIALS AND METHODS: DataMed, 
+      which can efficiently index and search diverse types of biomedical datasets 
+      across repositories, is developed through the National Institutes of 
+      Health-funded biomedical and healthCAre Data Discovery Index Ecosystem 
+      (bioCADDIE) consortium. It consists of 2 main components: (1) a data ingestion 
+      pipeline that collects and transforms original metadata information to a unified 
+      metadata model, called DatA Tag Suite (DATS), and (2) a search engine that finds 
+      relevant datasets based on user-entered queries. In addition to describing its 
+      architecture and techniques, we evaluated individual components within DataMed, 
+      including the accuracy of the ingestion pipeline, the prevalence of the DATS 
+      model across repositories, and the overall performance of the dataset retrieval 
+      engine. RESULTS AND CONCLUSION: Our manual review shows that the ingestion 
+      pipeline could achieve an accuracy of 90% and core elements of DATS had varied 
+      frequency across repositories. On a manually curated benchmark dataset, the 
+      DataMed search engine achieved an inferred average precision of 0.2033 and a 
+      precision at 10 (P@10, the number of relevant results in the top 10 search 
+      results) of 0.6022, by implementing advanced natural language processing and 
+      terminology services. Currently, we have made the DataMed system publically 
+      available as an open source package for the biomedical community.
+CI  - © The Author 2018. Published by Oxford University Press on behalf of the American 
+      Medical Informatics Association. All rights reserved. For Permissions, please 
+      email: journals.permissions@oup.com.
+FAU - Chen, Xiaoling
+AU  - Chen X
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Gururaj, Anupama E
+AU  - Gururaj AE
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Ozyurt, Burak
+AU  - Ozyurt B
+AD  - Center for Research in Biological Systems.
+FAU - Liu, Ruiling
+AU  - Liu R
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Soysal, Ergin
+AU  - Soysal E
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Cohen, Trevor
+AU  - Cohen T
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Tiryaki, Firat
+AU  - Tiryaki F
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Li, Yueling
+AU  - Li Y
+AD  - Center for Research in Biological Systems.
+FAU - Zong, Nansu
+AU  - Zong N
+AD  - Department of Biomedical Informatics, University of California San Diego, La 
+      Jolla, CA, USA.
+FAU - Jiang, Min
+AU  - Jiang M
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Rogith, Deevakar
+AU  - Rogith D
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Salimi, Mandana
+AU  - Salimi M
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Kim, Hyeon-Eui
+AU  - Kim HE
+AD  - Department of Biomedical Informatics, University of California San Diego, La 
+      Jolla, CA, USA.
+FAU - Rocca-Serra, Philippe
+AU  - Rocca-Serra P
+AD  - e-Research Centre, University of Oxford, Oxford, UK.
+FAU - Gonzalez-Beltran, Alejandra
+AU  - Gonzalez-Beltran A
+AD  - e-Research Centre, University of Oxford, Oxford, UK.
+FAU - Farcas, Claudiu
+AU  - Farcas C
+AD  - Department of Biomedical Informatics, University of California San Diego, La 
+      Jolla, CA, USA.
+FAU - Johnson, Todd
+AU  - Johnson T
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+FAU - Margolis, Ron
+AU  - Margolis R
+AD  - National Institutes of Health, Bethesda, MD, USA.
+FAU - Alter, George
+AU  - Alter G
+AD  - University of Michigan, Ann Arbor, MI, USA.
+FAU - Sansone, Susanna-Assunta
+AU  - Sansone SA
+AD  - e-Research Centre, University of Oxford, Oxford, UK.
+FAU - Fore, Ian M
+AU  - Fore IM
+AD  - National Institutes of Health, Bethesda, MD, USA.
+FAU - Ohno-Machado, Lucila
+AU  - Ohno-Machado L
+AD  - Department of Biomedical Informatics, University of California San Diego, La 
+      Jolla, CA, USA.
+FAU - Grethe, Jeffrey S
+AU  - Grethe JS
+AD  - Center for Research in Biological Systems.
+FAU - Xu, Hua
+AU  - Xu H
+AD  - School of Biomedical Informatics, The University of Texas Health Science Center 
+      at Houston, Houston, TX, USA.
+LA  - eng
+GR  - BB/I000771/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+GR  - U24 AI117966/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+PMC - PMC7378878
+OTO - NOTNLM
+OT  - data discovery index
+OT  - dataset
+OT  - information dissemination
+OT  - information storage and retrieval
+OT  - metadata
+EDAT- 2018/01/19 06:00
+MHDA- 2018/01/19 06:01
+PMCR- 2018/01/13
+CRDT- 2018/01/19 06:00
+PHST- 2017/05/30 00:00 [received]
+PHST- 2017/09/20 00:00 [revised]
+PHST- 2017/09/28 00:00 [accepted]
+PHST- 2018/01/19 06:00 [pubmed]
+PHST- 2018/01/19 06:01 [medline]
+PHST- 2018/01/19 06:00 [entrez]
+PHST- 2018/01/13 00:00 [pmc-release]
+AID - 4807508 [pii]
+AID - ocx121 [pii]
+AID - 10.1093/jamia/ocx121 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2018 Mar 1;25(3):300-308. doi: 10.1093/jamia/ocx121.

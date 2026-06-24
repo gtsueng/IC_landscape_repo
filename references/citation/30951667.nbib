@@ -1,0 +1,476 @@
+PMID- 30951667
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200124
+LR  - 20260518
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Print)
+IS  - 0092-8674 (Linking)
+VI  - 177
+IP  - 2
+DP  - 2019 Apr 4
+TI  - The Extracellular RNA Communication Consortium: Establishing Foundational 
+      Knowledge and Technologies for Extracellular RNA Research.
+PG  - 231-242
+LID - S0092-8674(19)30285-5 [pii]
+LID - 10.1016/j.cell.2019.03.023 [doi]
+AB  - The Extracellular RNA Communication Consortium (ERCC) was launched to accelerate 
+      progress in the new field of extracellular RNA (exRNA) biology and to establish 
+      whether exRNAs and their carriers, including extracellular vesicles (EVs), can 
+      mediate intercellular communication and be utilized for clinical applications. 
+      Phase 1 of the ERCC focused on exRNA/EV biogenesis and function, discovery of 
+      exRNA biomarkers, development of exRNA/EV-based therapeutics, and construction of 
+      a robust set of reference exRNA profiles for a variety of biofluids. Here, we 
+      present progress by ERCC investigators in these areas, and we discuss 
+      collaborative projects directed at development of robust methods for EV/exRNA 
+      isolation and analysis and tools for sharing and computational analysis of exRNA 
+      profiling data.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Das, Saumya
+AU  - Das S
+AD  - Cardiovascular Research Center, Massachusetts General Hospital, Boston, MA 02114, 
+      USA.
+CN  - Extracellular RNA Communication Consortium
+AD  - http://exRNA.org/.
+FAU - Ansel, K Mark
+AU  - Ansel KM
+AD  - Department Microbiology & Immunology and Sandler Asthma Basic Research Center, 
+      University of California San Francisco, San Francisco, CA 94143, USA.
+FAU - Bitzer, Markus
+AU  - Bitzer M
+AD  - Department of Medicine, University of Michigan, Ann Arbor, MI 48109, USA.
+FAU - Breakefield, Xandra O
+AU  - Breakefield XO
+AD  - Department of Neurology and Center for Molecular Imaging Research Department of 
+      Radiology, Massachusetts General Hospital, Charlestown, MA 02129 USA; Program in 
+      Neuroscience, Harvard Medical School, Boston, MA 02115, USA.
+FAU - Charest, Alain
+AU  - Charest A
+AD  - Department of Medicine, Beth Israel Deaconess Medical Center, Harvard Medical 
+      School, Boston, MA 02215, USA.
+FAU - Galas, David J
+AU  - Galas DJ
+AD  - Pacific Northwest Research Institute, Seattle, WA 98122, USA.
+FAU - Gerstein, Mark B
+AU  - Gerstein MB
+AD  - Program in Computational Biology & Bioinformatics, Department of Molecular 
+      Biophysics & Biochemistry, Department of Computer Science, and Department of 
+      Statistics & Data Science, Yale University, New Haven, CT 06520, USA.
+FAU - Gupta, Mihir
+AU  - Gupta M
+AD  - Department of Neurosurgery, University of California, San Diego, CA 92093, USA.
+FAU - Milosavljevic, Aleksandar
+AU  - Milosavljevic A
+AD  - Molecular and Human Genetics Department, Baylor College of Medicine, 1 Baylor 
+      Plaza, Houston, TX 77030, USA; Program in Quantitative and Computational 
+      Biosciences, Baylor College of Medicine, 1 Baylor Plaza, Houston, TX 77030, USA.
+FAU - McManus, Michael T
+AU  - McManus MT
+AD  - Department of Microbiology and Immunology, University of California San Francisco 
+      Diabetes Center, WM Keck Center for Noncoding RNAs, University of California, San 
+      Francisco, San Francisco, CA 94143, USA.
+FAU - Patel, Tushar
+AU  - Patel T
+AD  - Department of Transplantation, Mayo Clinic, Jacksonville, FL 32224, USA.
+FAU - Raffai, Robert L
+AU  - Raffai RL
+AD  - Department of Surgery, University of California San Francisco & Veterans Affairs 
+      Medical Center San Francisco, San Francisco, CA 94121, USA.
+FAU - Rozowsky, Joel
+AU  - Rozowsky J
+AD  - Department of Molecular Biophysics and Biochemistry, Program in Computational 
+      Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA.
+FAU - Roth, Matthew E
+AU  - Roth ME
+AD  - Molecular and Human Genetics Department, Baylor College of Medicine, 1 Baylor 
+      Plaza, Houston, TX 77030, USA; Program in Quantitative and Computational 
+      Biosciences, Baylor College of Medicine, 1 Baylor Plaza, Houston, TX 77030, USA.
+FAU - Saugstad, Julie A
+AU  - Saugstad JA
+AD  - Department of Anesthesiology & Perioperative Medicine, Oregon Health & Science 
+      University, Portland, OR 97239, USA.
+FAU - Van Keuren-Jensen, Kendall
+AU  - Van Keuren-Jensen K
+AD  - Neurogenomics, Translational Genomics Research Institute, Phoenix, AZ 85284, USA.
+FAU - Weaver, Alissa M
+AU  - Weaver AM
+AD  - Department of Cell and Developmental Biology, Vanderbilt University School of 
+      Medicine and Department of Pathology, Microbiology, and Immunology, Vanderbilt 
+      University Medical Center, Nashville, TN 37232, USA.
+FAU - Laurent, Louise C
+AU  - Laurent LC
+AD  - Department of Obstetrics, Gynecology, and Reproductive Sciences and Sanford 
+      Consortium for Regenerative Medicine, University of California, San Diego, La 
+      Jolla, CA 92093, USA. Electronic address: llaurent@ucsd.edu.
+LA  - eng
+GR  - UH3 TR000931/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000875/TR/NCATS NIH HHS/United States
+GR  - UH3 TR000943/TR/NCATS NIH HHS/United States
+GR  - T32 AR059033/AR/NIAMS NIH HHS/United States
+GR  - R01 HL128996/HL/NHLBI NIH HHS/United States
+GR  - UH2 TR000931/TR/NCATS NIH HHS/United States
+GR  - U01 HL126493/HL/NHLBI NIH HHS/United States
+GR  - UH3 TR000901/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000901/TR/NCATS NIH HHS/United States
+GR  - UH3 TR000906/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000891/TR/NCATS NIH HHS/United States
+GR  - R01 HL145721/HL/NHLBI NIH HHS/United States
+GR  - P01 CA069246/CA/NCI NIH HHS/United States
+GR  - UH3 TR000921/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000884/TR/NCATS NIH HHS/United States
+GR  - U01 HL126497/HL/NHLBI NIH HHS/United States
+GR  - UH2 TR000906/TR/NCATS NIH HHS/United States
+GR  - U19 CA179513/CA/NCI NIH HHS/United States
+GR  - UH3 TR000902/TR/NCATS NIH HHS/United States
+GR  - UH3 TR000875/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000943/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000890/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000914/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000921/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000923/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000928/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000903/TR/NCATS NIH HHS/United States
+GR  - K24 HL137013/HL/NHLBI NIH HHS/United States
+GR  - R01 NS019108/NS/NINDS NIH HHS/United States
+GR  - UH2 TR000888/TR/NCATS NIH HHS/United States
+GR  - UH3 TR000914/TR/NCATS NIH HHS/United States
+GR  - U54 DA036134/DA/NIDA NIH HHS/United States
+GR  - UH3 TR000891/TR/NCATS NIH HHS/United States
+GR  - U19 CA179514/CA/NCI NIH HHS/United States
+GR  - U01 HL126496/HL/NHLBI NIH HHS/United States
+GR  - UH3 TR000918/TR/NCATS NIH HHS/United States
+GR  - U19 CA179564/CA/NCI NIH HHS/United States
+GR  - UH2 TR000880/TR/NCATS NIH HHS/United States
+GR  - U01 HL126495/HL/NHLBI NIH HHS/United States
+GR  - R01 DK100449/DK/NIDDK NIH HHS/United States
+GR  - UH2 TR000902/TR/NCATS NIH HHS/United States
+GR  - R01 AG041232/AG/NIA NIH HHS/United States
+GR  - U19 CA179563/CA/NCI NIH HHS/United States
+GR  - UH3 TR000890/TR/NCATS NIH HHS/United States
+GR  - UH3 TR000903/TR/NCATS NIH HHS/United States
+GR  - P30 DK020572/DK/NIDDK NIH HHS/United States
+GR  - U19 CA179512/CA/NCI NIH HHS/United States
+GR  - UH3 TR000928/TR/NCATS NIH HHS/United States
+GR  - UH3 TR000923/TR/NCATS NIH HHS/United States
+GR  - UH3 TR000888/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000918/TR/NCATS NIH HHS/United States
+GR  - UH3 TR000933/TR/NCATS NIH HHS/United States
+GR  - U01 HL126494/HL/NHLBI NIH HHS/United States
+GR  - UH3 TR000884/TR/NCATS NIH HHS/United States
+GR  - UH2 TR000933/TR/NCATS NIH HHS/United States
+GR  - U01 HL126499/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+RN  - 0 (Biomarkers)
+RN  - 0 (Cell-Free Nucleic Acids)
+RN  - 0 (MicroRNAs)
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - Biomarkers
+MH  - Cell-Free Nucleic Acids/*genetics/*metabolism
+MH  - Extracellular Vesicles/*genetics
+MH  - Humans
+MH  - Knowledge Bases
+MH  - MicroRNAs/genetics
+MH  - RNA/genetics
+PMC - PMC6601620
+MID - NIHMS1524563
+COIS- DECLARATION OF INTERESTS S.D. is a founding member of Dyrnamix, which has a 
+      patent on extracellular RNA biomarkers for cardiac remodeling. K.V.K.-J. is on 
+      the scientific advisory board for Dyrnamix. M.B. is a Clinical Advisor to 
+      Opsidio, LLC.
+FIR - Abdel-Mageed, Asim B
+IR  - Abdel-Mageed AB
+FIR - Adamidi, Catherine
+IR  - Adamidi C
+FIR - Adelson, P David
+IR  - Adelson PD
+FIR - Akat, Kemal M
+IR  - Akat KM
+FIR - Alsop, Eric
+IR  - Alsop E
+FIR - Ansel, K Mark
+IR  - Ansel KM
+FIR - Arango, Jorge
+IR  - Arango J
+FIR - Aronin, Neil
+IR  - Aronin N
+FIR - Avsaroglu, Seda Kilinc
+IR  - Avsaroglu SK
+FIR - Azizian, Azadeh
+IR  - Azizian A
+FIR - Balaj, Leonora
+IR  - Balaj L
+FIR - Ben-Dov, Iddo Z
+IR  - Ben-Dov IZ
+FIR - Bertram, Karl
+IR  - Bertram K
+FIR - Bitzer, Markus
+IR  - Bitzer M
+FIR - Blelloch, Robert
+IR  - Blelloch R
+FIR - Bogardus, Kimberly A
+IR  - Bogardus KA
+FIR - Breakefield, Xandra Owens
+IR  - Breakefield XO
+FIR - Calin, George A
+IR  - Calin GA
+FIR - Carter, Bob S
+IR  - Carter BS
+FIR - Charest, Al
+IR  - Charest A
+FIR - Chen, Clark C
+IR  - Chen CC
+FIR - Chitnis, Tanuja
+IR  - Chitnis T
+FIR - Coffey, Robert J
+IR  - Coffey RJ
+FIR - Courtright-Lim, Amanda
+IR  - Courtright-Lim A
+FIR - Das, Saumya
+IR  - Das S
+FIR - Datta, Amrita
+IR  - Datta A
+FIR - DeHoff, Peter
+IR  - DeHoff P
+FIR - Diacovo, Thomas G
+IR  - Diacovo TG
+FIR - Erle, David J
+IR  - Erle DJ
+FIR - Etheridge, Alton
+IR  - Etheridge A
+FIR - Ferrer, Marc
+IR  - Ferrer M
+FIR - Franklin, Jeffrey L
+IR  - Franklin JL
+FIR - Freedman, Jane E
+IR  - Freedman JE
+FIR - Galas, David J
+IR  - Galas DJ
+FIR - Galeev, Timur
+IR  - Galeev T
+FIR - Gandhi, Roopali
+IR  - Gandhi R
+FIR - Garcia, Aitor
+IR  - Garcia A
+FIR - Gerstein, Mark Bender
+IR  - Gerstein MB
+FIR - Ghai, Vikas
+IR  - Ghai V
+FIR - Ghiran, Ionita Calin
+IR  - Ghiran IC
+FIR - Giraldez, Maria D
+IR  - Giraldez MD
+FIR - Goga, Andrei
+IR  - Goga A
+FIR - Gogakos, Tasos
+IR  - Gogakos T
+FIR - Goilav, Beatrice
+IR  - Goilav B
+FIR - Gould, Stephen J
+IR  - Gould SJ
+FIR - Guo, Peixuan
+IR  - Guo P
+FIR - Gupta, Mihir
+IR  - Gupta M
+FIR - Hochberg, Fred
+IR  - Hochberg F
+FIR - Huang, Bo
+IR  - Huang B
+FIR - Huentelman, Matt
+IR  - Huentelman M
+FIR - Hunter, Craig
+IR  - Hunter C
+FIR - Hutchins, Elizabeth
+IR  - Hutchins E
+FIR - Jackson, Andrew R
+IR  - Jackson AR
+FIR - Kalani, M Yashar S
+IR  - Kalani MYS
+FIR - Kanlikilicer, Pinar
+IR  - Kanlikilicer P
+FIR - Karaszti, Reka Agnes
+IR  - Karaszti RA
+FIR - Van Keuren-Jensen, Kendall
+IR  - Van Keuren-Jensen K
+FIR - Khvorova, Anastasia
+IR  - Khvorova A
+FIR - Kim, Yong
+IR  - Kim Y
+FIR - Kim, Hogyoung
+IR  - Kim H
+FIR - Kim, Taek Kyun
+IR  - Kim TK
+FIR - Kitchen, Robert
+IR  - Kitchen R
+FIR - Kraig, Richard P
+IR  - Kraig RP
+FIR - Krichevsky, Anna M
+IR  - Krichevsky AM
+FIR - Kwong, Raymond Y
+IR  - Kwong RY
+FIR - Laurent, Louise C
+IR  - Laurent LC
+FIR - Lee, Minyoung
+IR  - Lee M
+FIR - L'Etoile, Noelle
+IR  - L'Etoile N
+FIR - Levy, Shawn E
+IR  - Levy SE
+FIR - Li, Feng
+IR  - Li F
+FIR - Li, Jenny
+IR  - Li J
+FIR - Li, Xin
+IR  - Li X
+FIR - Lopez-Berestein, Gabriel
+IR  - Lopez-Berestein G
+FIR - Lucero, Rocco
+IR  - Lucero R
+FIR - Mateescu, Bogdan
+IR  - Mateescu B
+FIR - Matin, A C
+IR  - Matin AC
+FIR - Max, Klaas E A
+IR  - Max KEA
+FIR - McManus, Michael T
+IR  - McManus MT
+FIR - Mempel, Thorsten R
+IR  - Mempel TR
+FIR - Meyer, Cindy
+IR  - Meyer C
+FIR - Milosavljevic, Aleksandar
+IR  - Milosavljevic A
+FIR - Mondal, Debasis
+IR  - Mondal D
+FIR - Mukamal, Kenneth Jay
+IR  - Mukamal KJ
+FIR - Murillo, Oscar D
+IR  - Murillo OD
+FIR - Muthukumar, Thangamani
+IR  - Muthukumar T
+FIR - Nickerson, Deborah A
+IR  - Nickerson DA
+FIR - O'Donnell, Christopher J
+IR  - O'Donnell CJ
+FIR - Patel, Dinshaw J
+IR  - Patel DJ
+FIR - Patel, Tushar
+IR  - Patel T
+FIR - Patton, James G
+IR  - Patton JG
+FIR - Paul, Anu
+IR  - Paul A
+FIR - Peskind, Elaine R
+IR  - Peskind ER
+FIR - Phelps, Mitch A
+IR  - Phelps MA
+FIR - Putterman, Chaim
+IR  - Putterman C
+FIR - Quesenberry, Peter J
+IR  - Quesenberry PJ
+FIR - Quinn, Joseph F
+IR  - Quinn JF
+FIR - Raffai, Robert L
+IR  - Raffai RL
+FIR - Ranabothu, Saritha
+IR  - Ranabothu S
+FIR - Rao, Shannon Jiang
+IR  - Rao SJ
+FIR - Rodriguez-Aguayo, Cristian
+IR  - Rodriguez-Aguayo C
+FIR - Rosenzweig, Anthony
+IR  - Rosenzweig A
+FIR - Roth, Matthew E
+IR  - Roth ME
+FIR - Rozowsky, Joel
+IR  - Rozowsky J
+FIR - Sabatine, Marc S
+IR  - Sabatine MS
+FIR - Sakhanenko, Nikita A
+IR  - Sakhanenko NA
+FIR - Saugstad, Julie Anne
+IR  - Saugstad JA
+FIR - Schmittgen, Thomas D
+IR  - Schmittgen TD
+FIR - Shah, Neethu
+IR  - Shah N
+FIR - Shah, Ravi
+IR  - Shah R
+FIR - Shedden, Kerby
+IR  - Shedden K
+FIR - Shi, Jian
+IR  - Shi J
+FIR - Sood, Anil K
+IR  - Sood AK
+FIR - Sopeyin, Anuoluwapo
+IR  - Sopeyin A
+FIR - Spengler, Ryan M
+IR  - Spengler RM
+FIR - Spetzler, Robert
+IR  - Spetzler R
+FIR - Srinivasan, Srimeenakshi
+IR  - Srinivasan S
+FIR - Subramanian, Sai Lakshmi
+IR  - Subramanian SL
+FIR - Suthanthiran, Manikkam
+IR  - Suthanthiran M
+FIR - Tanriverdi, Kahraman
+IR  - Tanriverdi K
+FIR - Teng, Yun
+IR  - Teng Y
+FIR - Tewari, Muneesh
+IR  - Tewari M
+FIR - Thistlethwaite, William
+IR  - Thistlethwaite W
+FIR - Tuschl, Thomas
+IR  - Tuschl T
+FIR - Urbanowicz, Karolina Kaczor
+IR  - Urbanowicz KK
+FIR - Vickers, Kasey C
+IR  - Vickers KC
+FIR - Voinnet, Olivier
+IR  - Voinnet O
+FIR - Wang, Kai
+IR  - Wang K
+FIR - Weaver, Alissa M
+IR  - Weaver AM
+FIR - Wei, Zhiyun
+IR  - Wei Z
+FIR - Weiner, Howard L
+IR  - Weiner HL
+FIR - Weiss, Zachary R
+IR  - Weiss ZR
+FIR - Williams, Zev
+IR  - Williams Z
+FIR - Wong, David T W
+IR  - Wong DTW
+FIR - Woodruff, Prescott G
+IR  - Woodruff PG
+FIR - Xiao, Xinshu
+IR  - Xiao X
+FIR - Yan, Irene K
+IR  - Yan IK
+FIR - Yeri, Ashish
+IR  - Yeri A
+FIR - Zhang, Bing
+IR  - Zhang B
+FIR - Zhang, Huang-Ge
+IR  - Zhang HG
+EDAT- 2019/04/06 06:00
+MHDA- 2020/01/25 06:00
+PMCR- 2020/04/04
+CRDT- 2019/04/06 06:00
+PHST- 2019/04/06 06:00 [entrez]
+PHST- 2019/04/06 06:00 [pubmed]
+PHST- 2020/01/25 06:00 [medline]
+PHST- 2020/04/04 00:00 [pmc-release]
+AID - S0092-8674(19)30285-5 [pii]
+AID - 10.1016/j.cell.2019.03.023 [doi]
+PST - ppublish
+SO  - Cell. 2019 Apr 4;177(2):231-242. doi: 10.1016/j.cell.2019.03.023.

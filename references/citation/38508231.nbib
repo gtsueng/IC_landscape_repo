@@ -1,0 +1,98 @@
+PMID- 38508231
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240502
+LR  - 20240822
+IS  - 1878-5832 (Electronic)
+IS  - 1359-6446 (Print)
+IS  - 1359-6446 (Linking)
+VI  - 29
+IP  - 5
+DP  - 2024 May
+TI  - Best practices for managing and disseminating resources and outreach and 
+      evaluating the impact of the IDG Consortium.
+PG  - 103953
+LID - S1359-6446(24)00078-3 [pii]
+LID - 10.1016/j.drudis.2024.103953 [doi]
+AB  - The Illuminating the Druggable Genome (IDG) consortium generated reagents, 
+      biological model systems, data, informatic databases, and computational tools. 
+      The Resource Dissemination and Outreach Center (RDOC) played a central 
+      administrative role, organized internal meetings, fostered collaboration, and 
+      coordinated consortium-wide efforts. The RDOC developed and deployed a Resource 
+      Management System (RMS) to enable efficient workflows for collecting, accessing, 
+      validating, registering, and publishing resource metadata. IDG policies for 
+      repositories and standardized representations of resources were established, 
+      adopting the FAIR (findable, accessible, interoperable, reusable) principles. The 
+      RDOC also developed metrics of IDG impact. Outreach initiatives included digital 
+      content, the Protein Illumination Timeline (representing milestones in generating 
+      data and reagents), the Target Watch publication series, the e-IDG Symposium 
+      series, and leveraging social media platforms.
+CI  - Copyright © 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Vidović, Dušica
+AU  - Vidović D
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine, 
+      University of Miami, Miami, FL, USA; Sylvester Comprehensive Cancer Center, 
+      Miller School of Medicine, University of Miami, Miami, FL, USA.
+FAU - Waller, Anna
+AU  - Waller A
+AD  - Department of Pathology, Health Sciences Center, University of New Mexico, 
+      Albuquerque, NM, USA.
+FAU - Holmes, Jayme
+AU  - Holmes J
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico School of Medicine, Albuquerque, NM, USA.
+FAU - Sklar, Larry A
+AU  - Sklar LA
+AD  - Department of Pathology, Health Sciences Center, University of New Mexico, 
+      Albuquerque, NM, USA; Autophagy, Inflammation, & Metabolism (AIM) Center, 
+      University of New Mexico, Albuquerque, NM, USA.
+FAU - Schürer, Stephan C
+AU  - Schürer SC
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine, 
+      University of Miami, Miami, FL, USA; Sylvester Comprehensive Cancer Center, 
+      Miller School of Medicine, University of Miami, Miami, FL, USA; Frost Institute 
+      for Data Science & Computing, University of Miami, Miami, FL, USA. Electronic 
+      address: sschurer@miami.edu.
+LA  - eng
+GR  - P20 GM121176/GM/NIGMS NIH HHS/United States
+GR  - R01 LM013391/LM/NLM NIH HHS/United States
+GR  - U01 LM012630/LM/NLM NIH HHS/United States
+GR  - U24 TR002278/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240318
+PL  - England
+TA  - Drug Discov Today
+JT  - Drug discovery today
+JID - 9604391
+SB  - IM
+MH  - Humans
+MH  - Databases, Factual
+MH  - *Information Dissemination
+PMC - PMC11335350
+MID - NIHMS1983781
+OTO - NOTNLM
+OT  - FAIR data
+OT  - druggable genome
+OT  - metadata management
+OT  - outreach
+OT  - resource dissemination
+OT  - understudied proteins
+COIS- Declarations of interest The authors declare no conflict of interest.
+EDAT- 2024/03/21 00:43
+MHDA- 2024/05/03 00:50
+PMCR- 2024/08/20
+CRDT- 2024/03/20 20:23
+PHST- 2023/10/15 00:00 [received]
+PHST- 2024/03/08 00:00 [revised]
+PHST- 2024/03/14 00:00 [accepted]
+PHST- 2024/05/03 00:50 [medline]
+PHST- 2024/03/21 00:43 [pubmed]
+PHST- 2024/03/20 20:23 [entrez]
+PHST- 2024/08/20 00:00 [pmc-release]
+AID - S1359-6446(24)00078-3 [pii]
+AID - 10.1016/j.drudis.2024.103953 [doi]
+PST - ppublish
+SO  - Drug Discov Today. 2024 May;29(5):103953. doi: 10.1016/j.drudis.2024.103953. Epub 
+      2024 Mar 18.

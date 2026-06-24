@@ -1,0 +1,115 @@
+PMID- 28546571
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190422
+LR  - 20250530
+IS  - 1546-1718 (Electronic)
+IS  - 1061-4036 (Print)
+IS  - 1061-4036 (Linking)
+VI  - 49
+IP  - 6
+DP  - 2017 May 26
+TI  - Finding useful data across multiple biomedical data repositories using DataMed.
+PG  - 816-819
+LID - 10.1038/ng.3864 [doi]
+AB  - The value of broadening searches for data across multiple repositories has been 
+      identified by the biomedical research community. As part of the US National 
+      Institutes of Health (NIH) Big Data to Knowledge initiative, we work with an 
+      international community of researchers, service providers and knowledge experts 
+      to develop and test a data index and search engine, which are based on metadata 
+      extracted from various data sets in a range of repositories. DataMed is designed 
+      to be, for data, what PubMed has been for the scientific literature. DataMed 
+      supports the findability and accessibility of data sets. These 
+      characteristics—along with interoperability and reusability—compose the four FAIR 
+      principles to facilitate knowledge discovery in today’s big data–intensive 
+      science landscape.
+FAU - Ohno-Machado, Lucila
+AU  - Ohno-Machado L
+AUID- ORCID: 0000-0002-8005-7327
+AD  - Health System Department of Biomedical Informatics, University of California, San 
+      Diego, La Jolla, California, USA.
+AD  - Veterans Administration San Diego Healthcare System, San Diego, California, USA.
+FAU - Sansone, Susanna-Assunta
+AU  - Sansone SA
+AUID- ORCID: 0000-0001-5306-5690
+AD  - e-Research Centre, University of Oxford, Oxford, UK.
+FAU - Alter, George
+AU  - Alter G
+AD  - Department of History and Inter-University Consortium for Political and Social 
+      Research (ICPSR), Institute for Social Research, University of Michigan, Ann 
+      Arbor, Michigan, USA.
+FAU - Fore, Ian
+AU  - Fore I
+AUID- ORCID: 0000-0002-2926-9324
+AD  - US National Institutes of Health, Bethesda, Maryland, USA.
+FAU - Grethe, Jeffrey
+AU  - Grethe J
+AUID- ORCID: 0000-0001-5212-7052
+AD  - Department of Neurosciences, University of California, San Diego, La Jolla, 
+      California, USA.
+FAU - Xu, Hua
+AU  - Xu H
+AD  - School of Biomedical Informatics,University of Texas Health Science Center at 
+      Houston, Houston, Texas, USA.
+FAU - Gonzalez-Beltran, Alejandra
+AU  - Gonzalez-Beltran A
+AD  - e-Research Centre, University of Oxford, Oxford, UK.
+FAU - Rocca-Serra, Philippe
+AU  - Rocca-Serra P
+AD  - e-Research Centre, University of Oxford, Oxford, UK.
+FAU - Gururaj, Anupama E
+AU  - Gururaj AE
+AD  - School of Biomedical Informatics,University of Texas Health Science Center at 
+      Houston, Houston, Texas, USA.
+FAU - Bell, Elizabeth
+AU  - Bell E
+AD  - Health System Department of Biomedical Informatics, University of California, San 
+      Diego, La Jolla, California, USA.
+FAU - Soysal, Ergin
+AU  - Soysal E
+AUID- ORCID: 0000-0002-2107-0580
+AD  - School of Biomedical Informatics,University of Texas Health Science Center at 
+      Houston, Houston, Texas, USA.
+FAU - Zong, Nansu
+AU  - Zong N
+AD  - Health System Department of Biomedical Informatics, University of California, San 
+      Diego, La Jolla, California, USA.
+FAU - Kim, Hyeon-Eui
+AU  - Kim HE
+AD  - Health System Department of Biomedical Informatics, University of California, San 
+      Diego, La Jolla, California, USA.
+LA  - eng
+GR  - BB/I000771/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+GR  - U24 AI117966/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Nat Genet
+JT  - Nature genetics
+JID - 9216904
+SB  - IM
+MH  - *Biological Ontologies
+MH  - *Biomedical Research
+MH  - Computational Biology/*methods
+MH  - *Databases, Factual
+MH  - Humans
+MH  - *Metadata
+MH  - Software
+MH  - Systems Integration
+PMC - PMC6460922
+MID - NIHMS942353
+COIS- COMPETING FINANCIAL INTERESTS The authors declare no competing financial 
+      interests.
+EDAT- 2017/05/27 06:00
+MHDA- 2019/04/23 06:00
+PMCR- 2019/04/12
+CRDT- 2017/05/27 06:00
+PHST- 2017/05/27 06:00 [entrez]
+PHST- 2017/05/27 06:00 [pubmed]
+PHST- 2019/04/23 06:00 [medline]
+PHST- 2019/04/12 00:00 [pmc-release]
+AID - ng.3864 [pii]
+AID - 10.1038/ng.3864 [doi]
+PST - ppublish
+SO  - Nat Genet. 2017 May 26;49(6):816-819. doi: 10.1038/ng.3864.

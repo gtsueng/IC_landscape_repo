@@ -1,0 +1,1142 @@
+PMID- 37468756
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20230814
+LR  - 20260518
+IS  - 1476-4679 (Electronic)
+IS  - 1465-7392 (Print)
+IS  - 1465-7392 (Linking)
+VI  - 25
+IP  - 8
+DP  - 2023 Aug
+TI  - Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP).
+PG  - 1089-1100
+LID - 10.1038/s41556-023-01194-w [doi]
+AB  - The Human BioMolecular Atlas Program (HuBMAP) aims to create a multi-scale 
+      spatial atlas of the healthy human body at single-cell resolution by applying 
+      advanced technologies and disseminating resources to the community. As the HuBMAP 
+      moves past its first phase, creating ontologies, protocols and pipelines, this 
+      Perspective introduces the production phase: the generation of reference spatial 
+      maps of functional tissue units across many organs from diverse populations and 
+      the creation of mapping tools and infrastructure to advance biomedical research.
+CI  - © 2023. Springer Nature Limited.
+FAU - Jain, Sanjay
+AU  - Jain S
+AUID- ORCID: 0000-0003-2804-127X
+AD  - Department of Medicine, Washington University School of Medicine, St Louis, MO, 
+      USA. sanjayjain@wustl.edu.
+AD  - Department of Pediatrics, Washington University School of Medicine, St Louis, MO, 
+      USA. sanjayjain@wustl.edu.
+AD  - Department of Pathology and Immunology, Washington University School of Medicine, 
+      St. Louis, MO, USA. sanjayjain@wustl.edu.
+FAU - Pei, Liming
+AU  - Pei L
+AUID- ORCID: 0000-0002-1924-0333
+AD  - Center for Mitochondrial and Epigenomic Medicine, Department of Pathology and 
+      Laboratory Medicine, Children's Hospital of Philadelphia, and Perelman School of 
+      Medicine, University of Pennsylvania, Philadelphia, PA, USA. 
+      lpei@pennmedicine.upenn.edu.
+FAU - Spraggins, Jeffrey M
+AU  - Spraggins JM
+AUID- ORCID: 0000-0001-9198-5498
+AD  - Department of Cell and Developmental Biology and the Mass Spectrometry Research 
+      Center, Vanderbilt University School of Medicine, Nashville, TN, USA. 
+      jeff.spraggins@vanderbilt.edu.
+FAU - Angelo, Michael
+AU  - Angelo M
+AD  - Department of Pathology, Stanford School of Medicine, Stanford, CA, USA.
+FAU - Carson, James P
+AU  - Carson JP
+AD  - Texas Advanced Computing Center, University of Texas at Austin, Austin, TX, USA.
+FAU - Gehlenborg, Nils
+AU  - Gehlenborg N
+AD  - Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA.
+FAU - Ginty, Fiona
+AU  - Ginty F
+AD  - GE Research Center, Niskayuna, NY, USA.
+FAU - Gonçalves, Joana P
+AU  - Gonçalves JP
+AUID- ORCID: 0000-0001-6072-9627
+AD  - Department of Intelligent Systems, Delft University of Technology, Delft, 
+      Netherlands.
+FAU - Hagood, James S
+AU  - Hagood JS
+AUID- ORCID: 0000-0003-3938-0330
+AD  - Department of Pediatrics (Pulmonology) and Program for Rare and Interstitial Lung 
+      Disease, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+FAU - Hickey, John W
+AU  - Hickey JW
+AUID- ORCID: 0000-0001-9961-7673
+AD  - Department of Microbiology and Immunology, Stanford University, Stanford, CA, 
+      USA.
+FAU - Kelleher, Neil L
+AU  - Kelleher NL
+AUID- ORCID: 0000-0002-8815-3372
+AD  - Departments of Medicine, Chemistry and Molecular Biosciences, Northwestern 
+      University, Evanston, IL, USA.
+FAU - Laurent, Louise C
+AU  - Laurent LC
+AD  - Department of Obstetrics, Gynecology, and Reproductive Sciences, University of 
+      California, San Diego, La Jolla, CA, USA.
+FAU - Lin, Shin
+AU  - Lin S
+AD  - Division of Cardiology, University of Washington School of Medicine, Seattle, WA, 
+      USA.
+FAU - Lin, Yiing
+AU  - Lin Y
+AUID- ORCID: 0000-0002-0317-7608
+AD  - Department of Surgery, Washington University School of Medicine, St Louis, MO, 
+      USA.
+FAU - Liu, Huiping
+AU  - Liu H
+AUID- ORCID: 0000-0003-4822-7995
+AD  - Departments of Pharmacology, Medicine (Hematology and Oncology), Lurie Cancer 
+      Center, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.
+FAU - Naba, Alexandra
+AU  - Naba A
+AUID- ORCID: 0000-0002-4796-5614
+AD  - Department of Physiology and Biophysics, University of Illinois at Chicago, 
+      Chicago, IL, USA.
+FAU - Nakayasu, Ernesto S
+AU  - Nakayasu ES
+AUID- ORCID: 0000-0002-4056-2695
+AD  - Biological Sciences Division, Pacific Northwest National Laboratory, Richland, 
+      WA, USA.
+FAU - Qian, Wei-Jun
+AU  - Qian WJ
+AUID- ORCID: 0000-0002-5393-2827
+AD  - Biological Sciences Division, Pacific Northwest National Laboratory, Richland, 
+      WA, USA.
+FAU - Radtke, Andrea
+AU  - Radtke A
+AUID- ORCID: 0000-0003-4379-8967
+AD  - Lymphocyte Biology Section and Center for Advanced Tissue Imaging, Laboratory of 
+      Immune System Biology, NIAID, NIH, Bethesda, MD, USA.
+FAU - Robson, Paul
+AU  - Robson P
+AUID- ORCID: 0000-0002-0191-3958
+AD  - The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA.
+FAU - Stockwell, Brent R
+AU  - Stockwell BR
+AD  - Department of Biological Sciences and Department of Chemistry, Columbia 
+      University, New York, NY, USA.
+FAU - Van de Plas, Raf
+AU  - Van de Plas R
+AD  - Delft Center for Systems and Control, Delft University of Technology, Delft, 
+      Netherlands.
+FAU - Vlachos, Ioannis S
+AU  - Vlachos IS
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+AD  - Spatial Technologies Unit, Harvard Medical School Initiative for RNA Medicine, 
+      Department of Pathology, Beth Israel Deaconess Medical Center, and Harvard 
+      Medical School, Boston, MA, USA.
+FAU - Zhou, Mowei
+AU  - Zhou M
+AD  - Environmental Molecular Sciences Laboratory, Pacific Northwest National 
+      Laboratory, Richland, WA, USA.
+CN  - HuBMAP Consortium
+FAU - Börner, Katy
+AU  - Börner K
+AUID- ORCID: 0000-0002-3321-6137
+AD  - Department of Intelligent Systems Engineering, Indiana University, Bloomington, 
+      IN, USA. katy@indiana.edu.
+FAU - Snyder, Michael P
+AU  - Snyder MP
+AUID- ORCID: 0000-0003-0784-7987
+AD  - Department of Genetics, Stanford School of Medicine, Stanford, CA, USA. 
+      mpsnyder@stanford.edu.
+LA  - eng
+GR  - UH3 CA246635/CA/NCI NIH HHS/United States
+GR  - T32 GM136577/GM/NIGMS NIH HHS/United States
+GR  - U54 HD104393/HD/NICHD NIH HHS/United States
+GR  - UG3 CA256967/CA/NCI NIH HHS/United States
+GR  - OT2 OD026671/OD/NIH HHS/United States
+GR  - K12 HD105271/HD/NICHD NIH HHS/United States
+GR  - U54 HL145608/HL/NHLBI NIH HHS/United States
+GR  - T32 DK101003/DK/NIDDK NIH HHS/United States
+GR  - R01 AR074285/AR/NIAMS NIH HHS/United States
+GR  - T32 CA196585/CA/NCI NIH HHS/United States
+GR  - U24 CA268108/CA/NCI NIH HHS/United States
+GR  - UG3 CA256959/CA/NCI NIH HHS/United States
+GR  - U01 HG012680/HG/NHGRI NIH HHS/United States
+GR  - R01 AR079233/AR/NIAMS NIH HHS/United States
+GR  - U24 DK135157/DK/NIDDK NIH HHS/United States
+GR  - P50 DK133943/DK/NIDDK NIH HHS/United States
+GR  - U54 DK134302/DK/NIDDK NIH HHS/United States
+GR  - R01 DK123329/DK/NIDDK NIH HHS/United States
+GR  - U54 HL165443/HL/NHLBI NIH HHS/United States
+GR  - U54 DK120058/DK/NIDDK NIH HHS/United States
+GR  - U54 DK127823/DK/NIDDK NIH HHS/United States
+GR  - U2C DK114886/DK/NIDDK NIH HHS/United States
+GR  - R01 CA245699/CA/NCI NIH HHS/United States
+GR  - U54 AR081775/AR/NIAMS NIH HHS/United States
+GR  - U01 DK114933/DK/NIDDK NIH HHS/United States
+GR  - U54 HL145611/HL/NHLBI NIH HHS/United States
+GR  - OT2 OD033756/OD/NIH HHS/United States
+GR  - U01 HL166060/HL/NHLBI NIH HHS/United States
+GR  - U01 HL166058/HL/NHLBI NIH HHS/United States
+GR  - U54 HL165440/HL/NHLBI NIH HHS/United States
+GR  - U54 HG010426/HG/NHGRI NIH HHS/United States
+GR  - U54 DK134301/DK/NIDDK NIH HHS/United States
+GR  - R01 HL157991/HL/NHLBI NIH HHS/United States
+GR  - U54 EY032442/EY/NEI NIH HHS/United States
+GR  - UH3 CA246633/CA/NCI NIH HHS/United States
+GR  - U24 DK114886/DK/NIDDK NIH HHS/United States
+GR  - OT2 OD033758/OD/NIH HHS/United States
+GR  - U54 HL165442/HL/NHLBI NIH HHS/United States
+GR  - UH3 CA246594/CA/NCI NIH HHS/United States
+GR  - OT2 OD033753/OD/NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20230719
+PL  - England
+TA  - Nat Cell Biol
+JT  - Nature cell biology
+JID - 100890575
+SB  - IM
+EIN - Nat Cell Biol. 2024 May;26(5):839. doi: 10.1038/s41556-024-01384-0. PMID: 
+      38429479
+PMC - PMC10681365
+MID - NIHMS1945177
+COIS- Competing Interests The authors declare the following competing interests. F.G. 
+      are employees of GE Research. B.R.S. is an inventor on patents and patent 
+      applications involving small molecule drug discovery, and the 3F3-FMA antibody, 
+      co-founded and serves as a consultant to Inzen Therapeutics, Nevrox Limited, 
+      Exarta Therapeutics, and ProJenX Inc.; and serves as a consultant to Weatherwax 
+      Biotechnologies Corporation and Akin Gump Strauss Hauer & Feld LLP. M.P.S. is 
+      cofounder and advisory board member of Personalis, Qbio, January AI, Mirvie, 
+      Filtricine, Fodsel, Lollo, and Protos. I.S.V. consults for Guidepoint Global, 
+      Cowen, Mosaic, and NextRNA. N.G. is a co-founder and equity owner of Datavisyn. 
+      H.L. is a co-founder and equity owner of ExoMira Medicine, Inc. The remaining 
+      authors declare no competing interests.
+FIR - Ahn, Kyung Jin
+IR  - Ahn KJ
+FIR - Allen, Jamie
+IR  - Allen J
+FIR - Anderson, David M
+IR  - Anderson DM
+FIR - Anderton, Christopher R
+IR  - Anderton CR
+FIR - Curcio, Christine
+IR  - Curcio C
+FIR - Angelin, Alessia
+IR  - Angelin A
+FIR - Arvanitis, Constadina
+IR  - Arvanitis C
+FIR - Atta, Lyla
+IR  - Atta L
+FIR - Awosika-Olumo, Demi
+IR  - Awosika-Olumo D
+FIR - Bahmani, Amir
+IR  - Bahmani A
+FIR - Bai, Huajun
+IR  - Bai H
+FIR - Balderrama, Karol
+IR  - Balderrama K
+FIR - Balzano, Leandro
+IR  - Balzano L
+FIR - Bandyopadhyay, Gautam
+IR  - Bandyopadhyay G
+FIR - Bandyopadhyay, Shovik
+IR  - Bandyopadhyay S
+FIR - Bar-Joseph, Ziv
+IR  - Bar-Joseph Z
+FIR - Barnhart, Kurt
+IR  - Barnhart K
+FIR - Barwinska, Daria
+IR  - Barwinska D
+FIR - Becich, Michael
+IR  - Becich M
+FIR - Becker, Laren
+IR  - Becker L
+FIR - Becker, Winston
+IR  - Becker W
+FIR - Bedi, Kenneth
+IR  - Bedi K
+FIR - Bendall, Sean
+IR  - Bendall S
+FIR - Benninger, Kathy
+IR  - Benninger K
+FIR - Betancur, David
+IR  - Betancur D
+FIR - Bettinger, Keith
+IR  - Bettinger K
+FIR - Billings, Sunteasja
+IR  - Billings S
+FIR - Blood, Philip
+IR  - Blood P
+FIR - Bolin, Daniel
+IR  - Bolin D
+FIR - Border, Samuel
+IR  - Border S
+FIR - Bosse, Marc
+IR  - Bosse M
+FIR - Bramer, Lisa
+IR  - Bramer L
+FIR - Brewer, Maya
+IR  - Brewer M
+FIR - Brusko, Maigan
+IR  - Brusko M
+FIR - Bueckle, Andreas
+IR  - Bueckle A
+FIR - Burke, Karl
+IR  - Burke K
+FIR - Burnum-Johnson, Kristin
+IR  - Burnum-Johnson K
+FIR - Butcher, Eugene
+IR  - Butcher E
+FIR - Butterworth, Elizabeth
+IR  - Butterworth E
+FIR - Cai, Long
+IR  - Cai L
+FIR - Calandrelli, Riccardo
+IR  - Calandrelli R
+FIR - Caldwell, Michael
+IR  - Caldwell M
+FIR - Campbell-Thompson, Martha
+IR  - Campbell-Thompson M
+FIR - Cao, Dongfeng
+IR  - Cao D
+FIR - Cao-Berg, Ivan
+IR  - Cao-Berg I
+FIR - Caprioli, Richard
+IR  - Caprioli R
+FIR - Caraccio, Chiara
+IR  - Caraccio C
+FIR - Caron, Anita
+IR  - Caron A
+FIR - Carroll, Megan
+IR  - Carroll M
+FIR - Chadwick, Chrystal
+IR  - Chadwick C
+FIR - Chen, Angela
+IR  - Chen A
+FIR - Chen, Derek
+IR  - Chen D
+FIR - Chen, Fei
+IR  - Chen F
+FIR - Chen, Haoran
+IR  - Chen H
+FIR - Chen, Jing
+IR  - Chen J
+FIR - Chen, Li
+IR  - Chen L
+FIR - Chen, Lu
+IR  - Chen L
+FIR - Chiacchia, Kenneth
+IR  - Chiacchia K
+FIR - Cho, Sanghee
+IR  - Cho S
+FIR - Chou, Peter
+IR  - Chou P
+FIR - Choy, Lisa
+IR  - Choy L
+FIR - Cisar, Cecilia
+IR  - Cisar C
+FIR - Clair, Geremy
+IR  - Clair G
+FIR - Clarke, Laura
+IR  - Clarke L
+FIR - Clouthier, Kelly A
+IR  - Clouthier KA
+FIR - Colley, Madeline E
+IR  - Colley ME
+FIR - Conlon, Kristin
+IR  - Conlon K
+FIR - Conroy, John
+IR  - Conroy J
+FIR - Contrepois, Kevin
+IR  - Contrepois K
+FIR - Corbett, Anthony
+IR  - Corbett A
+FIR - Corwin, Alex
+IR  - Corwin A
+FIR - Cotter, Daniel
+IR  - Cotter D
+FIR - Courtois, Elise
+IR  - Courtois E
+FIR - Cruz, Aaron
+IR  - Cruz A
+FIR - Csonka, Christopher
+IR  - Csonka C
+FIR - Czupil, Kimberley
+IR  - Czupil K
+FIR - Daiya, Vicky
+IR  - Daiya V
+FIR - Dale, Kali
+IR  - Dale K
+FIR - Davanagere, Shakeel Ahamed
+IR  - Davanagere SA
+FIR - Dayao, Monica
+IR  - Dayao M
+FIR - de Caestecker, Mark P
+IR  - de Caestecker MP
+FIR - Decker, Aubrianna
+IR  - Decker A
+FIR - Deems, Stephen
+IR  - Deems S
+FIR - Degnan, David
+IR  - Degnan D
+FIR - Desai, Tushar
+IR  - Desai T
+FIR - Deshpande, Vikrant
+IR  - Deshpande V
+FIR - Deutsch, Gail
+IR  - Deutsch G
+FIR - Devlin, Michelle
+IR  - Devlin M
+FIR - Diep, Dinh
+IR  - Diep D
+FIR - Dodd, Carla
+IR  - Dodd C
+FIR - Donahue, Sean
+IR  - Donahue S
+FIR - Dong, Weixiu
+IR  - Dong W
+FIR - Dos Santos Peixoto, Rafael
+IR  - Dos Santos Peixoto R
+FIR - Duffy, Michael
+IR  - Duffy M
+FIR - Dufresne, Martin
+IR  - Dufresne M
+FIR - Duong, Thu Elizabeth
+IR  - Duong TE
+FIR - Dutra, Jennifer
+IR  - Dutra J
+FIR - Eadon, Michael T
+IR  - Eadon MT
+FIR - El-Achkar, Tarek M
+IR  - El-Achkar TM
+FIR - Enninful, Archibald
+IR  - Enninful A
+FIR - Eraslan, Gokcen
+IR  - Eraslan G
+FIR - Eshelman, Diane
+IR  - Eshelman D
+FIR - Espin-Perez, Almudena
+IR  - Espin-Perez A
+FIR - Esplin, Edward D
+IR  - Esplin ED
+FIR - Esselman, Allison
+IR  - Esselman A
+FIR - Falo, Louis D
+IR  - Falo LD
+FIR - Falo, Louis
+IR  - Falo L
+FIR - Fan, Jean
+IR  - Fan J
+FIR - Fan, Rong
+IR  - Fan R
+FIR - Farrow, Melissa A
+IR  - Farrow MA
+FIR - Farzad, Negin
+IR  - Farzad N
+FIR - Favaro, Patricia
+IR  - Favaro P
+FIR - Fermin, Jamie
+IR  - Fermin J
+FIR - Filiz, Ferda
+IR  - Filiz F
+FIR - Filus, Shane
+IR  - Filus S
+FIR - Fisch, Kathleen
+IR  - Fisch K
+FIR - Fisher, Eyal
+IR  - Fisher E
+FIR - Fisher, Stephen
+IR  - Fisher S
+FIR - Flowers, Katelyn
+IR  - Flowers K
+FIR - Flynn, William F
+IR  - Flynn WF
+FIR - Fogo, Agnes B
+IR  - Fogo AB
+FIR - Fu, Dongtao Ann
+IR  - Fu DA
+FIR - Fulcher, James
+IR  - Fulcher J
+FIR - Fung, Anthony
+IR  - Fung A
+FIR - Furst, Derek
+IR  - Furst D
+FIR - Gallant, Michael
+IR  - Gallant M
+FIR - Gao, Fu
+IR  - Gao F
+FIR - Gao, Yu
+IR  - Gao Y
+FIR - Gaulton, Kyle
+IR  - Gaulton K
+FIR - Gaut, Joseph P
+IR  - Gaut JP
+FIR - Gee, James
+IR  - Gee J
+FIR - Ghag, Reetika R
+IR  - Ghag RR
+FIR - Ghazanfar, Shila
+IR  - Ghazanfar S
+FIR - Ghose, Soumya
+IR  - Ghose S
+FIR - Gisch, Debora
+IR  - Gisch D
+FIR - Gold, Ilan
+IR  - Gold I
+FIR - Gondalia, Aashay
+IR  - Gondalia A
+FIR - Gorman, Brittney
+IR  - Gorman B
+FIR - Greenleaf, William
+IR  - Greenleaf W
+FIR - Greenwald, Noah
+IR  - Greenwald N
+FIR - Gregory, Brian
+IR  - Gregory B
+FIR - Guo, Rong
+IR  - Guo R
+FIR - Gupta, Rajat
+IR  - Gupta R
+FIR - Hakimian, Hunter
+IR  - Hakimian H
+FIR - Haltom, Jeff
+IR  - Haltom J
+FIR - Halushka, Marc
+IR  - Halushka M
+FIR - Han, Kyu Sang
+IR  - Han KS
+FIR - Hanson, Casey
+IR  - Hanson C
+FIR - Harbury, Pehr
+IR  - Harbury P
+FIR - Hardi, Josef
+IR  - Hardi J
+FIR - Harlan, Linda
+IR  - Harlan L
+FIR - Harris, Raymond C
+IR  - Harris RC
+FIR - Hartman, Austin
+IR  - Hartman A
+FIR - Heidari, Elyas
+IR  - Heidari E
+FIR - Helfer, Jesse
+IR  - Helfer J
+FIR - Helminiak, David
+IR  - Helminiak D
+FIR - Hemberg, Martin
+IR  - Hemberg M
+FIR - Henning, Nathaniel
+IR  - Henning N
+FIR - Herr, Bruce W 2nd
+IR  - Herr BW 2nd
+FIR - Ho, Jonhan
+IR  - Ho J
+FIR - Holden-Wiltse, Jeanne
+IR  - Holden-Wiltse J
+FIR - Hong, Seung-Hyun
+IR  - Hong SH
+FIR - Hong, Young-Kwon
+IR  - Hong YK
+FIR - Honick, Brendan
+IR  - Honick B
+FIR - Hood, Greg
+IR  - Hood G
+FIR - Hu, Po
+IR  - Hu P
+FIR - Hu, Qiwen
+IR  - Hu Q
+FIR - Huang, Molly
+IR  - Huang M
+FIR - Huyck, Heidie
+IR  - Huyck H
+FIR - Imtiaz, Tamjid
+IR  - Imtiaz T
+FIR - Isberg, Olof Gerdur
+IR  - Isberg OG
+FIR - Itkin, Maxim
+IR  - Itkin M
+FIR - Jackson, Dana
+IR  - Jackson D
+FIR - Jacobs, Marni
+IR  - Jacobs M
+FIR - Jain, Yashvardhan
+IR  - Jain Y
+FIR - Jewell, David
+IR  - Jewell D
+FIR - Jiang, Lihua
+IR  - Jiang L
+FIR - Jiang, Zhenghui G
+IR  - Jiang ZG
+FIR - Johnston, Sarah
+IR  - Johnston S
+FIR - Joshi, Pujan
+IR  - Joshi P
+FIR - Ju, Yingnan
+IR  - Ju Y
+FIR - Judd, Audra
+IR  - Judd A
+FIR - Kagel, Adam
+IR  - Kagel A
+FIR - Kahn, Ari
+IR  - Kahn A
+FIR - Kalavros, Nikolaos
+IR  - Kalavros N
+FIR - Kalhor, Kian
+IR  - Kalhor K
+FIR - Karagkouni, Dimitra
+IR  - Karagkouni D
+FIR - Karathanos, Thomas
+IR  - Karathanos T
+FIR - Karunamurthy, Arivarasan
+IR  - Karunamurthy A
+FIR - Katari, Suhas
+IR  - Katari S
+FIR - Kates, Heather
+IR  - Kates H
+FIR - Kaushal, Madhurima
+IR  - Kaushal M
+FIR - Keener, Nicholas
+IR  - Keener N
+FIR - Keller, Mark
+IR  - Keller M
+FIR - Kenney, Mariah
+IR  - Kenney M
+FIR - Kern, Colin
+IR  - Kern C
+FIR - Kharchenko, Peter
+IR  - Kharchenko P
+FIR - Kim, Junhyong
+IR  - Kim J
+FIR - Kingsford, Carl
+IR  - Kingsford C
+FIR - Kirwan, Jessica
+IR  - Kirwan J
+FIR - Kiselev, Vladimir
+IR  - Kiselev V
+FIR - Kishi, Jocelyn
+IR  - Kishi J
+FIR - Kitata, Reta Birhanu
+IR  - Kitata RB
+FIR - Knoten, Amanda
+IR  - Knoten A
+FIR - Kollar, Charles
+IR  - Kollar C
+FIR - Krishnamoorthy, Praveen
+IR  - Krishnamoorthy P
+FIR - Kruse, Angela R S
+IR  - Kruse ARS
+FIR - Da, Kuang
+IR  - Da K
+FIR - Kundaje, Anshul
+IR  - Kundaje A
+FIR - Kutschera, Eric
+IR  - Kutschera E
+FIR - Kwon, Yumi
+IR  - Kwon Y
+FIR - Lake, Blue B
+IR  - Lake BB
+FIR - Lancaster, Samuel
+IR  - Lancaster S
+FIR - Langlieb, Jonah
+IR  - Langlieb J
+FIR - Lardenoije, Roy
+IR  - Lardenoije R
+FIR - Laronda, Monica
+IR  - Laronda M
+FIR - Laskin, Julia
+IR  - Laskin J
+FIR - Lau, Ken
+IR  - Lau K
+FIR - Lee, Hayan
+IR  - Lee H
+FIR - Lee, Maria
+IR  - Lee M
+FIR - Lee, Mejeong
+IR  - Lee M
+FIR - Strekalova, Yulia Levites
+IR  - Strekalova YL
+FIR - Li, Dongshunyi
+IR  - Li D
+FIR - Li, Jennifer
+IR  - Li J
+FIR - Li, Jilong
+IR  - Li J
+FIR - Li, Xiangtang
+IR  - Li X
+FIR - Li, Zhi
+IR  - Li Z
+FIR - Liao, Yen-Chen
+IR  - Liao YC
+FIR - Liaw, Tiffany
+IR  - Liaw T
+FIR - Lin, Pei
+IR  - Lin P
+FIR - Lin, Yulieh
+IR  - Lin Y
+FIR - Lindsay, Scott
+IR  - Lindsay S
+FIR - Liu, Chunjie
+IR  - Liu C
+FIR - Liu, Yang
+IR  - Liu Y
+FIR - Liu, Yuan
+IR  - Liu Y
+FIR - Lott, Marie
+IR  - Lott M
+FIR - Lotz, Martin
+IR  - Lotz M
+FIR - Lowery, Lisa
+IR  - Lowery L
+FIR - Lu, Peiran
+IR  - Lu P
+FIR - Lu, Xinyue
+IR  - Lu X
+FIR - Lucarelli, Nicholas
+IR  - Lucarelli N
+FIR - Lun, Xiaokang
+IR  - Lun X
+FIR - Luo, Zhifei
+IR  - Luo Z
+FIR - Ma, Jian
+IR  - Ma J
+FIR - Macosko, Evan
+IR  - Macosko E
+FIR - Mahajan, Mayank
+IR  - Mahajan M
+FIR - Maier, Libby
+IR  - Maier L
+FIR - Makowski, Danika
+IR  - Makowski D
+FIR - Malek, Morad
+IR  - Malek M
+FIR - Manthey, David
+IR  - Manthey D
+FIR - Manz, Trevor
+IR  - Manz T
+FIR - Margulies, Kenneth
+IR  - Margulies K
+FIR - Marioni, John
+IR  - Marioni J
+FIR - Martindale, Matthew
+IR  - Martindale M
+FIR - Mason, Cayla
+IR  - Mason C
+FIR - Mathews, Clayton
+IR  - Mathews C
+FIR - Maye, Peter
+IR  - Maye P
+FIR - McCallum, Chuck
+IR  - McCallum C
+FIR - McDonough, Elizabeth
+IR  - McDonough E
+FIR - McDonough, Liz
+IR  - McDonough L
+FIR - Mcdowell, Hannah
+IR  - Mcdowell H
+FIR - Meads, Morgan
+IR  - Meads M
+FIR - Medina-Serpas, Miguel
+IR  - Medina-Serpas M
+FIR - Ferreira, Ricardo Melo
+IR  - Ferreira RM
+FIR - Messinger, Jeffrey
+IR  - Messinger J
+FIR - Metis, Kay
+IR  - Metis K
+FIR - Migas, Lukasz G
+IR  - Migas LG
+FIR - Miller, Brendan
+IR  - Miller B
+FIR - Mimar, Sayat
+IR  - Mimar S
+FIR - Minor, Brittany
+IR  - Minor B
+FIR - Misra, Ravi
+IR  - Misra R
+FIR - Missarova, Alsu
+IR  - Missarova A
+FIR - Mistretta, Christopher
+IR  - Mistretta C
+FIR - Moens, Roger
+IR  - Moens R
+FIR - Moerth, Eric
+IR  - Moerth E
+FIR - Moffitt, Jeffrey
+IR  - Moffitt J
+FIR - Molla, Gesmira
+IR  - Molla G
+FIR - Monroe, Matthew
+IR  - Monroe M
+FIR - Monte, Emma
+IR  - Monte E
+FIR - Morgan, Mike
+IR  - Morgan M
+FIR - Muraro, Daniele
+IR  - Muraro D
+FIR - Murphy, Bob Robert
+IR  - Murphy BR
+FIR - Murray, Evan
+IR  - Murray E
+FIR - Musen, Mark A
+IR  - Musen MA
+FIR - Naglah, Ahmed
+IR  - Naglah A
+FIR - Nasamran, Chanond
+IR  - Nasamran C
+FIR - Neelakantan, Taruna
+IR  - Neelakantan T
+FIR - Nevins, Stephanie
+IR  - Nevins S
+FIR - Nguyen, Hieu
+IR  - Nguyen H
+FIR - Nguyen, Nam
+IR  - Nguyen N
+FIR - Nguyen, Tram
+IR  - Nguyen T
+FIR - Nguyen, Tri
+IR  - Nguyen T
+FIR - Nigra, Deb
+IR  - Nigra D
+FIR - Nofal, Michel
+IR  - Nofal M
+FIR - Nolan, Garry
+IR  - Nolan G
+FIR - Nwanne, Gerald
+IR  - Nwanne G
+FIR - O'Connor, Martin
+IR  - O'Connor M
+FIR - Okuda, Kenichi
+IR  - Okuda K
+FIR - Olmer, Merissa
+IR  - Olmer M
+FIR - O'Neill, Kathleen
+IR  - O'Neill K
+FIR - Otaluka, Nancy
+IR  - Otaluka N
+FIR - Pang, Minxing
+IR  - Pang M
+FIR - Parast, Mana
+IR  - Parast M
+FIR - Pasa-Tolic, Ljiljana
+IR  - Pasa-Tolic L
+FIR - Paten, Benedict
+IR  - Paten B
+FIR - Patterson, Nathan Heath
+IR  - Patterson NH
+FIR - Peng, Ting
+IR  - Peng T
+FIR - Phillips, Gesina
+IR  - Phillips G
+FIR - Pichavant, Mina
+IR  - Pichavant M
+FIR - Piehowski, Paul
+IR  - Piehowski P
+FIR - Pilner, Hannah
+IR  - Pilner H
+FIR - Pingry, Ellie
+IR  - Pingry E
+FIR - Pita-Juarez, Yered
+IR  - Pita-Juarez Y
+FIR - Plevritis, Sylvia
+IR  - Plevritis S
+FIR - Ploumakis, Athanasios
+IR  - Ploumakis A
+FIR - Pouch, Alison
+IR  - Pouch A
+FIR - Pryhuber, Gloria
+IR  - Pryhuber G
+FIR - Puerto, Juan
+IR  - Puerto J
+FIR - Qaurooni, Danial
+IR  - Qaurooni D
+FIR - Qin, Ling
+IR  - Qin L
+FIR - Quardokus, Ellen M
+IR  - Quardokus EM
+FIR - Rajbhandari, Presha
+IR  - Rajbhandari P
+FIR - Rakow-Penner, Rebecca
+IR  - Rakow-Penner R
+FIR - Ramasamy, Ramalakshmi
+IR  - Ramasamy R
+FIR - Read, David
+IR  - Read D
+FIR - Record, Elizabeth G
+IR  - Record EG
+FIR - Reeves, David
+IR  - Reeves D
+FIR - Ricarte, Allyson
+IR  - Ricarte A
+FIR - Rodríguez-Soto, Ana
+IR  - Rodríguez-Soto A
+FIR - Ropelewski, Alexander
+IR  - Ropelewski A
+FIR - Rosario, Jean
+IR  - Rosario J
+FIR - Roselkis, Morla-Adames
+IR  - Roselkis MA
+FIR - Rowe, David
+IR  - Rowe D
+FIR - Roy, Tarun Kanti
+IR  - Roy TK
+FIR - Ruffalo, Matt
+IR  - Ruffalo M
+FIR - Ruschman, Nancy
+IR  - Ruschman N
+FIR - Sabo, Angela
+IR  - Sabo A
+FIR - Sachdev, Nina
+IR  - Sachdev N
+FIR - Saka, Sinem
+IR  - Saka S
+FIR - Salamon, Diane
+IR  - Salamon D
+FIR - Sarder, Pinaki
+IR  - Sarder P
+FIR - Sasaki, Hiroshi
+IR  - Sasaki H
+FIR - Satija, Rahul
+IR  - Satija R
+FIR - Saunders, Diane
+IR  - Saunders D
+FIR - Sawka, Riley
+IR  - Sawka R
+FIR - Schey, Kevin
+IR  - Schey K
+FIR - Schlehlein, Heidi
+IR  - Schlehlein H
+FIR - Scholten, David
+IR  - Scholten D
+FIR - Schultz, Sarah
+IR  - Schultz S
+FIR - Schwartz, Lauren
+IR  - Schwartz L
+FIR - Schwenk, Melissa
+IR  - Schwenk M
+FIR - Scibek, Robin
+IR  - Scibek R
+FIR - Segre, Ayellet
+IR  - Segre A
+FIR - Serrata, Matthew
+IR  - Serrata M
+FIR - Shands, Walter
+IR  - Shands W
+FIR - Shen, Xiaotao
+IR  - Shen X
+FIR - Shendure, Jay
+IR  - Shendure J
+FIR - Shephard, Holly
+IR  - Shephard H
+FIR - Shi, Lingyan
+IR  - Shi L
+FIR - Shi, Tujin
+IR  - Shi T
+FIR - Shin, Dong-Guk
+IR  - Shin DG
+FIR - Shirey, Bill
+IR  - Shirey B
+FIR - Sibilla, Max
+IR  - Sibilla M
+FIR - Silber, Michal
+IR  - Silber M
+FIR - Silverstein, Jonathan
+IR  - Silverstein J
+FIR - Simmel, Derek
+IR  - Simmel D
+FIR - Simmons, Alan
+IR  - Simmons A
+FIR - Singhal, Dhruv
+IR  - Singhal D
+FIR - Sivajothi, Santhosh
+IR  - Sivajothi S
+FIR - Smits, Thomas
+IR  - Smits T
+FIR - Soncin, Francesca
+IR  - Soncin F
+FIR - Song, Qi
+IR  - Song Q
+FIR - Stanley, Valentina
+IR  - Stanley V
+FIR - Stuart, Tim
+IR  - Stuart T
+FIR - Su, Hanquan
+IR  - Su H
+FIR - Su, Pei
+IR  - Su P
+FIR - Sun, Xin
+IR  - Sun X
+FIR - Surrette, Christine
+IR  - Surrette C
+FIR - Swahn, Hannah
+IR  - Swahn H
+FIR - Tan, Kai
+IR  - Tan K
+FIR - Teichmann, Sarah
+IR  - Teichmann S
+FIR - Tejomay, Abhiroop
+IR  - Tejomay A
+FIR - Tellides, George
+IR  - Tellides G
+FIR - Thomas, Kathleen
+IR  - Thomas K
+FIR - Thomas, Tracey
+IR  - Thomas T
+FIR - Thompson, Marissa
+IR  - Thompson M
+FIR - Tian, Hua
+IR  - Tian H
+FIR - Tideman, Leonoor
+IR  - Tideman L
+FIR - Trapnell, Cole
+IR  - Trapnell C
+FIR - Tsai, Albert G
+IR  - Tsai AG
+FIR - Tsai, Chia-Feng
+IR  - Tsai CF
+FIR - Tsai, Leo
+IR  - Tsai L
+FIR - Tsui, Elizabeth
+IR  - Tsui E
+FIR - Tsui, Tina
+IR  - Tsui T
+FIR - Tung, Jason
+IR  - Tung J
+FIR - Turner, Morgan
+IR  - Turner M
+FIR - Uranic, Jackie
+IR  - Uranic J
+FIR - Vaishnav, Eeshit Dhaval
+IR  - Vaishnav ED
+FIR - Varra, Sricharan Reddy
+IR  - Varra SR
+FIR - Vaskivskyi, Vasyl
+IR  - Vaskivskyi V
+FIR - Velickovic, Dusan
+IR  - Velickovic D
+FIR - Velickovic, Marija
+IR  - Velickovic M
+FIR - Verheyden, Jamie
+IR  - Verheyden J
+FIR - Waldrip, Jessica
+IR  - Waldrip J
+FIR - Wallace, Douglas
+IR  - Wallace D
+FIR - Wan, Xueyi
+IR  - Wan X
+FIR - Wang, Allen
+IR  - Wang A
+FIR - Wang, Fusheng
+IR  - Wang F
+FIR - Wang, Meng
+IR  - Wang M
+FIR - Wang, Shuoshuo
+IR  - Wang S
+FIR - Wang, Xuefei
+IR  - Wang X
+FIR - Wasserfall, Clive
+IR  - Wasserfall C
+FIR - Wayne, Leonard
+IR  - Wayne L
+FIR - Webber, James
+IR  - Webber J
+FIR - Weber, Griffin M
+IR  - Weber GM
+FIR - Wei, Bei
+IR  - Wei B
+FIR - Wei, Jian-Jun
+IR  - Wei JJ
+FIR - Weimer, Annika
+IR  - Weimer A
+FIR - Welling, Joel
+IR  - Welling J
+FIR - Wen, Xingzhao
+IR  - Wen X
+FIR - Wen, Zishen
+IR  - Wen Z
+FIR - Williams, MacKenzie
+IR  - Williams M
+FIR - Winfree, Seth
+IR  - Winfree S
+FIR - Winograd, Nicholas
+IR  - Winograd N
+FIR - Woodard, Abashai
+IR  - Woodard A
+FIR - Wright, Devin
+IR  - Wright D
+FIR - Wu, Fan
+IR  - Wu F
+FIR - Wu, Pei-Hsun
+IR  - Wu PH
+FIR - Wu, Qiuyang
+IR  - Wu Q
+FIR - Wu, Xiaodong
+IR  - Wu X
+FIR - Xing, Yi
+IR  - Xing Y
+FIR - Xu, Tianyang
+IR  - Xu T
+FIR - Yang, Manxi
+IR  - Yang M
+FIR - Yang, Mingyu
+IR  - Yang M
+FIR - Yap, Joseph
+IR  - Yap J
+FIR - Ye, Dong Hye
+IR  - Ye DH
+FIR - Yin, Peng
+IR  - Yin P
+FIR - Yuan, Zhou
+IR  - Yuan Z
+FIR - Yun, Chi Jina
+IR  - Yun CJ
+FIR - Zahraei, Ali
+IR  - Zahraei A
+FIR - Zemaitis, Kevin
+IR  - Zemaitis K
+FIR - Zhang, Bo
+IR  - Zhang B
+FIR - Zhang, Caibin
+IR  - Zhang C
+FIR - Zhang, Chenyu
+IR  - Zhang C
+FIR - Zhang, Chi
+IR  - Zhang C
+FIR - Zhang, Kun
+IR  - Zhang K
+FIR - Zhang, Shiping
+IR  - Zhang S
+FIR - Zhang, Ted
+IR  - Zhang T
+FIR - Zhang, Yida
+IR  - Zhang Y
+FIR - Zhao, Bingqing
+IR  - Zhao B
+FIR - Zhao, Wenxin
+IR  - Zhao W
+FIR - Zheng, Jia Wen
+IR  - Zheng JW
+FIR - Zhong, Sheng
+IR  - Zhong S
+FIR - Zhu, Bokai
+IR  - Zhu B
+FIR - Zhu, Chenchen
+IR  - Zhu C
+FIR - Zhu, Diming
+IR  - Zhu D
+FIR - Zhu, Quan
+IR  - Zhu Q
+FIR - Zhu, Ying
+IR  - Zhu Y
+EDAT- 2023/07/20 01:06
+MHDA- 2023/07/20 01:07
+PMCR- 2024/02/01
+CRDT- 2023/07/19 23:35
+PHST- 2023/03/06 00:00 [received]
+PHST- 2023/06/22 00:00 [accepted]
+PHST- 2023/07/20 01:07 [medline]
+PHST- 2023/07/20 01:06 [pubmed]
+PHST- 2023/07/19 23:35 [entrez]
+PHST- 2024/02/01 00:00 [pmc-release]
+AID - 10.1038/s41556-023-01194-w [pii]
+AID - 10.1038/s41556-023-01194-w [doi]
+PST - ppublish
+SO  - Nat Cell Biol. 2023 Aug;25(8):1089-1100. doi: 10.1038/s41556-023-01194-w. Epub 
+      2023 Jul 19.

@@ -1,0 +1,165 @@
+PMID- 36823157
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230227
+LR  - 20260518
+IS  - 2052-4463 (Electronic)
+IS  - 2052-4463 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2023 Feb 23
+TI  - Developing a standardized but extendable framework to increase the findability of 
+      infectious disease datasets.
+PG  - 99
+LID - 10.1038/s41597-023-01968-9 [doi]
+LID - 99
+AB  - Biomedical datasets are increasing in size, stored in many repositories, and face 
+      challenges in FAIRness (findability, accessibility, interoperability, 
+      reusability). As a Consortium of infectious disease researchers from 15 Centers, 
+      we aim to adopt open science practices to promote transparency, encourage 
+      reproducibility, and accelerate research advances through data reuse. To improve 
+      FAIRness of our datasets and computational tools, we evaluated metadata standards 
+      across established biomedical data repositories. The vast majority do not adhere 
+      to a single standard, such as Schema.org, which is widely-adopted by generalist 
+      repositories. Consequently, datasets in these repositories are not findable in 
+      aggregation projects like Google Dataset Search. We alleviated this gap by 
+      creating a reusable metadata schema based on Schema.org and catalogued nearly 400 
+      datasets and computational tools we collected. The approach is easily reusable to 
+      create schemas interoperable with community standards, but customized to a 
+      particular context. Our approach enabled data discovery, increased the 
+      reusability of datasets from a large research consortium, and accelerated 
+      research. Lastly, we discuss ongoing challenges with FAIRness beyond 
+      discoverability.
+CI  - © 2023. The Author(s).
+FAU - Tsueng, Ginger
+AU  - Tsueng G
+AUID- ORCID: 0000-0001-9536-9115
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA. gtsueng@scripps.edu.
+FAU - Cano, Marco A Alvarado
+AU  - Cano MAA
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+FAU - Bento, José
+AU  - Bento J
+AD  - Department of Computer Science, Boston College, 245 Beacon St, Chestnut Hill, MA, 
+      02467, USA.
+FAU - Czech, Candice
+AU  - Czech C
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+FAU - Kang, Mengjia
+AU  - Kang M
+AUID- ORCID: 0000-0002-1679-9473
+AD  - Division of Pulmonary and Critical Care, Feinberg School of Medicine, 
+      Northwestern University, Chicago, IL, 60611, USA.
+FAU - Pache, Lars
+AU  - Pache L
+AUID- ORCID: 0000-0002-4193-1042
+AD  - Infectious and Inflammatory Disease Center, Immunity and Pathogenesis Program, 
+      Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, 92037, USA.
+FAU - Rasmussen, Luke V
+AU  - Rasmussen LV
+AUID- ORCID: 0000-0002-4497-8049
+AD  - Department of Preventive Medicine, Northwestern University Feinberg School of 
+      Medicine, Chicago, IL, 60611, USA.
+FAU - Savidge, Tor C
+AU  - Savidge TC
+AD  - Texas Children's Microbiome Center & Department of Pathology & Immunology, Baylor 
+      College of Medicine, Houston, TX, 77030, USA.
+FAU - Starren, Justin
+AU  - Starren J
+AD  - Department of Preventive Medicine, Northwestern University Feinberg School of 
+      Medicine, Chicago, IL, 60611, USA.
+FAU - Wu, Qinglong
+AU  - Wu Q
+AD  - Texas Children's Microbiome Center & Department of Pathology & Immunology, Baylor 
+      College of Medicine, Houston, TX, 77030, USA.
+FAU - Xin, Jiwen
+AU  - Xin J
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+FAU - Yeaman, Michael R
+AU  - Yeaman MR
+AD  - Department of Medicine, David Geffen School of Medicine, University of 
+      California, Los Angeles, Los Angeles, CA, 90095, USA.
+AD  - Divisions of Molecular Medicine and Infectious Diseases, Harbor-UCLA Medical 
+      Center, Torrance, CA, 90502, USA.
+AD  - Lundquist Institute for Infection & Immunity at Harbor-UCLA Medical Center, 
+      Torrance, CA, 90502, USA.
+FAU - Zhou, Xinghua
+AU  - Zhou X
+AUID- ORCID: 0000-0002-9119-3906
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+FAU - Su, Andrew I
+AU  - Su AI
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+AD  - Scripps Research Translational Institute, La Jolla, CA, 92037, USA.
+AD  - Department of Molecular Medicine, The Scripps Research Institute, La Jolla, CA, 
+      92037, USA.
+FAU - Wu, Chunlei
+AU  - Wu C
+AUID- ORCID: 0000-0002-2629-6124
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA.
+AD  - Scripps Research Translational Institute, La Jolla, CA, 92037, USA.
+AD  - Department of Molecular Medicine, The Scripps Research Institute, La Jolla, CA, 
+      92037, USA.
+FAU - Brown, Liliana
+AU  - Brown L
+AD  - Office of Genomics and Advanced Technologies, National Institute of Allergy and 
+      Infectious Diseases, Rockville, MD, 20852, USA.
+FAU - Shabman, Reed S
+AU  - Shabman RS
+AD  - Office of Genomics and Advanced Technologies, National Institute of Allergy and 
+      Infectious Diseases, Rockville, MD, 20852, USA.
+FAU - Hughes, Laura D
+AU  - Hughes LD
+AUID- ORCID: 0000-0003-1718-6676
+AD  - Department of Integrative, Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, CA, 92037, USA. lhughes@scripps.edu.
+CN  - NIAID Systems Biology Data Dissemination Working Group
+LA  - eng
+GR  - U19 AI135995/AI/NIAID NIH HHS/United States
+GR  - U01 AI124290/AI/NIAID NIH HHS/United States
+GR  - 75N91019D00024/CA/NCI NIH HHS/United States
+GR  - U01 AI124302/AI/NIAID NIH HHS/United States
+GR  - R01 NR013497/NR/NINR NIH HHS/United States
+GR  - U19 AI135964/AI/NIAID NIH HHS/United States
+GR  - R01 GM083924/GM/NIGMS NIH HHS/United States
+GR  - U24 TR002306/TR/NCATS NIH HHS/United States
+GR  - U19 AI135972/AI/NIAID NIH HHS/United States
+GR  - U01 AI124319/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+DEP - 20230223
+PL  - England
+TA  - Sci Data
+JT  - Scientific data
+JID - 101640192
+SB  - IM
+MH  - Metadata
+MH  - Reproducibility of Results
+MH  - *Communicable Diseases
+MH  - *Datasets as Topic/standards
+MH  - Humans
+PMC - PMC9950378
+COIS- The authors declare no competing interests.
+FIR - Turkarslan, Serdar
+IR  - Turkarslan S
+EDAT- 2023/02/24 06:00
+MHDA- 2023/03/03 06:00
+PMCR- 2023/02/23
+CRDT- 2023/02/23 23:45
+PHST- 2022/10/12 00:00 [received]
+PHST- 2023/01/13 00:00 [accepted]
+PHST- 2023/02/23 23:45 [entrez]
+PHST- 2023/02/24 06:00 [pubmed]
+PHST- 2023/03/03 06:00 [medline]
+PHST- 2023/02/23 00:00 [pmc-release]
+AID - 10.1038/s41597-023-01968-9 [pii]
+AID - 1968 [pii]
+AID - 10.1038/s41597-023-01968-9 [doi]
+PST - epublish
+SO  - Sci Data. 2023 Feb 23;10(1):99. doi: 10.1038/s41597-023-01968-9.

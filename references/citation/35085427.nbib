@@ -1,0 +1,136 @@
+PMID- 35085427
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220131
+LR  - 20240117
+IS  - 2691-1299 (Electronic)
+IS  - 2691-1299 (Linking)
+VI  - 2
+IP  - 1
+DP  - 2022 Jan
+TI  - Getting Started with the IDG KMC Datasets and Tools.
+PG  - e355
+LID - 10.1002/cpz1.355 [doi]
+AB  - The Illuminating the Druggable Genome (IDG) consortium is a National Institutes 
+      of Health (NIH) Common Fund program designed to enhance our knowledge of 
+      under-studied proteins, more specifically, proteins unannotated within the three 
+      most commonly drug-targeted protein families: G-protein coupled receptors, ion 
+      channels, and protein kinases. Since 2014, the IDG Knowledge Management Center 
+      (IDG-KMC) has generated several open-access datasets and resources that jointly 
+      serve as a highly translational machine-learning-ready knowledgebase focused on 
+      human protein-coding genes and their products. The goal of the IDG-KMC is to 
+      develop comprehensive integrated knowledge for the druggable genome to illuminate 
+      the uncharacterized or poorly annotated portion of the druggable genome. The 
+      tools derived from the IDG-KMC provide either user-friendly visualizations or 
+      ways to impute the knowledge about potential targets using machine learning 
+      strategies. In the following protocols, we describe how to use each web-based 
+      tool to accelerate illumination in under-studied proteins. © 2022 The Authors. 
+      Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: 
+      Interacting with the Pharos user interface Basic Protocol 2: Accessing the data 
+      in Harmonizome Basic Protocol 3: The ARCHS4 resource Basic Protocol 4: Making 
+      predictions about gene function with PrismExp Basic Protocol 5: Using Geneshot to 
+      illuminate knowledge about under-studied targets Basic Protocol 6: Exploring 
+      under-studied targets with TIN-X Basic Protocol 7: Interacting with the 
+      DrugCentral user interface Basic Protocol 8: Estimating Anti-SARS-CoV-2 
+      activities with DrugCentral REDIAL-2020 Basic Protocol 9: Drug Set Enrichment 
+      Analysis using Drugmonizome Basic Protocol 10: The Drugmonizome-ML Appyter Basic 
+      Protocol 11: The Harmonizome-ML Appyter Basic Protocol 12: GWAS target 
+      illumination with TIGA Basic Protocol 13: Prioritizing kinases for lists of 
+      proteins and phosphoproteins with KEA3 Basic Protocol 14: Converting PubMed 
+      searches to drug sets with the DrugShot Appyter.
+CI  - © 2022 The Authors. Current Protocols published by Wiley Periodicals LLC.
+FAU - Kropiwnicki, Eryk
+AU  - Kropiwnicki E
+AD  - Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, 
+      Icahn School of Medicine at Mount Sinai, New York, New York.
+FAU - Binder, Jessica L
+AU  - Binder JL
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, New Mexico.
+FAU - Yang, Jeremy J
+AU  - Yang JJ
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, New Mexico.
+FAU - Holmes, Jayme
+AU  - Holmes J
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, New Mexico.
+FAU - Lachmann, Alexander
+AU  - Lachmann A
+AD  - Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, 
+      Icahn School of Medicine at Mount Sinai, New York, New York.
+FAU - Clarke, Daniel J B
+AU  - Clarke DJB
+AD  - Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, 
+      Icahn School of Medicine at Mount Sinai, New York, New York.
+FAU - Sheils, Timothy
+AU  - Sheils T
+AD  - National Center for Advancing Translational Sciences, Rockville, Maryland.
+FAU - Kelleher, Keith J
+AU  - Kelleher KJ
+AD  - National Center for Advancing Translational Sciences, Rockville, Maryland.
+FAU - Metzger, Vincent T
+AU  - Metzger VT
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, New Mexico.
+FAU - Bologa, Cristian G
+AU  - Bologa CG
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, New Mexico.
+FAU - Oprea, Tudor I
+AU  - Oprea TI
+AD  - Translational Informatics Division, Department of Internal Medicine, University 
+      of New Mexico, Albuquerque, New Mexico.
+FAU - Ma'ayan, Avi
+AU  - Ma'ayan A
+AD  - Department of Pharmacological Sciences, Mount Sinai Center for Bioinformatics, 
+      Icahn School of Medicine at Mount Sinai, New York, New York.
+LA  - eng
+GR  - U24 CA224370/CA/NCI NIH HHS/United States
+GR  - U24TR002278/GF/NIH HHS/United States
+GR  - U54 HL127624/HL/NHLBI NIH HHS/United States
+GR  - U24 TR002278/TR/NCATS NIH HHS/United States
+GR  - OT2 OD030546/OD/NIH HHS/United States
+GR  - U24CA224370/GF/NIH HHS/United States
+GR  - U01 CA239108/CA/NCI NIH HHS/United States
+GR  - U24CA224260/GF/NIH HHS/United States
+GR  - U24 CA224260/CA/NCI NIH HHS/United States
+GR  - U54HL127624/GF/NIH HHS/United States
+GR  - OT2OD030546/GF/NIH HHS/United States
+GR  - U01CA239108/GF/NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - Curr Protoc
+JT  - Current protocols
+JID - 101773894
+RN  - 0 (Proteins)
+SB  - IM
+MH  - COVID-19
+MH  - *Databases, Genetic
+MH  - *Genome
+MH  - Humans
+MH  - Machine Learning
+MH  - Proteins
+MH  - SARS-CoV-2
+PMC - PMC10789444
+MID - NIHMS1767466
+OTO - NOTNLM
+OT  - bioinformatics
+OT  - data visualization
+OT  - disease ontology
+OT  - drug discovery
+OT  - drug targets
+OT  - druggable genome
+OT  - web applications
+COIS- Conflict of Interest Statement The authors declare no conflict of interest.
+EDAT- 2022/01/28 06:00
+MHDA- 2022/02/01 06:00
+PMCR- 2024/01/15
+CRDT- 2022/01/27 17:16
+PHST- 2022/01/27 17:16 [entrez]
+PHST- 2022/01/28 06:00 [pubmed]
+PHST- 2022/02/01 06:00 [medline]
+PHST- 2024/01/15 00:00 [pmc-release]
+AID - 10.1002/cpz1.355 [doi]
+PST - ppublish
+SO  - Curr Protoc. 2022 Jan;2(1):e355. doi: 10.1002/cpz1.355.

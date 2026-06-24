@@ -1,0 +1,130 @@
+PMID- 35912790
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220928
+LR  - 20240905
+IS  - 1544-0591 (Electronic)
+IS  - 0022-0345 (Print)
+IS  - 0022-0345 (Linking)
+VI  - 101
+IP  - 11
+DP  - 2022 Oct
+TI  - FaceBase: A Community-Driven Hub for Data-Intensive Research.
+PG  - 1289-1298
+LID - 10.1177/00220345221107905 [doi]
+AB  - The FaceBase Consortium, funded by the National Institute of Dental and 
+      Craniofacial Research of the National Institutes of Health, was established in 
+      2009 with the recognition that dental and craniofacial research are increasingly 
+      data-intensive disciplines. Data sharing is critical for the validation and 
+      reproducibility of results as well as to enable reuse of data. In service of 
+      these goals, data ought to be FAIR: Findable, Accessible, Interoperable, and 
+      Reusable. The FaceBase data repository and educational resources exemplify the 
+      FAIR principles and support a broad user community including researchers in 
+      craniofacial development, molecular genetics, and genomics. FaceBase demonstrates 
+      that a model in which researchers "self-curate" their data can be successful and 
+      scalable. We present the results of the first 2.5 y of FaceBase's operations as 
+      an open community and summarize the data sets published during this period. We 
+      then describe a research highlight from work on the identification of regulatory 
+      networks and noncoding RNAs involved in cleft lip with/without cleft palate that 
+      both used and in turn contributed new findings to publicly available FaceBase 
+      resources. Collectively, FaceBase serves as a dynamic and continuously evolving 
+      resource to facilitate data-intensive research, enhance data reproducibility, and 
+      perform deep phenotyping across multiple species in dental and craniofacial 
+      research.
+FAU - Schuler, R E
+AU  - Schuler RE
+AUID- ORCID: 0000-0002-8956-5707
+AD  - Viterbi School of Engineering, Information Sciences Institute, University of 
+      Southern California, Marina del Rey, CA, USA.
+FAU - Bugacov, A
+AU  - Bugacov A
+AD  - Viterbi School of Engineering, Information Sciences Institute, University of 
+      Southern California, Marina del Rey, CA, USA.
+FAU - Hacia, J G
+AU  - Hacia JG
+AD  - Keck School of Medicine, Biochemistry and Molecular Medicine, University of 
+      Southern California, Los Angeles, CA, USA.
+FAU - Ho, T V
+AU  - Ho TV
+AD  - Ostrow School of Dentistry, Center for Craniofacial Molecular Biology, University 
+      of Southern California, Los Angeles, CA, USA.
+FAU - Iwata, J
+AU  - Iwata J
+AUID- ORCID: 0000-0003-3975-6836
+AD  - School of Dentistry, Diagnostic & Biomedical Sciences, The University of Texas 
+      Health Science Center at Houston, Houston, TX, USA.
+FAU - Pearlman, L
+AU  - Pearlman L
+AUID- ORCID: 0000-0002-0749-4707
+AD  - Viterbi School of Engineering, Information Sciences Institute, University of 
+      Southern California, Marina del Rey, CA, USA.
+FAU - Samuels, B D
+AU  - Samuels BD
+AD  - Ostrow School of Dentistry, Center for Craniofacial Molecular Biology, University 
+      of Southern California, Los Angeles, CA, USA.
+FAU - Williams, C
+AU  - Williams C
+AD  - Viterbi School of Engineering, Information Sciences Institute, University of 
+      Southern California, Marina del Rey, CA, USA.
+FAU - Zhao, Z
+AU  - Zhao Z
+AD  - School of Biomedical Informatics, Center for Precision Health, The University of 
+      Texas Health Science Center at Houston, Houston, TX, USA.
+FAU - Kesselman, C
+AU  - Kesselman C
+AD  - Viterbi School of Engineering, Information Sciences Institute, University of 
+      Southern California, Marina del Rey, CA, USA.
+FAU - Chai, Y
+AU  - Chai Y
+AD  - Ostrow School of Dentistry, Center for Craniofacial Molecular Biology, University 
+      of Southern California, Los Angeles, CA, USA.
+LA  - eng
+GR  - R03 DE026208/DE/NIDCR NIH HHS/United States
+GR  - R03 DE026509/DE/NIDCR NIH HHS/United States
+GR  - U01 DE028729/DE/NIDCR NIH HHS/United States
+GR  - R03 DE028340/DE/NIDCR NIH HHS/United States
+GR  - R01 DE030122/DE/NIDCR NIH HHS/United States
+GR  - R01 DE029818/DE/NIDCR NIH HHS/United States
+GR  - R03 DE028103/DE/NIDCR NIH HHS/United States
+GR  - R03 DE027711/DE/NIDCR NIH HHS/United States
+GR  - R03 DE027393/DE/NIDCR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20220731
+PL  - United States
+TA  - J Dent Res
+JT  - Journal of dental research
+JID - 0354343
+SB  - IM
+MH  - *Cleft Palate/genetics
+MH  - *Genomics
+MH  - Humans
+MH  - National Institutes of Health (U.S.)
+MH  - Publications
+MH  - Reproducibility of Results
+MH  - United States
+PMC - PMC9516628
+OTO - NOTNLM
+OT  - craniofacial abnormalities
+OT  - data curation
+OT  - developmental biology
+OT  - genomics
+OT  - molecular genetics
+OT  - morphogenesis
+COIS- Declaration of Conflicting Interests: The authors declared no potential conflicts 
+      of interest with respect to the research, authorship, and/or publication of this 
+      article.
+EDAT- 2022/08/02 06:00
+MHDA- 2022/09/28 06:00
+PMCR- 2023/10/01
+CRDT- 2022/08/01 05:33
+PHST- 2022/08/02 06:00 [pubmed]
+PHST- 2022/09/28 06:00 [medline]
+PHST- 2022/08/01 05:33 [entrez]
+PHST- 2023/10/01 00:00 [pmc-release]
+AID - 10.1177_00220345221107905 [pii]
+AID - 10.1177/00220345221107905 [doi]
+PST - ppublish
+SO  - J Dent Res. 2022 Oct;101(11):1289-1298. doi: 10.1177/00220345221107905. Epub 2022 
+      Jul 31.

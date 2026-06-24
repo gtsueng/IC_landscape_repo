@@ -1,0 +1,104 @@
+PMID- 38488505
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240502
+LR  - 20240505
+IS  - 1538-7445 (Electronic)
+IS  - 0008-5472 (Print)
+IS  - 0008-5472 (Linking)
+VI  - 84
+IP  - 9
+DP  - 2024 May 2
+TI  - NCI Cancer Research Data Commons: Core Standards and Services.
+PG  - 1384-1387
+LID - 10.1158/0008-5472.CAN-23-2655 [doi]
+AB  - The NCI Cancer Research Data Commons (CRDC) is a collection of data commons, 
+      analysis platforms, and tools that make existing cancer data more findable and 
+      accessible by the cancer research community. In practice, the two biggest hurdles 
+      to finding and using data for discovery are the wide variety of models and 
+      ontologies used to describe data, and the dispersed storage of that data. Here, 
+      we outline core CRDC services to aggregate descriptive information from multiple 
+      studies for findability via a single interface and to provide a single access 
+      method that spans multiple data commons. See related articles by Wang et al., p. 
+      1388, Pot et al., p. 1396, and Kim et al., p. 1404.
+CI  - ©2024 The Authors; Published by the American Association for Cancer Research.
+FAU - Brady, Arthur
+AU  - Brady A
+AUID- ORCID: 0000-0002-8809-2477
+AD  - General Dynamics Information Technology, Falls Church, Virginia.
+FAU - Charbonneau, Amanda
+AU  - Charbonneau A
+AUID- ORCID: 0000-0001-7376-7702
+AD  - General Dynamics Information Technology, Falls Church, Virginia.
+FAU - Grossman, Robert L
+AU  - Grossman RL
+AUID- ORCID: 0000-0003-3741-5739
+AD  - University of Chicago, Center for Translational Data Science, Chicago, Illinois.
+FAU - Creasy, Heather H
+AU  - Creasy HH
+AUID- ORCID: 0000-0002-1369-6882
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+FAU - Renner, Robinette
+AU  - Renner R
+AUID- ORCID: 0009-0001-6551-1034
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+FAU - Pihl, Todd
+AU  - Pihl T
+AUID- ORCID: 0000-0002-5471-3300
+AD  - Frederick National Laboratory for Cancer Research, Frederick, Maryland.
+FAU - Otridge, John
+AU  - Otridge J
+AUID- ORCID: 0009-0007-7018-916X
+AD  - Frederick National Laboratory for Cancer Research, Frederick, Maryland.
+FAU - Kim, Erika
+AU  - Kim E
+AUID- ORCID: 0000-0001-8799-9029
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+CN  - CRDC Program
+FAU - Barnholtz-Sloan, Jill S
+AU  - Barnholtz-Sloan JS
+AUID- ORCID: 0000-0001-6190-9304
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+AD  - Trans Divisional Research Program, Division of Cancer Epidemiology and Genetics, 
+      NCI, Rockville, Maryland.
+FAU - Kerlavage, Anthony R
+AU  - Kerlavage AR
+AUID- ORCID: 0000-0002-3954-9653
+AD  - Center for Biomedical Informatics and Information Technology, NCI, Rockville, 
+      Maryland.
+LA  - eng
+GR  - 75N91019D00024/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Cancer Res
+JT  - Cancer research
+JID - 2984705R
+SB  - IM
+MH  - Humans
+MH  - United States
+MH  - *Neoplasms/therapy
+MH  - *National Cancer Institute (U.S.)
+MH  - Biomedical Research/standards
+MH  - Databases, Factual
+PMC - PMC11067691
+EDAT- 2024/03/15 12:44
+MHDA- 2024/05/02 06:42
+PMCR- 2024/05/03
+CRDT- 2024/03/15 10:04
+PHST- 2023/09/08 00:00 [received]
+PHST- 2024/01/05 00:00 [revised]
+PHST- 2024/02/28 00:00 [accepted]
+PHST- 2024/05/02 06:42 [medline]
+PHST- 2024/03/15 12:44 [pubmed]
+PHST- 2024/03/15 10:04 [entrez]
+PHST- 2024/05/03 00:00 [pmc-release]
+AID - 735155 [pii]
+AID - CAN-23-2655 [pii]
+AID - 10.1158/0008-5472.CAN-23-2655 [doi]
+PST - ppublish
+SO  - Cancer Res. 2024 May 2;84(9):1384-1387. doi: 10.1158/0008-5472.CAN-23-2655.

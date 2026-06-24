@@ -1,0 +1,153 @@
+PMID- 29917015
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190225
+LR  - 20200215
+IS  - 2052-4463 (Electronic)
+IS  - 2052-4463 (Linking)
+VI  - 5
+DP  - 2018 Jun 19
+TI  - Sustainable data and metadata management at the BD2K-LINCS Data Coordination and 
+      Integration Center.
+PG  - 180117
+LID - 10.1038/sdata.2018.117 [doi]
+LID - 180117
+AB  - The NIH-funded LINCS Consortium is creating an extensive reference library of 
+      cell-based perturbation response signatures and sophisticated informatics tools 
+      incorporating a large number of perturbagens, model systems, and assays. To date, 
+      more than 350 datasets have been generated including transcriptomics, proteomics, 
+      epigenomics, cell phenotype and competitive binding profiling assays. The large 
+      volume and variety of data necessitate rigorous data standards and effective data 
+      management including modular data processing pipelines and end-user interfaces to 
+      facilitate accurate and reliable data exchange, curation, validation, 
+      standardization, aggregation, integration, and end user access. Deep metadata 
+      annotations and the use of qualified data standards enable integration with many 
+      external resources. Here we describe the end-to-end data processing and 
+      management at the DCIC to generate a high-quality and persistent product. Our 
+      data management and stewardship solutions enable a functioning Consortium and 
+      make LINCS a valuable scientific resource that aligns with big data initiatives 
+      such as the BD2K NIH Program and concords with emerging data science best 
+      practices including the findable, accessible, interoperable, and reusable (FAIR) 
+      principles.
+FAU - Stathias, Vasileios
+AU  - Stathias V
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Human Genetics and Genomics, Miller School of Medicine, University 
+      of Miami, Miami, FL 33136, USA.
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine, 
+      University of Miami, Miami, FL 33136, USA.
+FAU - Koleti, Amar
+AU  - Koleti A
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Center for Computational Science, University of Miami, Miami, FL 33146, USA.
+FAU - Vidović, Dušica
+AU  - Vidović D
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine, 
+      University of Miami, Miami, FL 33136, USA.
+AD  - Center for Computational Science, University of Miami, Miami, FL 33146, USA.
+FAU - Cooper, Daniel J
+AU  - Cooper DJ
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine, 
+      University of Miami, Miami, FL 33136, USA.
+FAU - Jagodnik, Kathleen M
+AU  - Jagodnik KM
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, 
+      New York, NY 10029, USA.
+FAU - Terryn, Raymond
+AU  - Terryn R
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine, 
+      University of Miami, Miami, FL 33136, USA.
+AD  - Center for Computational Science, University of Miami, Miami, FL 33146, USA.
+FAU - Forlin, Michele
+AU  - Forlin M
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine, 
+      University of Miami, Miami, FL 33136, USA.
+AD  - Center for Computational Science, University of Miami, Miami, FL 33146, USA.
+FAU - Chung, Caty
+AU  - Chung C
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Center for Computational Science, University of Miami, Miami, FL 33146, USA.
+FAU - Torre, Denis
+AU  - Torre D
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, 
+      New York, NY 10029, USA.
+FAU - Ayad, Nagi
+AU  - Ayad N
+AD  - Department of Psychiatry and Behavioral Sciences, University of Miami, Miami, FL 
+      33136, USA.
+FAU - Medvedovic, Mario
+AU  - Medvedovic M
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Division of Biostatistics and Bioinformatics, Department of Environmental Health, 
+      University of Cincinnati, Cincinnati, OH 45221, USA.
+FAU - Ma'ayan, Avi
+AU  - Ma'ayan A
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, 
+      New York, NY 10029, USA.
+FAU - Pillai, Ajay
+AU  - Pillai A
+AD  - Division of Genome Sciences, National Human Genome Research Institute, National 
+      Institutes of Health, Bethesda, MD 20891, USA.
+FAU - Schürer, Stephan C
+AU  - Schürer SC
+AUID- ORCID: 0000-0001-7180-0978
+AD  - BD2K-LINCS Data Coordination and Integration Center, University of Miami, Miami, 
+      FL 33136, USA.
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine, 
+      University of Miami, Miami, FL 33136, USA.
+AD  - Center for Computational Science, University of Miami, Miami, FL 33146, USA.
+LA  - eng
+GR  - OT3 OD025467/OD/NIH HHS/United States
+GR  - T32 HL007824/HL/NHLBI NIH HHS/United States
+GR  - U54 AI117925/AI/NIAID NIH HHS/United States
+GR  - U54 HL127624/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20180619
+PL  - England
+TA  - Sci Data
+JT  - Scientific data
+JID - 101640192
+SB  - IM
+MH  - Animals
+MH  - *Data Curation
+MH  - Datasets as Topic
+MH  - Humans
+MH  - Information Storage and Retrieval
+MH  - *Metadata
+MH  - National Institutes of Health (U.S.)
+MH  - United States
+PMC - PMC6007090
+COIS- The authors declare no competing interests.
+EDAT- 2018/06/20 06:00
+MHDA- 2019/02/26 06:00
+PMCR- 2018/06/19
+CRDT- 2018/06/20 06:00
+PHST- 2017/10/02 00:00 [received]
+PHST- 2018/05/11 00:00 [accepted]
+PHST- 2018/06/20 06:00 [entrez]
+PHST- 2018/06/20 06:00 [pubmed]
+PHST- 2019/02/26 06:00 [medline]
+PHST- 2018/06/19 00:00 [pmc-release]
+AID - sdata2018117 [pii]
+AID - 10.1038/sdata.2018.117 [doi]
+PST - epublish
+SO  - Sci Data. 2018 Jun 19;5:180117. doi: 10.1038/sdata.2018.117.

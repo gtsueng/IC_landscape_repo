@@ -1,0 +1,107 @@
+PMID- 40750795
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250801
+LR  - 20250807
+IS  - 2052-4463 (Electronic)
+IS  - 2052-4463 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2025 Aug 1
+TI  - Multimodal data curation via interoperability: use cases with the Medical Imaging 
+      and Data Resource Center.
+PG  - 1340
+LID - 10.1038/s41597-025-05678-2 [doi]
+LID - 1340
+AB  - Interoperability (the ability of data or tools from non-cooperating resources to 
+      integrate or work together with minimal effort) is particularly important for 
+      curation of multimodal datasets from multiple data sources. The Medical Imaging 
+      and Data Resource Center (MIDRC), a multi-institutional collaborative initiative 
+      to collect, curate, and share medical imaging datasets, has made interoperability 
+      with other data commons one of its top priorities. The purpose of this study was 
+      to demonstrate the interoperability between MIDRC and two other data 
+      repositories, BioData Catalyst (BDC) and National Clinical Cohort Collaborative 
+      (N3C). Using interoperability capabilities of the data repositories, we built two 
+      cohorts for example use cases, with each containing clinical and imaging data on 
+      matched patients. The representativeness of the cohorts is characterized by 
+      comparing with CDC population statistics using the Jensen-Shannon distance. The 
+      process and methods of interoperability demonstrated in this work can be utilized 
+      by MIDRC, BDC, and N3C users to create multimodal datasets for development of 
+      artificial intelligence/machine learning models.
+CI  - © 2025. The Author(s).
+FAU - Chen, Weijie
+AU  - Chen W
+AD  - Division of Imaging, Diagnostics, and Software Reliability, Office of Science and 
+      Engineering Laboratories, CDRH, US FDA, Silver Spring, MD, USA. 
+      weijie.chen@fda.hhs.gov.
+FAU - Whitney, Heather M
+AU  - Whitney HM
+AUID- ORCID: 0000-0002-7258-1102
+AD  - Department of Radiology, University of Chicago, Chicago, IL, USA. 
+      hwhitney@uchicago.edu.
+FAU - Kahaki, Seyed
+AU  - Kahaki S
+AD  - Division of Imaging, Diagnostics, and Software Reliability, Office of Science and 
+      Engineering Laboratories, CDRH, US FDA, Silver Spring, MD, USA.
+FAU - Meyer, Christopher
+AU  - Meyer C
+AD  - Center for Translational Data Science, University of Chicago, Chicago, IL, USA.
+FAU - Li, Hui
+AU  - Li H
+AD  - Department of Radiology, University of Chicago, Chicago, IL, USA.
+FAU - Sá, Rui Carlos
+AU  - Sá RC
+AD  - National Institute of Biomedical Imaging and Bioengineering, National Institutes 
+      of Health, Bethesda, MD, USA.
+AD  - Department of Medicine, University of California, San Diego, CA, USA.
+FAU - Lauderdale, Diane
+AU  - Lauderdale D
+AD  - Department of Public Health Sciences, University of Chicago, Chicago, IL, USA.
+FAU - Napel, Sandy
+AU  - Napel S
+AUID- ORCID: 0000-0002-6876-5507
+AD  - Department of Radiology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+FAU - Gersing, Kenneth
+AU  - Gersing K
+AD  - Office of the Director, National Center for Advancing Translational Sciences, 
+      National Institutes of Health, Bethesda, MD, USA.
+FAU - Grossman, Robert L
+AU  - Grossman RL
+AUID- ORCID: 0000-0003-3741-5739
+AD  - Center for Translational Data Science, University of Chicago, Chicago, IL, USA.
+FAU - Giger, Maryellen L
+AU  - Giger ML
+AUID- ORCID: 0000-0001-5482-9728
+AD  - Department of Radiology, University of Chicago, Chicago, IL, USA.
+LA  - eng
+GR  - 75N92020D00021/HL/NHLBI NIH HHS/United States
+PT  - Dataset
+PT  - Journal Article
+DEP - 20250801
+PL  - England
+TA  - Sci Data
+JT  - Scientific data
+JID - 101640192
+SB  - IM
+MH  - Humans
+MH  - *Data Curation
+MH  - *Diagnostic Imaging
+MH  - *Health Information Interoperability
+PMC - PMC12316880
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/08/02 10:44
+MHDA- 2025/08/02 10:45
+PMCR- 2025/08/01
+CRDT- 2025/08/01 23:27
+PHST- 2024/06/23 00:00 [received]
+PHST- 2025/07/23 00:00 [accepted]
+PHST- 2025/08/02 10:45 [medline]
+PHST- 2025/08/02 10:44 [pubmed]
+PHST- 2025/08/01 23:27 [entrez]
+PHST- 2025/08/01 00:00 [pmc-release]
+AID - 10.1038/s41597-025-05678-2 [pii]
+AID - 5678 [pii]
+AID - 10.1038/s41597-025-05678-2 [doi]
+PST - epublish
+SO  - Sci Data. 2025 Aug 1;12(1):1340. doi: 10.1038/s41597-025-05678-2.

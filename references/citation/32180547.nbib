@@ -1,0 +1,212 @@
+PMID- 32180547
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210414
+LR  - 20260523
+IS  - 2050-084X (Electronic)
+IS  - 2050-084X (Linking)
+VI  - 9
+DP  - 2020 Mar 17
+TI  - Wikidata as a knowledge graph for the life sciences.
+LID - 10.7554/eLife.52614 [doi]
+LID - e52614
+AB  - Wikidata is a community-maintained knowledge base that has been assembled from 
+      repositories in the fields of genomics, proteomics, genetic variants, pathways, 
+      chemical compounds, and diseases, and that adheres to the FAIR principles of 
+      findability, accessibility, interoperability and reusability. Here we describe 
+      the breadth and depth of the biomedical knowledge contained within Wikidata, and 
+      discuss the open-source tools we have built to add information to Wikidata and to 
+      synchronize it with source databases. We also demonstrate several use cases for 
+      Wikidata, including the crowdsourced curation of biomedical ontologies, 
+      phenotype-based diagnosis of disease, and drug repurposing.
+CI  - © 2020, Waagmeester et al.
+FAU - Waagmeester, Andra
+AU  - Waagmeester A
+AUID- ORCID: 0000-0001-9773-4008
+AD  - Micelio, Antwerpen, Belgium.
+FAU - Stupp, Gregory
+AU  - Stupp G
+AUID- ORCID: 0000-0002-0644-7212
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Burgstaller-Muehlbacher, Sebastian
+AU  - Burgstaller-Muehlbacher S
+AUID- ORCID: 0000-0003-4640-3510
+AD  - Center for Integrative Bioinformatics Vienna, Max Perutz Laboratories, University 
+      of Vienna and Medical University of Vienna, Vienna, Austria.
+FAU - Good, Benjamin M
+AU  - Good BM
+AUID- ORCID: 0000-0002-7334-7852
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Griffith, Malachi
+AU  - Griffith M
+AUID- ORCID: 0000-0002-6388-446X
+AD  - McDonnell Genome Institute, Washington University School of Medicine, St. Louis, 
+      United States.
+FAU - Griffith, Obi L
+AU  - Griffith OL
+AUID- ORCID: 0000-0002-0843-4271
+AD  - McDonnell Genome Institute, Washington University School of Medicine, St. Louis, 
+      United States.
+FAU - Hanspers, Kristina
+AU  - Hanspers K
+AUID- ORCID: 0000-0001-5410-599X
+AD  - Institute of Data Science and Biotechnology, Gladstone Institutes, San Francisco, 
+      United States.
+FAU - Hermjakob, Henning
+AU  - Hermjakob H
+AUID- ORCID: 0000-0001-8479-0262
+AD  - European Bioinformatics Institute (EMBL-EBI), Hinxton, United Kingdom.
+FAU - Hudson, Toby S
+AU  - Hudson TS
+AUID- ORCID: 0000-0002-3348-3622
+AD  - School of Chemistry, The University of Sydney, Sydney, Australia.
+FAU - Hybiske, Kevin
+AU  - Hybiske K
+AUID- ORCID: 0000-0002-2967-3079
+AD  - Division of Allergy and Infectious Diseases, Department of Medicine, University 
+      of Washington, Seattle, United States.
+FAU - Keating, Sarah M
+AU  - Keating SM
+AUID- ORCID: 0000-0002-3356-3542
+AD  - European Bioinformatics Institute (EMBL-EBI), Hinxton, United Kingdom.
+FAU - Manske, Magnus
+AU  - Manske M
+AUID- ORCID: 0000-0001-5916-0947
+AD  - Wellcome Trust Sanger Institute, Cambridge, United Kingdom.
+FAU - Mayers, Michael
+AU  - Mayers M
+AUID- ORCID: 0000-0002-7792-0150
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Mietchen, Daniel
+AU  - Mietchen D
+AUID- ORCID: 0000-0001-9488-1870
+AD  - School of Data Science, University of Virginia, Charlottesville, United States.
+FAU - Mitraka, Elvira
+AU  - Mitraka E
+AUID- ORCID: 0000-0003-0719-3485
+AD  - University of Maryland School of Medicine, Baltimore, United States.
+FAU - Pico, Alexander R
+AU  - Pico AR
+AUID- ORCID: 0000-0001-5706-2163
+AD  - Institute of Data Science and Biotechnology, Gladstone Institutes, San Francisco, 
+      United States.
+FAU - Putman, Timothy
+AU  - Putman T
+AUID- ORCID: 0000-0002-4291-0737
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Riutta, Anders
+AU  - Riutta A
+AUID- ORCID: 0000-0002-4693-0591
+AD  - Institute of Data Science and Biotechnology, Gladstone Institutes, San Francisco, 
+      United States.
+FAU - Queralt-Rosinach, Nuria
+AU  - Queralt-Rosinach N
+AUID- ORCID: 0000-0003-0169-8159
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Schriml, Lynn M
+AU  - Schriml LM
+AUID- ORCID: 0000-0001-8910-9851
+AD  - University of Maryland School of Medicine, Baltimore, United States.
+FAU - Shafee, Thomas
+AU  - Shafee T
+AUID- ORCID: 0000-0002-2298-7593
+AD  - Department of Animal Plant and Soil Sciences, La Trobe University, Melbourne, 
+      Australia.
+FAU - Slenter, Denise
+AU  - Slenter D
+AUID- ORCID: 0000-0001-8449-1318
+AD  - Department of Bioinformatics-BiGCaT, NUTRIM, Maastricht University, Maastricht, 
+      Netherlands.
+FAU - Stephan, Ralf
+AU  - Stephan R
+AUID- ORCID: 0000-0002-4650-631X
+AD  - Retired researcher, Berlin, Germany.
+FAU - Thornton, Katherine
+AU  - Thornton K
+AUID- ORCID: 0000-0002-4499-0451
+AD  - Yale University Library, Yale University, New Haven, United States.
+FAU - Tsueng, Ginger
+AU  - Tsueng G
+AUID- ORCID: 0000-0001-9536-9115
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Tu, Roger
+AU  - Tu R
+AUID- ORCID: 0000-0002-7899-1604
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Ul-Hasan, Sabah
+AU  - Ul-Hasan S
+AUID- ORCID: 0000-0001-6334-452X
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Willighagen, Egon
+AU  - Willighagen E
+AUID- ORCID: 0000-0001-7542-0286
+AD  - Department of Bioinformatics-BiGCaT, NUTRIM, Maastricht University, Maastricht, 
+      Netherlands.
+FAU - Wu, Chunlei
+AU  - Wu C
+AUID- ORCID: 0000-0002-2629-6124
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+FAU - Su, Andrew I
+AU  - Su AI
+AUID- ORCID: 0000-0002-9859-4104
+AD  - Department of Integrative Structural and Computational Biology, The Scripps 
+      Research Institute, La Jolla, United States.
+LA  - eng
+GR  - R01 AI126785/AI/NIAID NIH HHS/United States
+GR  - U54 GM114833/GM/NIGMS NIH HHS/United States
+GR  - R01 GM089820/GM/NIGMS NIH HHS/United States
+GR  - R00 HG007940/HG/NHGRI NIH HHS/United States
+GR  - R01 GM100039/GM/NIGMS NIH HHS/United States
+GR  - UL1 TR002550/TR/NCATS NIH HHS/United States
+GR  - U24 CA237719/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200317
+PL  - England
+TA  - Elife
+JT  - eLife
+JID - 101579614
+SB  - IM
+MH  - *Biological Science Disciplines
+MH  - *Computational Biology
+MH  - *Databases, Factual
+MH  - *Genomics
+MH  - Humans
+MH  - Pattern Recognition, Automated
+MH  - *Proteomics
+PMC - PMC7077981
+OTO - NOTNLM
+OT  - computational biology
+OT  - data mining
+OT  - drug repurposing
+OT  - knowledge graphs
+OT  - none
+OT  - science forum
+OT  - systems biology
+OT  - wikidata
+COIS- AW, GS, SB, BG, MG, OG, KH, HH, TH, KH, SK, MM, MM, DM, EM, AP, TP, AR, NQ, LS, 
+      TS, DS, RS, KT, GT, RT, SU, EW, CW, AS No competing interests declared
+EDAT- 2020/03/18 06:00
+MHDA- 2021/04/15 06:00
+PMCR- 2020/03/17
+CRDT- 2020/03/18 06:00
+PHST- 2019/10/09 00:00 [received]
+PHST- 2020/02/28 00:00 [accepted]
+PHST- 2020/03/18 06:00 [entrez]
+PHST- 2020/03/18 06:00 [pubmed]
+PHST- 2021/04/15 06:00 [medline]
+PHST- 2020/03/17 00:00 [pmc-release]
+AID - 52614 [pii]
+AID - 10.7554/eLife.52614 [doi]
+PST - epublish
+SO  - Elife. 2020 Mar 17;9:e52614. doi: 10.7554/eLife.52614.
