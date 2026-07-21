@@ -1,0 +1,44 @@
+PMID- 37069644
+OWN - NLM
+STAT- MEDLINE
+DP  - 2023 Apr 17
+TI  - Schema Playground: a tool for authoring, extending, and using metadata schemas
+      to improve FAIRness of biomedical data.
+PG  - 159
+LID - 10.1186/s12859-023-05258-4 [doi]
+AB  - BACKGROUND: Biomedical researchers are strongly encouraged to make their
+      research outputs more Findable, Accessible, Interoperable, and Reusable (FAIR).
+      We created an online browser-based tool that empowers researchers and repository
+      developers to utilize Schema.org or other biomedical schema projects. RESULTS:
+      Our browser-based tool includes features which can help address many of the
+      barriers towards Schema.org-compliance. We demonstrate the use of our tool with
+      the creation of the Outbreak.info schema. CONCLUSIONS: We have created a
+      browser-based tool to empower biomedical research resource providers to leverage
+      Schema.org classes to make their research outputs more FAIR.
+FAU - Cano, Marco A
+AU  - Cano MA
+AD  - The Scripps Research Institute, San Diego, USA.
+FAU - Tsueng, Ginger
+AU  - Tsueng G
+AD  - The Scripps Research Institute, San Diego, USA.
+FAU - Zhou, Xinghua
+AU  - Zhou X
+AD  - The Scripps Research Institute, San Diego, USA.
+FAU - Xin, Jiwen
+AU  - Xin J
+AD  - The Scripps Research Institute, San Diego, USA.
+FAU - Hughes, Laura D
+AU  - Hughes LD
+AD  - The Scripps Research Institute, San Diego, USA.
+FAU - Mullen, Julia L
+AU  - Mullen JL
+AD  - The Scripps Research Institute, San Diego, USA.
+FAU - Su, Andrew I
+AU  - Su AI
+AD  - The Scripps Research Institute, San Diego, USA.
+FAU - Wu, Chunlei
+AU  - Wu C
+AD  - The Scripps Research Institute, San Diego, USA.
+VI  - 24
+IP  - 1
+SO  - BMC Bioinformatics. 2023 Apr 17;24(1):159.

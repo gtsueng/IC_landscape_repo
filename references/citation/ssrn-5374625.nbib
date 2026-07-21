@@ -1,0 +1,40 @@
+STAT- Preprint
+LR  - 20250601
+IS  - 1556-5068 (Electronic)
+DP  - 2025
+TI  - Where is all the NIH data? A Landscape Analysis of the 150 NIH Repositories and
+      the Path Beyond the Mountains.
+LID - 10.2139/ssrn.5374625 [doi]
+AB  - The National Institutes of Health (NIH) is heavily invested in developing data
+      repositories. To date, the NIH has funded hundreds of separate repositories,
+      hosting exabytes of diverse data types that enable scientific research across
+      domains, organisms and diseases. These data drive scientific discovery and power
+      the secondary data use economy guided by principles of findability, accessibility,
+      interoperability and reusability (FAIR). While this explosion in data resources
+      should in theory make more data available for research, it also scales new
+      operational challenges. Looking beyond the FAIRness of the data hosted in the
+      repositories, we must examine the FAIRness of the repositories themselves. In this
+      paper, we report findings from landscape analysis of NIH repositories. Using a
+      structured search approach, we inventoried 143 active NIH repositories for the
+      types of data they contain, characterize the access mechanisms unique to each
+      repository, and estimate their operational costs based on publicly available
+      information on NIH Reporter. A total of 46 repositories (32.2%) hosted human
+      genomic data, 14 repositories (9.8%) held non-human genomic data, 33 repositories
+      (23.1%) included imaging data, and 38 repositories (26.6%) hosted clinical data.
+      Between 1989 and 2024, the NIH has allocated an estimated $6,718,994,379.00 for
+      repository development, with the National Cancer Institute as the largest
+      single-institute funder. We instead propose that funders should prioritize funding
+      for fewer, better connected data repositories that serve distinct purposes.
+FAU - Walsh, Bronwyn
+AU  - Walsh B
+AD  - Center for Medical Ethics and Health Policy, Baylor College of Medicine.
+FAU - Lawson, Jonathan
+AU  - Lawson J
+AD  - The Broad Institute of MIT and Harvard.
+FAU - Labrecque Nieves, Sofia
+AU  - Labrecque Nieves S
+AD  - The Broad Institute of MIT and Harvard.
+FAU - Rahimzadeh, Vasiliki
+AU  - Rahimzadeh V
+AD  - Center for Medical Ethics and Health Policy, Baylor College of Medicine.
+SO  - SSRN Electronic Journal. 2025. https://doi.org/10.2139/ssrn.5374625

@@ -1,0 +1,35 @@
+PMID- 37181330
+OWN - NLM
+STAT- MEDLINE
+DP  - 2023 Jul
+TI  - Cloud-based biomedical data storage and analysis for genomic research: Landscape
+      analysis of data governance in emerging NIH-supported platforms.
+PG  - 100196
+LID - 10.1016/j.xhgg.2023.100196 [doi]
+AB  - As genomic research increasingly moves to the cloud, understanding data
+      governance across NIH-supported platforms is essential. We reviewed 94 publicly
+      available documents from five NIH-funded cloud platforms (All of Us Research Hub,
+      NHGRI AnVIL, NHLBI BioData Catalyst, NCI Genomic Data Commons, and Kids First
+      Data Resource Center) and the dbGaP data sharing mechanism. Platforms were
+      analyzed across seven categories of data governance: data submission, data
+      ingestion, user authentication and authorization, data security, data access,
+      auditing, and sanctions. Similarities across platforms included reliance on a
+      formal data ingestion process, multiple tiers of data access with varying user
+      authentication and/or authorization requirements, platform and user security
+      measures, and auditing for inappropriate data use. Platforms differed in how data
+      tiers were organized and in the specifics of user authentication and authorization
+      across access tiers.
+FAU - Dahlquist, Jacklyn M
+AU  - Dahlquist JM
+AD  - Department of Bioethics and Humanities, University of Washington School of
+      Medicine, Seattle, WA 98195, USA.
+FAU - Nelson, Sarah C
+AU  - Nelson SC
+AD  - Department of Biostatistics, University of Washington, Seattle, WA 98195, USA.
+FAU - Fullerton, Stephanie M
+AU  - Fullerton SM
+AD  - Department of Bioethics and Humanities, University of Washington School of
+      Medicine, Seattle, WA 98195, USA.
+VI  - 4
+IP  - 3
+SO  - Hum Genet Genomics Adv. 2023 Jul 13;4(3):100196.
